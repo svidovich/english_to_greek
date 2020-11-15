@@ -1,1 +1,4997 @@
-[{"language": "greek", "english": "as", "translated_version": "όπως και"}, {"language": "greek", "english": "I", "translated_version": "Εγώ"}, {"language": "greek", "english": "his", "translated_version": "του"}, {"language": "greek", "english": "that", "translated_version": "ότι"}, {"language": "greek", "english": "he", "translated_version": "αυτός"}, {"language": "greek", "english": "was", "translated_version": "ήταν"}, {"language": "greek", "english": "for", "translated_version": "Για"}, {"language": "greek", "english": "on", "translated_version": "επί"}, {"language": "greek", "english": "are", "translated_version": "είναι"}, {"language": "greek", "english": "with", "translated_version": "με"}, {"language": "greek", "english": "they", "translated_version": "αυτοί"}, {"language": "greek", "english": "be", "translated_version": "είναι"}, {"language": "greek", "english": "at", "translated_version": "στο"}, {"language": "greek", "english": "one", "translated_version": "ένας"}, {"language": "greek", "english": "have", "translated_version": "έχω"}, {"language": "greek", "english": "this", "translated_version": "Αυτό"}, {"language": "greek", "english": "from", "translated_version": "από"}, {"language": "greek", "english": "by", "translated_version": "με"}, {"language": "greek", "english": "hot", "translated_version": "ζεστό"}, {"language": "greek", "english": "word", "translated_version": "λέξη"}, {"language": "greek", "english": "but", "translated_version": "αλλά"}, {"language": "greek", "english": "what", "translated_version": "τι"}, {"language": "greek", "english": "some", "translated_version": "μερικοί"}, {"language": "greek", "english": "is", "translated_version": "είναι"}, {"language": "greek", "english": "it", "translated_version": "το"}, {"language": "greek", "english": "you", "translated_version": "εσύ"}, {"language": "greek", "english": "or", "translated_version": "ή"}, {"language": "greek", "english": "had", "translated_version": "είχε"}, {"language": "greek", "english": "the", "translated_version": "ο"}, {"language": "greek", "english": "of", "translated_version": "του"}, {"language": "greek", "english": "to", "translated_version": "προς το"}, {"language": "greek", "english": "and", "translated_version": "και"}, {"language": "greek", "english": "a", "translated_version": "ένα"}, {"language": "greek", "english": "in", "translated_version": "σε"}, {"language": "greek", "english": "we", "translated_version": "εμείς"}, {"language": "greek", "english": "can", "translated_version": "μπορώ"}, {"language": "greek", "english": "out", "translated_version": "έξω"}, {"language": "greek", "english": "other", "translated_version": "άλλα"}, {"language": "greek", "english": "were", "translated_version": "ήταν"}, {"language": "greek", "english": "which", "translated_version": "οι οποίες"}, {"language": "greek", "english": "do", "translated_version": "κάνω"}, {"language": "greek", "english": "their", "translated_version": "δικα τους"}, {"language": "greek", "english": "time", "translated_version": "χρόνος"}, {"language": "greek", "english": "if", "translated_version": "αν"}, {"language": "greek", "english": "will", "translated_version": "θα"}, {"language": "greek", "english": "how", "translated_version": "πως"}, {"language": "greek", "english": "said", "translated_version": "είπε"}, {"language": "greek", "english": "an", "translated_version": "ένα"}, {"language": "greek", "english": "each", "translated_version": "καθε"}, {"language": "greek", "english": "tell", "translated_version": "λέγω"}, {"language": "greek", "english": "does", "translated_version": "κάνει"}, {"language": "greek", "english": "set", "translated_version": "σειρά"}, {"language": "greek", "english": "three", "translated_version": "τρία"}, {"language": "greek", "english": "want", "translated_version": "θέλω"}, {"language": "greek", "english": "air", "translated_version": "αέρας"}, {"language": "greek", "english": "well", "translated_version": "Καλά"}, {"language": "greek", "english": "also", "translated_version": "επίσης"}, {"language": "greek", "english": "play", "translated_version": "παίζω"}, {"language": "greek", "english": "small", "translated_version": "μικρό"}, {"language": "greek", "english": "end", "translated_version": "τέλος"}, {"language": "greek", "english": "put", "translated_version": "βάζω"}, {"language": "greek", "english": "home", "translated_version": "Σπίτι"}, {"language": "greek", "english": "read", "translated_version": "ανάγνωση"}, {"language": "greek", "english": "hand", "translated_version": "χέρι"}, {"language": "greek", "english": "port", "translated_version": "Λιμάνι"}, {"language": "greek", "english": "large", "translated_version": "μεγάλο"}, {"language": "greek", "english": "spell", "translated_version": "σημαίνω"}, {"language": "greek", "english": "add", "translated_version": "Προσθήκη"}, {"language": "greek", "english": "even", "translated_version": "ακόμη και"}, {"language": "greek", "english": "land", "translated_version": "γη"}, {"language": "greek", "english": "here", "translated_version": "εδώ"}, {"language": "greek", "english": "must", "translated_version": "πρέπει"}, {"language": "greek", "english": "big", "translated_version": "μεγάλο"}, {"language": "greek", "english": "high", "translated_version": "υψηλός"}, {"language": "greek", "english": "such", "translated_version": "τέτοιος"}, {"language": "greek", "english": "follow", "translated_version": "ακολουθηστε"}, {"language": "greek", "english": "act", "translated_version": "υποκρίνομαι"}, {"language": "greek", "english": "why", "translated_version": "Γιατί"}, {"language": "greek", "english": "ask", "translated_version": "παρακαλώ"}, {"language": "greek", "english": "men", "translated_version": "άνδρες"}, {"language": "greek", "english": "change", "translated_version": "αλλαγή"}, {"language": "greek", "english": "went", "translated_version": "πήγε"}, {"language": "greek", "english": "light", "translated_version": "φως"}, {"language": "greek", "english": "kind", "translated_version": "είδος"}, {"language": "greek", "english": "off", "translated_version": "μακριά από"}, {"language": "greek", "english": "need", "translated_version": "χρειάζομαι"}, {"language": "greek", "english": "house", "translated_version": "σπίτι"}, {"language": "greek", "english": "picture", "translated_version": "εικόνα"}, {"language": "greek", "english": "try", "translated_version": "δοκιμάστε"}, {"language": "greek", "english": "us", "translated_version": "μας"}, {"language": "greek", "english": "again", "translated_version": "πάλι"}, {"language": "greek", "english": "animal", "translated_version": "ζώο"}, {"language": "greek", "english": "point", "translated_version": "σημείο"}, {"language": "greek", "english": "mother", "translated_version": "μητέρα"}, {"language": "greek", "english": "world", "translated_version": "κόσμος"}, {"language": "greek", "english": "near", "translated_version": "κοντά"}, {"language": "greek", "english": "build", "translated_version": "χτίζω"}, {"language": "greek", "english": "self", "translated_version": "εαυτός"}, {"language": "greek", "english": "earth", "translated_version": "γη"}, {"language": "greek", "english": "father", "translated_version": "πατέρας"}, {"language": "greek", "english": "any", "translated_version": "όποιος"}, {"language": "greek", "english": "new", "translated_version": "νέος"}, {"language": "greek", "english": "work", "translated_version": "δουλειά"}, {"language": "greek", "english": "part", "translated_version": "μέρος"}, {"language": "greek", "english": "take", "translated_version": "παίρνω"}, {"language": "greek", "english": "get", "translated_version": "παίρνω"}, {"language": "greek", "english": "place", "translated_version": "θέση"}, {"language": "greek", "english": "made", "translated_version": "έκανε"}, {"language": "greek", "english": "live", "translated_version": "ζω"}, {"language": "greek", "english": "where", "translated_version": "όπου"}, {"language": "greek", "english": "after", "translated_version": "μετά"}, {"language": "greek", "english": "back", "translated_version": "πίσω"}, {"language": "greek", "english": "little", "translated_version": "λίγο"}, {"language": "greek", "english": "only", "translated_version": "μόνο"}, {"language": "greek", "english": "round", "translated_version": "γύρος"}, {"language": "greek", "english": "man", "translated_version": "άνδρας"}, {"language": "greek", "english": "year", "translated_version": "έτος"}, {"language": "greek", "english": "came", "translated_version": "ήρθε"}, {"language": "greek", "english": "show", "translated_version": "προβολή"}, {"language": "greek", "english": "every", "translated_version": "κάθε"}, {"language": "greek", "english": "good", "translated_version": "Καλός"}, {"language": "greek", "english": "me", "translated_version": "μου"}, {"language": "greek", "english": "give", "translated_version": "δίνω"}, {"language": "greek", "english": "our", "translated_version": "μας"}, {"language": "greek", "english": "under", "translated_version": "κάτω από"}, {"language": "greek", "english": "name", "translated_version": "όνομα"}, {"language": "greek", "english": "very", "translated_version": "πολύ"}, {"language": "greek", "english": "through", "translated_version": "διά μέσου"}, {"language": "greek", "english": "just", "translated_version": "μόλις"}, {"language": "greek", "english": "form", "translated_version": "μορφή"}, {"language": "greek", "english": "sentence", "translated_version": "πρόταση"}, {"language": "greek", "english": "great", "translated_version": "μεγάλος"}, {"language": "greek", "english": "think", "translated_version": "νομίζω"}, {"language": "greek", "english": "say", "translated_version": "λένε"}, {"language": "greek", "english": "help", "translated_version": "βοήθεια"}, {"language": "greek", "english": "low", "translated_version": "χαμηλός"}, {"language": "greek", "english": "line", "translated_version": "γραμμή"}, {"language": "greek", "english": "differ", "translated_version": "διαφέρω"}, {"language": "greek", "english": "turn", "translated_version": "στροφή"}, {"language": "greek", "english": "cause", "translated_version": "αιτία"}, {"language": "greek", "english": "much", "translated_version": "πολύ"}, {"language": "greek", "english": "mean", "translated_version": "σημαίνω"}, {"language": "greek", "english": "before", "translated_version": "πριν"}, {"language": "greek", "english": "move", "translated_version": "κίνηση"}, {"language": "greek", "english": "right", "translated_version": "σωστά"}, {"language": "greek", "english": "boy", "translated_version": "αγόρι"}, {"language": "greek", "english": "old", "translated_version": "παλαιός"}, {"language": "greek", "english": "too", "translated_version": "πολύ"}, {"language": "greek", "english": "same", "translated_version": "ίδιο"}, {"language": "greek", "english": "she", "translated_version": "αυτή"}, {"language": "greek", "english": "all", "translated_version": "όλα"}, {"language": "greek", "english": "there", "translated_version": "εκεί"}, {"language": "greek", "english": "when", "translated_version": "πότε"}, {"language": "greek", "english": "up", "translated_version": "πάνω"}, {"language": "greek", "english": "use", "translated_version": "χρήση"}, {"language": "greek", "english": "your", "translated_version": "τα δικα σου"}, {"language": "greek", "english": "way", "translated_version": "τρόπος"}, {"language": "greek", "english": "about", "translated_version": "σχετικά με"}, {"language": "greek", "english": "many", "translated_version": "Πολλά"}, {"language": "greek", "english": "then", "translated_version": "τότε"}, {"language": "greek", "english": "them", "translated_version": "τους"}, {"language": "greek", "english": "write", "translated_version": "γράφω"}, {"language": "greek", "english": "would", "translated_version": "θα"}, {"language": "greek", "english": "like", "translated_version": "αρέσει"}, {"language": "greek", "english": "so", "translated_version": "Έτσι"}, {"language": "greek", "english": "these", "translated_version": "αυτά τα"}, {"language": "greek", "english": "her", "translated_version": "αυτήν"}, {"language": "greek", "english": "long", "translated_version": "μακρύς"}, {"language": "greek", "english": "make", "translated_version": "φτιαχνω, κανω"}, {"language": "greek", "english": "thing", "translated_version": "πράγμα"}, {"language": "greek", "english": "see", "translated_version": "βλέπω"}, {"language": "greek", "english": "him", "translated_version": "αυτόν"}, {"language": "greek", "english": "two", "translated_version": "δύο"}, {"language": "greek", "english": "has", "translated_version": "έχει"}, {"language": "greek", "english": "look", "translated_version": "Κοίτα"}, {"language": "greek", "english": "more", "translated_version": "περισσότερο"}, {"language": "greek", "english": "day", "translated_version": "ημέρα"}, {"language": "greek", "english": "could", "translated_version": "θα μπορούσε"}, {"language": "greek", "english": "go", "translated_version": "πηγαίνω"}, {"language": "greek", "english": "come", "translated_version": "Έλα"}, {"language": "greek", "english": "did", "translated_version": "έκανε"}, {"language": "greek", "english": "number", "translated_version": "αριθμός"}, {"language": "greek", "english": "sound", "translated_version": "ήχος"}, {"language": "greek", "english": "no", "translated_version": "όχι"}, {"language": "greek", "english": "most", "translated_version": "πλέον"}, {"language": "greek", "english": "people", "translated_version": "Ανθρωποι"}, {"language": "greek", "english": "my", "translated_version": "μου"}, {"language": "greek", "english": "over", "translated_version": "πάνω από"}, {"language": "greek", "english": "know", "translated_version": "ξέρω"}, {"language": "greek", "english": "water", "translated_version": "νερό"}, {"language": "greek", "english": "than", "translated_version": "από"}, {"language": "greek", "english": "call", "translated_version": "κλήση"}, {"language": "greek", "english": "first", "translated_version": "πρώτα"}, {"language": "greek", "english": "who", "translated_version": "που"}, {"language": "greek", "english": "may", "translated_version": "ενδέχεται"}, {"language": "greek", "english": "down", "translated_version": "κάτω"}, {"language": "greek", "english": "side", "translated_version": "πλευρά"}, {"language": "greek", "english": "been", "translated_version": "ήταν"}, {"language": "greek", "english": "now", "translated_version": "τώρα"}, {"language": "greek", "english": "find", "translated_version": "εύρημα"}, {"language": "greek", "english": "head", "translated_version": "κεφάλι"}, {"language": "greek", "english": "stand", "translated_version": "στάση"}, {"language": "greek", "english": "own", "translated_version": "το δικό"}, {"language": "greek", "english": "page", "translated_version": "σελίδα"}, {"language": "greek", "english": "should", "translated_version": "πρέπει"}, {"language": "greek", "english": "country", "translated_version": "Χώρα"}, {"language": "greek", "english": "found", "translated_version": "βρέθηκαν"}, {"language": "greek", "english": "answer", "translated_version": "απάντηση"}, {"language": "greek", "english": "school", "translated_version": "σχολείο"}, {"language": "greek", "english": "grow", "translated_version": "καλλιεργώ"}, {"language": "greek", "english": "study", "translated_version": "μελέτη"}, {"language": "greek", "english": "still", "translated_version": "ακόμη"}, {"language": "greek", "english": "learn", "translated_version": "μαθαίνω"}, {"language": "greek", "english": "plant", "translated_version": "φυτό"}, {"language": "greek", "english": "cover", "translated_version": "κάλυμμα"}, {"language": "greek", "english": "food", "translated_version": "τροφή"}, {"language": "greek", "english": "sun", "translated_version": "ήλιος"}, {"language": "greek", "english": "four", "translated_version": "τέσσερα"}, {"language": "greek", "english": "between", "translated_version": "μεταξύ"}, {"language": "greek", "english": "state", "translated_version": "κατάσταση"}, {"language": "greek", "english": "keep", "translated_version": "διατήρηση"}, {"language": "greek", "english": "eye", "translated_version": "μάτι"}, {"language": "greek", "english": "never", "translated_version": "ποτέ"}, {"language": "greek", "english": "last", "translated_version": "τελευταίος"}, {"language": "greek", "english": "let", "translated_version": "αφήνω"}, {"language": "greek", "english": "thought", "translated_version": "σκέψη"}, {"language": "greek", "english": "city", "translated_version": "πόλη"}, {"language": "greek", "english": "tree", "translated_version": "δέντρο"}, {"language": "greek", "english": "cross", "translated_version": "σταυρός"}, {"language": "greek", "english": "farm", "translated_version": "αγρόκτημα"}, {"language": "greek", "english": "hard", "translated_version": "σκληρά"}, {"language": "greek", "english": "start", "translated_version": "αρχή"}, {"language": "greek", "english": "might", "translated_version": "θα μπορούσε"}, {"language": "greek", "english": "story", "translated_version": "ιστορία"}, {"language": "greek", "english": "saw", "translated_version": "είδε"}, {"language": "greek", "english": "far", "translated_version": "μακριά"}, {"language": "greek", "english": "sea", "translated_version": "θάλασσα"}, {"language": "greek", "english": "draw", "translated_version": "σχεδιάζω"}, {"language": "greek", "english": "left", "translated_version": "αριστερά"}, {"language": "greek", "english": "late", "translated_version": "αργά"}, {"language": "greek", "english": "run", "translated_version": "τρέξιμο"}, {"language": "greek", "english": "don’t", "translated_version": "όχι"}, {"language": "greek", "english": "while", "translated_version": "ενώ"}, {"language": "greek", "english": "press", "translated_version": "τύπος"}, {"language": "greek", "english": "close", "translated_version": "Κλείσε"}, {"language": "greek", "english": "night", "translated_version": "Νύχτα"}, {"language": "greek", "english": "real", "translated_version": "πραγματικός"}, {"language": "greek", "english": "life", "translated_version": "ΖΩΗ"}, {"language": "greek", "english": "few", "translated_version": "λίγοι"}, {"language": "greek", "english": "north", "translated_version": "Βόρειος"}, {"language": "greek", "english": "book", "translated_version": "Βιβλίο"}, {"language": "greek", "english": "carry", "translated_version": "μεταφέρω"}, {"language": "greek", "english": "took", "translated_version": "πήρε"}, {"language": "greek", "english": "science", "translated_version": "επιστήμη"}, {"language": "greek", "english": "eat", "translated_version": "τρώω"}, {"language": "greek", "english": "room", "translated_version": "δωμάτιο"}, {"language": "greek", "english": "friend", "translated_version": "φίλος"}, {"language": "greek", "english": "began", "translated_version": "ξεκίνησε"}, {"language": "greek", "english": "idea", "translated_version": "ιδέα"}, {"language": "greek", "english": "fish", "translated_version": "ψάρι"}, {"language": "greek", "english": "mountain", "translated_version": "βουνό"}, {"language": "greek", "english": "stop", "translated_version": "να σταματήσει"}, {"language": "greek", "english": "once", "translated_version": "μια φορά"}, {"language": "greek", "english": "base", "translated_version": "βάση"}, {"language": "greek", "english": "hear", "translated_version": "ακούω"}, {"language": "greek", "english": "horse", "translated_version": "άλογο"}, {"language": "greek", "english": "cut", "translated_version": "Τομή"}, {"language": "greek", "english": "sure", "translated_version": "σίγουρος"}, {"language": "greek", "english": "watch", "translated_version": "ρολόι"}, {"language": "greek", "english": "color", "translated_version": "χρώμα"}, {"language": "greek", "english": "face", "translated_version": "πρόσωπο"}, {"language": "greek", "english": "wood", "translated_version": "ξύλο"}, {"language": "greek", "english": "main", "translated_version": "κύριος"}, {"language": "greek", "english": "open", "translated_version": "Άνοιξε"}, {"language": "greek", "english": "seem", "translated_version": "φαίνομαι"}, {"language": "greek", "english": "together", "translated_version": "μαζί"}, {"language": "greek", "english": "next", "translated_version": "Επόμενο"}, {"language": "greek", "english": "white", "translated_version": "άσπρο"}, {"language": "greek", "english": "children", "translated_version": "παιδιά"}, {"language": "greek", "english": "begin", "translated_version": "αρχίσει"}, {"language": "greek", "english": "got", "translated_version": "πήρα"}, {"language": "greek", "english": "walk", "translated_version": "Περπατήστε"}, {"language": "greek", "english": "example", "translated_version": "παράδειγμα"}, {"language": "greek", "english": "ease", "translated_version": "ευκολία"}, {"language": "greek", "english": "paper", "translated_version": "χαρτί"}, {"language": "greek", "english": "group", "translated_version": "ομάδα"}, {"language": "greek", "english": "always", "translated_version": "πάντα"}, {"language": "greek", "english": "music", "translated_version": "ΜΟΥΣΙΚΗ"}, {"language": "greek", "english": "those", "translated_version": "εκείνοι"}, {"language": "greek", "english": "both", "translated_version": "και τα δυο"}, {"language": "greek", "english": "mark", "translated_version": "σημάδι"}, {"language": "greek", "english": "often", "translated_version": "συχνά"}, {"language": "greek", "english": "letter", "translated_version": "γράμμα"}, {"language": "greek", "english": "until", "translated_version": "μέχρι"}, {"language": "greek", "english": "mile", "translated_version": "μίλι"}, {"language": "greek", "english": "river", "translated_version": "ποτάμι"}, {"language": "greek", "english": "car", "translated_version": "αυτοκίνητο"}, {"language": "greek", "english": "feet", "translated_version": "πόδια"}, {"language": "greek", "english": "care", "translated_version": "Φροντίδα"}, {"language": "greek", "english": "second", "translated_version": "δεύτερος"}, {"language": "greek", "english": "enough", "translated_version": "αρκετά"}, {"language": "greek", "english": "plain", "translated_version": "πεδιάδα"}, {"language": "greek", "english": "girl", "translated_version": "κορίτσι"}, {"language": "greek", "english": "usual", "translated_version": "συνήθης"}, {"language": "greek", "english": "young", "translated_version": "νέος"}, {"language": "greek", "english": "ready", "translated_version": "έτοιμος"}, {"language": "greek", "english": "above", "translated_version": "πάνω από"}, {"language": "greek", "english": "ever", "translated_version": "πάντα"}, {"language": "greek", "english": "red", "translated_version": "το κόκκινο"}, {"language": "greek", "english": "list", "translated_version": "λίστα"}, {"language": "greek", "english": "though", "translated_version": "αν και"}, {"language": "greek", "english": "feel", "translated_version": "αφή"}, {"language": "greek", "english": "talk", "translated_version": "ΜΙΛΑ ρε"}, {"language": "greek", "english": "bird", "translated_version": "πουλί"}, {"language": "greek", "english": "soon", "translated_version": "σύντομα"}, {"language": "greek", "english": "body", "translated_version": "σώμα"}, {"language": "greek", "english": "dog", "translated_version": "σκύλος"}, {"language": "greek", "english": "family", "translated_version": "οικογένεια"}, {"language": "greek", "english": "direct", "translated_version": "απευθείας"}, {"language": "greek", "english": "pose", "translated_version": "στάση"}, {"language": "greek", "english": "leave", "translated_version": "άδεια"}, {"language": "greek", "english": "song", "translated_version": "τραγούδι"}, {"language": "greek", "english": "measure", "translated_version": "μετρούν"}, {"language": "greek", "english": "door", "translated_version": "πόρτα"}, {"language": "greek", "english": "product", "translated_version": "προϊόν"}, {"language": "greek", "english": "black", "translated_version": "μαύρος"}, {"language": "greek", "english": "short", "translated_version": "μικρός"}, {"language": "greek", "english": "numeral", "translated_version": "αριθμός"}, {"language": "greek", "english": "class", "translated_version": "τάξη"}, {"language": "greek", "english": "wind", "translated_version": "άνεμος"}, {"language": "greek", "english": "question", "translated_version": "ερώτηση"}, {"language": "greek", "english": "happen", "translated_version": "συμβεί"}, {"language": "greek", "english": "complete", "translated_version": "πλήρης"}, {"language": "greek", "english": "ship", "translated_version": "πλοίο"}, {"language": "greek", "english": "area", "translated_version": "περιοχή"}, {"language": "greek", "english": "half", "translated_version": "τα μισα"}, {"language": "greek", "english": "rock", "translated_version": "βράχος"}, {"language": "greek", "english": "order", "translated_version": "Σειρά"}, {"language": "greek", "english": "fire", "translated_version": "Φωτιά"}, {"language": "greek", "english": "south", "translated_version": "Νότος"}, {"language": "greek", "english": "problem", "translated_version": "πρόβλημα"}, {"language": "greek", "english": "piece", "translated_version": "κομμάτι"}, {"language": "greek", "english": "told", "translated_version": "είπε"}, {"language": "greek", "english": "knew", "translated_version": "ήξερα"}, {"language": "greek", "english": "pass", "translated_version": "πέρασμα"}, {"language": "greek", "english": "since", "translated_version": "Από"}, {"language": "greek", "english": "top", "translated_version": "μπλουζα"}, {"language": "greek", "english": "whole", "translated_version": "ολόκληρος"}, {"language": "greek", "english": "king", "translated_version": "Βασιλιάς"}, {"language": "greek", "english": "street", "translated_version": "δρόμος"}, {"language": "greek", "english": "inch", "translated_version": "ίντσα"}, {"language": "greek", "english": "multiply", "translated_version": "πολλαπλασιάζω"}, {"language": "greek", "english": "nothing", "translated_version": "τίποτα"}, {"language": "greek", "english": "course", "translated_version": "σειρά μαθημάτων"}, {"language": "greek", "english": "stay", "translated_version": "διαμονή"}, {"language": "greek", "english": "wheel", "translated_version": "ρόδα"}, {"language": "greek", "english": "full", "translated_version": "γεμάτος"}, {"language": "greek", "english": "force", "translated_version": "δύναμη"}, {"language": "greek", "english": "blue", "translated_version": "μπλε"}, {"language": "greek", "english": "object", "translated_version": "αντικείμενο"}, {"language": "greek", "english": "decide", "translated_version": "αποφασίζω"}, {"language": "greek", "english": "surface", "translated_version": "επιφάνεια"}, {"language": "greek", "english": "deep", "translated_version": "βαθύς"}, {"language": "greek", "english": "moon", "translated_version": "φεγγάρι"}, {"language": "greek", "english": "island", "translated_version": "νησί"}, {"language": "greek", "english": "foot", "translated_version": "πόδι"}, {"language": "greek", "english": "system", "translated_version": "Σύστημα"}, {"language": "greek", "english": "busy", "translated_version": "απασχολημένος"}, {"language": "greek", "english": "test", "translated_version": "δοκιμή"}, {"language": "greek", "english": "record", "translated_version": "Ρεκόρ"}, {"language": "greek", "english": "boat", "translated_version": "σκάφος"}, {"language": "greek", "english": "common", "translated_version": "κοινός"}, {"language": "greek", "english": "gold", "translated_version": "χρυσός"}, {"language": "greek", "english": "possible", "translated_version": "δυνατόν"}, {"language": "greek", "english": "plane", "translated_version": "επίπεδο"}, {"language": "greek", "english": "stead", "translated_version": "θέση"}, {"language": "greek", "english": "dry", "translated_version": "στεγνός"}, {"language": "greek", "english": "wonder", "translated_version": "θαύμα"}, {"language": "greek", "english": "laugh", "translated_version": "γέλιο"}, {"language": "greek", "english": "thousand", "translated_version": "χίλια"}, {"language": "greek", "english": "ago", "translated_version": "πριν"}, {"language": "greek", "english": "ran", "translated_version": "έτρεξα"}, {"language": "greek", "english": "check", "translated_version": "έλεγχος"}, {"language": "greek", "english": "game", "translated_version": "παιχνίδι"}, {"language": "greek", "english": "shape", "translated_version": "σχήμα"}, {"language": "greek", "english": "equate", "translated_version": "εξισώνω"}, {"language": "greek", "english": "miss", "translated_version": "δεσποινίδα"}, {"language": "greek", "english": "brought", "translated_version": "έφερε"}, {"language": "greek", "english": "heat", "translated_version": "θερμότητα"}, {"language": "greek", "english": "snow", "translated_version": "χιόνι"}, {"language": "greek", "english": "tire", "translated_version": "λάστιχο"}, {"language": "greek", "english": "bring", "translated_version": "να φερεις"}, {"language": "greek", "english": "yes", "translated_version": "Ναί"}, {"language": "greek", "english": "distant", "translated_version": "μακρινός"}, {"language": "greek", "english": "fill", "translated_version": "γέμισμα"}, {"language": "greek", "english": "east", "translated_version": "Ανατολή"}, {"language": "greek", "english": "paint", "translated_version": "χρώμα"}, {"language": "greek", "english": "language", "translated_version": "Γλώσσα"}, {"language": "greek", "english": "among", "translated_version": "αναμεταξύ"}, {"language": "greek", "english": "unit", "translated_version": "μονάδα"}, {"language": "greek", "english": "power", "translated_version": "εξουσία"}, {"language": "greek", "english": "town", "translated_version": "πόλη"}, {"language": "greek", "english": "fine", "translated_version": "πρόστιμο"}, {"language": "greek", "english": "certain", "translated_version": "βέβαιος"}, {"language": "greek", "english": "fly", "translated_version": "πετώ"}, {"language": "greek", "english": "fall", "translated_version": "πτώση"}, {"language": "greek", "english": "lead", "translated_version": "οδηγω"}, {"language": "greek", "english": "cry", "translated_version": "κραυγή"}, {"language": "greek", "english": "dark", "translated_version": "σκοτάδι"}, {"language": "greek", "english": "machine", "translated_version": "μηχανή"}, {"language": "greek", "english": "note", "translated_version": "Σημείωση"}, {"language": "greek", "english": "wait", "translated_version": "Περίμενε"}, {"language": "greek", "english": "plan", "translated_version": "σχέδιο"}, {"language": "greek", "english": "figure", "translated_version": "εικόνα"}, {"language": "greek", "english": "star", "translated_version": "αστέρι"}, {"language": "greek", "english": "box", "translated_version": "κουτί"}, {"language": "greek", "english": "noun", "translated_version": "ουσιαστικό"}, {"language": "greek", "english": "field", "translated_version": "πεδίο"}, {"language": "greek", "english": "rest", "translated_version": "υπόλοιπο"}, {"language": "greek", "english": "correct", "translated_version": "σωστός"}, {"language": "greek", "english": "able", "translated_version": "ικανός"}, {"language": "greek", "english": "pound", "translated_version": "λίβρα"}, {"language": "greek", "english": "done", "translated_version": "Έγινε"}, {"language": "greek", "english": "beauty", "translated_version": "ομορφιά"}, {"language": "greek", "english": "drive", "translated_version": "οδηγώ"}, {"language": "greek", "english": "stood", "translated_version": "στάθηκε"}, {"language": "greek", "english": "contain", "translated_version": "περιέχω"}, {"language": "greek", "english": "front", "translated_version": "εμπρός"}, {"language": "greek", "english": "teach", "translated_version": "διδάσκω"}, {"language": "greek", "english": "week", "translated_version": "εβδομάδα"}, {"language": "greek", "english": "final", "translated_version": "τελικός"}, {"language": "greek", "english": "gave", "translated_version": "έδωσε"}, {"language": "greek", "english": "green", "translated_version": "πράσινος"}, {"language": "greek", "english": "oh", "translated_version": "Ω"}, {"language": "greek", "english": "quick", "translated_version": "γρήγορα"}, {"language": "greek", "english": "develop", "translated_version": "αναπτύσσω"}, {"language": "greek", "english": "ocean", "translated_version": "ωκεανός"}, {"language": "greek", "english": "warm", "translated_version": "ζεστός"}, {"language": "greek", "english": "free", "translated_version": "Ελεύθερος"}, {"language": "greek", "english": "minute", "translated_version": "λεπτό"}, {"language": "greek", "english": "strong", "translated_version": "ισχυρός"}, {"language": "greek", "english": "special", "translated_version": "ειδικός"}, {"language": "greek", "english": "mind", "translated_version": "μυαλό"}, {"language": "greek", "english": "behind", "translated_version": "πίσω"}, {"language": "greek", "english": "clear", "translated_version": "Σαφή"}, {"language": "greek", "english": "tail", "translated_version": "ουρά"}, {"language": "greek", "english": "produce", "translated_version": "παράγω"}, {"language": "greek", "english": "fact", "translated_version": "γεγονός"}, {"language": "greek", "english": "space", "translated_version": "χώρος"}, {"language": "greek", "english": "heard", "translated_version": "ακούστηκε"}, {"language": "greek", "english": "best", "translated_version": "καλύτερος"}, {"language": "greek", "english": "hour", "translated_version": "ώρα"}, {"language": "greek", "english": "better", "translated_version": "καλύτερα"}, {"language": "greek", "english": "true", "translated_version": "αληθής"}, {"language": "greek", "english": "during", "translated_version": "στη διάρκεια"}, {"language": "greek", "english": "hundred", "translated_version": "εκατό"}, {"language": "greek", "english": "five", "translated_version": "πέντε"}, {"language": "greek", "english": "remember", "translated_version": "θυμάμαι"}, {"language": "greek", "english": "step", "translated_version": "βήμα"}, {"language": "greek", "english": "early", "translated_version": "νωρίς"}, {"language": "greek", "english": "hold", "translated_version": "Κρατήστε"}, {"language": "greek", "english": "west", "translated_version": "δυτικά"}, {"language": "greek", "english": "ground", "translated_version": "έδαφος"}, {"language": "greek", "english": "interest", "translated_version": "ενδιαφέρον"}, {"language": "greek", "english": "reach", "translated_version": "φθάνω"}, {"language": "greek", "english": "fast", "translated_version": "γρήγορα"}, {"language": "greek", "english": "verb", "translated_version": "ρήμα"}, {"language": "greek", "english": "sing", "translated_version": "τραγουδώ"}, {"language": "greek", "english": "listen", "translated_version": "ακούω"}, {"language": "greek", "english": "six", "translated_version": "έξι"}, {"language": "greek", "english": "table", "translated_version": "τραπέζι"}, {"language": "greek", "english": "travel", "translated_version": "ταξίδι"}, {"language": "greek", "english": "less", "translated_version": "πιο λιγο"}, {"language": "greek", "english": "morning", "translated_version": "πρωί"}, {"language": "greek", "english": "ten", "translated_version": "δέκα"}, {"language": "greek", "english": "simple", "translated_version": "απλός"}, {"language": "greek", "english": "several", "translated_version": "αρκετά"}, {"language": "greek", "english": "vowel", "translated_version": "φωνήεν"}, {"language": "greek", "english": "toward", "translated_version": "προς"}, {"language": "greek", "english": "war", "translated_version": "πόλεμος"}, {"language": "greek", "english": "lay", "translated_version": "λαϊκός"}, {"language": "greek", "english": "against", "translated_version": "κατά"}, {"language": "greek", "english": "pattern", "translated_version": "πρότυπο"}, {"language": "greek", "english": "slow", "translated_version": "αργός"}, {"language": "greek", "english": "center", "translated_version": "κέντρο"}, {"language": "greek", "english": "love", "translated_version": "αγάπη"}, {"language": "greek", "english": "person", "translated_version": "πρόσωπο"}, {"language": "greek", "english": "money", "translated_version": "χρήματα"}, {"language": "greek", "english": "serve", "translated_version": "σερβίρισμα"}, {"language": "greek", "english": "appear", "translated_version": "εμφανίζομαι"}, {"language": "greek", "english": "road", "translated_version": "δρόμος"}, {"language": "greek", "english": "map", "translated_version": "χάρτης"}, {"language": "greek", "english": "rain", "translated_version": "βροχή"}, {"language": "greek", "english": "rule", "translated_version": "κανόνας"}, {"language": "greek", "english": "govern", "translated_version": "κυβερνώ"}, {"language": "greek", "english": "pull", "translated_version": "Τραβήξτε"}, {"language": "greek", "english": "cold", "translated_version": "κρύο"}, {"language": "greek", "english": "notice", "translated_version": "ειδοποίηση"}, {"language": "greek", "english": "voice", "translated_version": "φωνή"}, {"language": "greek", "english": "energy", "translated_version": "ενέργεια"}, {"language": "greek", "english": "hunt", "translated_version": "κυνήγι"}, {"language": "greek", "english": "probable", "translated_version": "πιθανός"}, {"language": "greek", "english": "bed", "translated_version": "κρεβάτι"}, {"language": "greek", "english": "brother", "translated_version": "αδελφός"}, {"language": "greek", "english": "egg", "translated_version": "αυγό"}, {"language": "greek", "english": "ride", "translated_version": "βόλτα"}, {"language": "greek", "english": "cell", "translated_version": "κύτταρο"}, {"language": "greek", "english": "believe", "translated_version": "πιστεύω"}, {"language": "greek", "english": "perhaps", "translated_version": "ίσως"}, {"language": "greek", "english": "pick", "translated_version": "διαλέγω"}, {"language": "greek", "english": "sudden", "translated_version": "αιφνίδιος"}, {"language": "greek", "english": "count", "translated_version": "μετρώ"}, {"language": "greek", "english": "square", "translated_version": "τετράγωνο"}, {"language": "greek", "english": "reason", "translated_version": "λόγος"}, {"language": "greek", "english": "length", "translated_version": "μήκος"}, {"language": "greek", "english": "represent", "translated_version": "εκπροσωπώ"}, {"language": "greek", "english": "art", "translated_version": "τέχνη"}, {"language": "greek", "english": "subject", "translated_version": "θέμα"}, {"language": "greek", "english": "region", "translated_version": "περιφέρεια"}, {"language": "greek", "english": "size", "translated_version": "Μέγεθος"}, {"language": "greek", "english": "vary", "translated_version": "ποικίλλω"}, {"language": "greek", "english": "settle", "translated_version": "εγκαθίσταμαι"}, {"language": "greek", "english": "speak", "translated_version": "μιλώ"}, {"language": "greek", "english": "weight", "translated_version": "βάρος"}, {"language": "greek", "english": "general", "translated_version": "γενικός"}, {"language": "greek", "english": "ice", "translated_version": "πάγος"}, {"language": "greek", "english": "matter", "translated_version": "ύλη"}, {"language": "greek", "english": "circle", "translated_version": "κύκλος"}, {"language": "greek", "english": "pair", "translated_version": "ζεύγος"}, {"language": "greek", "english": "include", "translated_version": "περιλαμβάνω"}, {"language": "greek", "english": "divide", "translated_version": "διαιρέστε"}, {"language": "greek", "english": "syllable", "translated_version": "συλλαβή"}, {"language": "greek", "english": "felt", "translated_version": "ένιωσα"}, {"language": "greek", "english": "grand", "translated_version": "μεγαλειώδης"}, {"language": "greek", "english": "ball", "translated_version": "μπάλα"}, {"language": "greek", "english": "yet", "translated_version": "Ακόμη"}, {"language": "greek", "english": "wave", "translated_version": "κύμα"}, {"language": "greek", "english": "drop", "translated_version": "πτώση"}, {"language": "greek", "english": "heart", "translated_version": "καρδιά"}, {"language": "greek", "english": "am", "translated_version": "είμαι"}, {"language": "greek", "english": "present", "translated_version": "παρόν"}, {"language": "greek", "english": "heavy", "translated_version": "βαρύς"}, {"language": "greek", "english": "dance", "translated_version": "χορός"}, {"language": "greek", "english": "engine", "translated_version": "κινητήρας"}, {"language": "greek", "english": "position", "translated_version": "θέση"}, {"language": "greek", "english": "arm", "translated_version": "μπράτσο"}, {"language": "greek", "english": "wide", "translated_version": "πλατύς"}, {"language": "greek", "english": "sail", "translated_version": "πανι ΠΛΟΙΟΥ"}, {"language": "greek", "english": "material", "translated_version": "υλικό"}, {"language": "greek", "english": "fraction", "translated_version": "κλάσμα"}, {"language": "greek", "english": "forest", "translated_version": "δάσος"}, {"language": "greek", "english": "sit", "translated_version": "Καθίστε"}, {"language": "greek", "english": "race", "translated_version": "αγώνας"}, {"language": "greek", "english": "window", "translated_version": "παράθυρο"}, {"language": "greek", "english": "store", "translated_version": "κατάστημα"}, {"language": "greek", "english": "summer", "translated_version": "καλοκαίρι"}, {"language": "greek", "english": "train", "translated_version": "τρένο"}, {"language": "greek", "english": "sleep", "translated_version": "ύπνος"}, {"language": "greek", "english": "prove", "translated_version": "αποδεικνύω"}, {"language": "greek", "english": "lone", "translated_version": "μοναχικός"}, {"language": "greek", "english": "leg", "translated_version": "πόδι"}, {"language": "greek", "english": "exercise", "translated_version": "άσκηση"}, {"language": "greek", "english": "wall", "translated_version": "τείχος"}, {"language": "greek", "english": "catch", "translated_version": "σύλληψη"}, {"language": "greek", "english": "mount", "translated_version": "βουνό"}, {"language": "greek", "english": "wish", "translated_version": "επιθυμία"}, {"language": "greek", "english": "sky", "translated_version": "ουρανός"}, {"language": "greek", "english": "board", "translated_version": "σανίδα"}, {"language": "greek", "english": "joy", "translated_version": "Χαρά"}, {"language": "greek", "english": "winter", "translated_version": "χειμώνας"}, {"language": "greek", "english": "sat", "translated_version": "κάθισε"}, {"language": "greek", "english": "written", "translated_version": "γραπτός"}, {"language": "greek", "english": "wild", "translated_version": "άγριος"}, {"language": "greek", "english": "instrument", "translated_version": "όργανο"}, {"language": "greek", "english": "kept", "translated_version": "φυλάσσεται"}, {"language": "greek", "english": "glass", "translated_version": "ποτήρι"}, {"language": "greek", "english": "grass", "translated_version": "γρασίδι"}, {"language": "greek", "english": "cow", "translated_version": "αγελάδα"}, {"language": "greek", "english": "job", "translated_version": "δουλειά"}, {"language": "greek", "english": "edge", "translated_version": "άκρη"}, {"language": "greek", "english": "sign", "translated_version": "σημάδι"}, {"language": "greek", "english": "visit", "translated_version": "επίσκεψη"}, {"language": "greek", "english": "past", "translated_version": "το παρελθόν"}, {"language": "greek", "english": "soft", "translated_version": "μαλακός"}, {"language": "greek", "english": "fun", "translated_version": "διασκέδαση"}, {"language": "greek", "english": "bright", "translated_version": "ΛΑΜΠΡΌΣ"}, {"language": "greek", "english": "gas", "translated_version": "αέριο"}, {"language": "greek", "english": "weather", "translated_version": "καιρός"}, {"language": "greek", "english": "month", "translated_version": "μήνας"}, {"language": "greek", "english": "million", "translated_version": "εκατομμύριο"}, {"language": "greek", "english": "bear", "translated_version": "αρκούδα"}, {"language": "greek", "english": "finish", "translated_version": "φινίρισμα"}, {"language": "greek", "english": "happy", "translated_version": "ευτυχισμένος"}, {"language": "greek", "english": "hope", "translated_version": "ελπίδα"}, {"language": "greek", "english": "flower", "translated_version": "λουλούδι"}, {"language": "greek", "english": "clothe", "translated_version": "ντύνω"}, {"language": "greek", "english": "strange", "translated_version": "παράξενος"}, {"language": "greek", "english": "gone", "translated_version": "χαμένος"}, {"language": "greek", "english": "trade", "translated_version": "εμπορικές συναλλαγές"}, {"language": "greek", "english": "melody", "translated_version": "μελωδία"}, {"language": "greek", "english": "trip", "translated_version": "ταξίδι"}, {"language": "greek", "english": "office", "translated_version": "γραφείο"}, {"language": "greek", "english": "receive", "translated_version": "λαμβάνω"}, {"language": "greek", "english": "row", "translated_version": "σειρά"}, {"language": "greek", "english": "mouth", "translated_version": "στόμα"}, {"language": "greek", "english": "exact", "translated_version": "ακριβής"}, {"language": "greek", "english": "symbol", "translated_version": "σύμβολο"}, {"language": "greek", "english": "die", "translated_version": "καλούπι"}, {"language": "greek", "english": "least", "translated_version": "ελάχιστα"}, {"language": "greek", "english": "trouble", "translated_version": "ταλαιπωρία"}, {"language": "greek", "english": "shout", "translated_version": "κραυγή"}, {"language": "greek", "english": "except", "translated_version": "εκτός"}, {"language": "greek", "english": "wrote", "translated_version": "έγραψε"}, {"language": "greek", "english": "seed", "translated_version": "σπόρος"}, {"language": "greek", "english": "tone", "translated_version": "τόνος"}, {"language": "greek", "english": "join", "translated_version": "Συμμετοχή"}, {"language": "greek", "english": "suggest", "translated_version": "προτείνω"}, {"language": "greek", "english": "clean", "translated_version": "ΚΑΘΑΡΗ"}, {"language": "greek", "english": "break", "translated_version": "Διακοπή"}, {"language": "greek", "english": "lady", "translated_version": "κυρία"}, {"language": "greek", "english": "yard", "translated_version": "αυλή"}, {"language": "greek", "english": "rise", "translated_version": "αύξηση"}, {"language": "greek", "english": "bad", "translated_version": "κακό"}, {"language": "greek", "english": "blow", "translated_version": "πλήγμα"}, {"language": "greek", "english": "oil", "translated_version": "λάδι"}, {"language": "greek", "english": "blood", "translated_version": "αίμα"}, {"language": "greek", "english": "touch", "translated_version": "αφή"}, {"language": "greek", "english": "grew", "translated_version": "μεγάλωσε"}, {"language": "greek", "english": "cent", "translated_version": "σεντ"}, {"language": "greek", "english": "mix", "translated_version": "μείγμα"}, {"language": "greek", "english": "team", "translated_version": "ομάδα"}, {"language": "greek", "english": "wire", "translated_version": "σύρμα"}, {"language": "greek", "english": "cost", "translated_version": "κόστος"}, {"language": "greek", "english": "lost", "translated_version": "χαμένος"}, {"language": "greek", "english": "brown", "translated_version": "καφέ"}, {"language": "greek", "english": "wear", "translated_version": "φορούν"}, {"language": "greek", "english": "garden", "translated_version": "κήπος"}, {"language": "greek", "english": "equal", "translated_version": "ίσος"}, {"language": "greek", "english": "sent", "translated_version": "Απεσταλμένα"}, {"language": "greek", "english": "choose", "translated_version": "επιλέγω"}, {"language": "greek", "english": "fell", "translated_version": "τομάρι ζώου"}, {"language": "greek", "english": "fit", "translated_version": "κατάλληλος"}, {"language": "greek", "english": "flow", "translated_version": "ροή"}, {"language": "greek", "english": "fair", "translated_version": "έκθεση"}, {"language": "greek", "english": "bank", "translated_version": "τράπεζα"}, {"language": "greek", "english": "collect", "translated_version": "συλλέγω"}, {"language": "greek", "english": "save", "translated_version": "αποθηκεύσετε"}, {"language": "greek", "english": "control", "translated_version": "έλεγχος"}, {"language": "greek", "english": "decimal", "translated_version": "δεκαδικός"}, {"language": "greek", "english": "ear", "translated_version": "αυτί"}, {"language": "greek", "english": "else", "translated_version": "αλλού"}, {"language": "greek", "english": "quite", "translated_version": "αρκετά"}, {"language": "greek", "english": "broke", "translated_version": "έσπασε"}, {"language": "greek", "english": "case", "translated_version": "υπόθεση"}, {"language": "greek", "english": "middle", "translated_version": "μέση"}, {"language": "greek", "english": "kill", "translated_version": "σκοτώνω"}, {"language": "greek", "english": "son", "translated_version": "υιός"}, {"language": "greek", "english": "lake", "translated_version": "λίμνη"}, {"language": "greek", "english": "moment", "translated_version": "στιγμή"}, {"language": "greek", "english": "scale", "translated_version": "κλίμακα"}, {"language": "greek", "english": "loud", "translated_version": "μεγαλόφωνος"}, {"language": "greek", "english": "spring", "translated_version": "άνοιξη"}, {"language": "greek", "english": "observe", "translated_version": "παρατηρώ"}, {"language": "greek", "english": "child", "translated_version": "παιδί"}, {"language": "greek", "english": "straight", "translated_version": "ευθεία"}, {"language": "greek", "english": "consonant", "translated_version": "σύμφωνο"}, {"language": "greek", "english": "nation", "translated_version": "έθνος"}, {"language": "greek", "english": "dictionary", "translated_version": "λεξικό"}, {"language": "greek", "english": "milk", "translated_version": "γάλα"}, {"language": "greek", "english": "speed", "translated_version": "Ταχύτητα"}, {"language": "greek", "english": "method", "translated_version": "μέθοδος"}, {"language": "greek", "english": "organ", "translated_version": "όργανο"}, {"language": "greek", "english": "pay", "translated_version": "πληρωμή"}, {"language": "greek", "english": "age", "translated_version": "ηλικία"}, {"language": "greek", "english": "section", "translated_version": "Ενότητα"}, {"language": "greek", "english": "dress", "translated_version": "φόρεμα"}, {"language": "greek", "english": "cloud", "translated_version": "σύννεφο"}, {"language": "greek", "english": "surprise", "translated_version": "έκπληξη"}, {"language": "greek", "english": "quiet", "translated_version": "ησυχια"}, {"language": "greek", "english": "stone", "translated_version": "πέτρα"}, {"language": "greek", "english": "tiny", "translated_version": "μικροσκοπικός"}, {"language": "greek", "english": "climb", "translated_version": "αναρρίχηση"}, {"language": "greek", "english": "cool", "translated_version": "δροσερός"}, {"language": "greek", "english": "design", "translated_version": "σχέδιο"}, {"language": "greek", "english": "poor", "translated_version": "Φτωχός"}, {"language": "greek", "english": "lot", "translated_version": "παρτίδα"}, {"language": "greek", "english": "experiment", "translated_version": "πείραμα"}, {"language": "greek", "english": "bottom", "translated_version": "κάτω μέρος"}, {"language": "greek", "english": "key", "translated_version": "κλειδί"}, {"language": "greek", "english": "iron", "translated_version": "σίδερο"}, {"language": "greek", "english": "single", "translated_version": "μονόκλινο"}, {"language": "greek", "english": "stick", "translated_version": "ραβδί"}, {"language": "greek", "english": "flat", "translated_version": "διαμέρισμα"}, {"language": "greek", "english": "twenty", "translated_version": "είκοσι"}, {"language": "greek", "english": "skin", "translated_version": "δέρμα"}, {"language": "greek", "english": "smile", "translated_version": "χαμόγελο"}, {"language": "greek", "english": "crease", "translated_version": "πτυχή"}, {"language": "greek", "english": "hole", "translated_version": "τρύπα"}, {"language": "greek", "english": "jump", "translated_version": "άλμα"}, {"language": "greek", "english": "baby", "translated_version": "μωρό"}, {"language": "greek", "english": "eight", "translated_version": "οκτώ"}, {"language": "greek", "english": "village", "translated_version": "χωριό"}, {"language": "greek", "english": "meet", "translated_version": "συναντώ"}, {"language": "greek", "english": "root", "translated_version": "ρίζα"}, {"language": "greek", "english": "buy", "translated_version": "αγορά"}, {"language": "greek", "english": "raise", "translated_version": "υψώνω"}, {"language": "greek", "english": "solve", "translated_version": "λύσει"}, {"language": "greek", "english": "metal", "translated_version": "μέταλλο"}, {"language": "greek", "english": "whether", "translated_version": "αν"}, {"language": "greek", "english": "push", "translated_version": "Σπρώξτε"}, {"language": "greek", "english": "seven", "translated_version": "επτά"}, {"language": "greek", "english": "paragraph", "translated_version": "παράγραφος"}, {"language": "greek", "english": "third", "translated_version": "τρίτος"}, {"language": "greek", "english": "shall", "translated_version": "θα"}, {"language": "greek", "english": "held", "translated_version": "που πραγματοποιήθηκε"}, {"language": "greek", "english": "hair", "translated_version": "μαλλιά"}, {"language": "greek", "english": "describe", "translated_version": "περιγράφω"}, {"language": "greek", "english": "cook", "translated_version": "μάγειρας"}, {"language": "greek", "english": "floor", "translated_version": "πάτωμα"}, {"language": "greek", "english": "either", "translated_version": "είτε"}, {"language": "greek", "english": "result", "translated_version": "αποτέλεσμα"}, {"language": "greek", "english": "burn", "translated_version": "έγκαυμα"}, {"language": "greek", "english": "hill", "translated_version": "λόφος"}, {"language": "greek", "english": "safe", "translated_version": "ασφαλής"}, {"language": "greek", "english": "cat", "translated_version": "Γάτα"}, {"language": "greek", "english": "century", "translated_version": "αιώνας"}, {"language": "greek", "english": "consider", "translated_version": "σκεφτείτε"}, {"language": "greek", "english": "type", "translated_version": "τύπος"}, {"language": "greek", "english": "law", "translated_version": "νόμος"}, {"language": "greek", "english": "bit", "translated_version": "κομμάτι"}, {"language": "greek", "english": "coast", "translated_version": "ακτή"}, {"language": "greek", "english": "copy", "translated_version": "αντίγραφο"}, {"language": "greek", "english": "phrase", "translated_version": "φράση"}, {"language": "greek", "english": "silent", "translated_version": "σιωπηλός"}, {"language": "greek", "english": "tall", "translated_version": "ψηλός"}, {"language": "greek", "english": "sand", "translated_version": "άμμος"}, {"language": "greek", "english": "soil", "translated_version": "έδαφος"}, {"language": "greek", "english": "roll", "translated_version": "ρολό"}, {"language": "greek", "english": "temperature", "translated_version": "θερμοκρασία"}, {"language": "greek", "english": "finger", "translated_version": "δάχτυλο"}, {"language": "greek", "english": "industry", "translated_version": "βιομηχανία"}, {"language": "greek", "english": "value", "translated_version": "αξία"}, {"language": "greek", "english": "fight", "translated_version": "πάλη"}, {"language": "greek", "english": "lie", "translated_version": "ψέμα"}, {"language": "greek", "english": "beat", "translated_version": "Ρυθμός"}, {"language": "greek", "english": "excite", "translated_version": "διεγείρω"}, {"language": "greek", "english": "natural", "translated_version": "φυσικός"}, {"language": "greek", "english": "view", "translated_version": "θέα"}, {"language": "greek", "english": "sense", "translated_version": "έννοια"}, {"language": "greek", "english": "capital", "translated_version": "κεφάλαιο"}, {"language": "greek", "english": "won’t", "translated_version": "συνηθισμένος"}, {"language": "greek", "english": "chair", "translated_version": "καρέκλα"}, {"language": "greek", "english": "danger", "translated_version": "κίνδυνος"}, {"language": "greek", "english": "fruit", "translated_version": "καρπός"}, {"language": "greek", "english": "rich", "translated_version": "πλούσιος"}, {"language": "greek", "english": "thick", "translated_version": "πυκνός"}, {"language": "greek", "english": "soldier", "translated_version": "στρατιώτης"}, {"language": "greek", "english": "process", "translated_version": "επεξεργάζομαι, διαδικασία"}, {"language": "greek", "english": "operate", "translated_version": "λειτουργεί"}, {"language": "greek", "english": "practice", "translated_version": "πρακτική"}, {"language": "greek", "english": "separate", "translated_version": "ξεχωριστός"}, {"language": "greek", "english": "difficult", "translated_version": "δύσκολος"}, {"language": "greek", "english": "doctor", "translated_version": "γιατρός"}, {"language": "greek", "english": "please", "translated_version": "σας παρακαλούμε"}, {"language": "greek", "english": "protect", "translated_version": "προστατεύω"}, {"language": "greek", "english": "noon", "translated_version": "μεσημέρι"}, {"language": "greek", "english": "crop", "translated_version": "καλλιέργεια"}, {"language": "greek", "english": "modern", "translated_version": "μοντέρνο"}, {"language": "greek", "english": "element", "translated_version": "στοιχείο"}, {"language": "greek", "english": "hit", "translated_version": "Κτύπημα"}, {"language": "greek", "english": "student", "translated_version": "μαθητης σχολειου"}, {"language": "greek", "english": "corner", "translated_version": "γωνία"}, {"language": "greek", "english": "party", "translated_version": "κόμμα"}, {"language": "greek", "english": "supply", "translated_version": "Προμήθεια"}, {"language": "greek", "english": "whose", "translated_version": "του οποίου"}, {"language": "greek", "english": "locate", "translated_version": "εγκατάσταση"}, {"language": "greek", "english": "ring", "translated_version": "δαχτυλίδι"}, {"language": "greek", "english": "character", "translated_version": "χαρακτήρας"}, {"language": "greek", "english": "insect", "translated_version": "έντομο"}, {"language": "greek", "english": "caught", "translated_version": "πιάστηκε"}, {"language": "greek", "english": "period", "translated_version": "περίοδος"}, {"language": "greek", "english": "indicate", "translated_version": "υποδεικνύω"}, {"language": "greek", "english": "radio", "translated_version": "ραδιόφωνο"}, {"language": "greek", "english": "spoke", "translated_version": "ακτίνα"}, {"language": "greek", "english": "atom", "translated_version": "άτομο"}, {"language": "greek", "english": "human", "translated_version": "ο άνθρωπος"}, {"language": "greek", "english": "history", "translated_version": "ιστορία"}, {"language": "greek", "english": "effect", "translated_version": "αποτέλεσμα"}, {"language": "greek", "english": "electric", "translated_version": "ηλεκτρικός"}, {"language": "greek", "english": "expect", "translated_version": "αναμένω"}, {"language": "greek", "english": "bone", "translated_version": "οστό"}, {"language": "greek", "english": "rail", "translated_version": "ράγα"}, {"language": "greek", "english": "imagine", "translated_version": "φαντάζομαι"}, {"language": "greek", "english": "provide", "translated_version": "προμηθεύω"}, {"language": "greek", "english": "agree", "translated_version": "συμφωνώ"}, {"language": "greek", "english": "thus", "translated_version": "έτσι"}, {"language": "greek", "english": "gentle", "translated_version": "ευγενής"}, {"language": "greek", "english": "woman", "translated_version": "γυναίκα"}, {"language": "greek", "english": "captain", "translated_version": "Καπετάνιος"}, {"language": "greek", "english": "guess", "translated_version": "εικασία"}, {"language": "greek", "english": "necessary", "translated_version": "απαραίτητη"}, {"language": "greek", "english": "sharp", "translated_version": "αιχμηρός"}, {"language": "greek", "english": "wing", "translated_version": "πτέρυγα"}, {"language": "greek", "english": "create", "translated_version": "δημιουργώ"}, {"language": "greek", "english": "neighbor", "translated_version": "γείτονας"}, {"language": "greek", "english": "wash", "translated_version": "πλύση"}, {"language": "greek", "english": "bat", "translated_version": "νυχτερίδα"}, {"language": "greek", "english": "rather", "translated_version": "μάλλον"}, {"language": "greek", "english": "crowd", "translated_version": "πλήθος"}, {"language": "greek", "english": "corn", "translated_version": "καλαμπόκι"}, {"language": "greek", "english": "compare", "translated_version": "συγκρίνω"}, {"language": "greek", "english": "poem", "translated_version": "ποίημα"}, {"language": "greek", "english": "string", "translated_version": "σειρά"}, {"language": "greek", "english": "bell", "translated_version": "κουδούνι"}, {"language": "greek", "english": "depend", "translated_version": "εξαρτώμαι"}, {"language": "greek", "english": "meat", "translated_version": "κρέας"}, {"language": "greek", "english": "rub", "translated_version": "τρίψιμο"}, {"language": "greek", "english": "tube", "translated_version": "σωλήνας"}, {"language": "greek", "english": "famous", "translated_version": "διάσημος"}, {"language": "greek", "english": "dollar", "translated_version": "δολάριο"}, {"language": "greek", "english": "stream", "translated_version": "ρεύμα"}, {"language": "greek", "english": "fear", "translated_version": "φόβος"}, {"language": "greek", "english": "sight", "translated_version": "θέαμα"}, {"language": "greek", "english": "thin", "translated_version": "λεπτός"}, {"language": "greek", "english": "triangle", "translated_version": "τρίγωνο"}, {"language": "greek", "english": "planet", "translated_version": "πλανήτης"}, {"language": "greek", "english": "hurry", "translated_version": "βιασύνη"}, {"language": "greek", "english": "chief", "translated_version": "αρχηγός"}, {"language": "greek", "english": "colony", "translated_version": "αποικία"}, {"language": "greek", "english": "clock", "translated_version": "ρολόι"}, {"language": "greek", "english": "mine", "translated_version": "δικος μου"}, {"language": "greek", "english": "tie", "translated_version": "γραβάτα"}, {"language": "greek", "english": "enter", "translated_version": "εισαγω"}, {"language": "greek", "english": "major", "translated_version": "μείζων"}, {"language": "greek", "english": "fresh", "translated_version": "φρέσκο"}, {"language": "greek", "english": "search", "translated_version": "Αναζήτηση"}, {"language": "greek", "english": "send", "translated_version": "στείλετε"}, {"language": "greek", "english": "yellow", "translated_version": "κίτρινος"}, {"language": "greek", "english": "gun", "translated_version": "όπλο"}, {"language": "greek", "english": "allow", "translated_version": "επιτρέπω"}, {"language": "greek", "english": "print", "translated_version": "Τυπώνω"}, {"language": "greek", "english": "dead", "translated_version": "νεκρός"}, {"language": "greek", "english": "spot", "translated_version": "σημείο"}, {"language": "greek", "english": "desert", "translated_version": "έρημος"}, {"language": "greek", "english": "suit", "translated_version": "κοστούμι"}, {"language": "greek", "english": "current", "translated_version": "ρεύμα"}, {"language": "greek", "english": "lift", "translated_version": "ανελκυστήρας"}, {"language": "greek", "english": "rose", "translated_version": "τριαντάφυλλο"}, {"language": "greek", "english": "arrive", "translated_version": "φθάνω"}, {"language": "greek", "english": "master", "translated_version": "κύριος"}, {"language": "greek", "english": "track", "translated_version": "πίστα"}, {"language": "greek", "english": "parent", "translated_version": "μητρική εταιρεία"}, {"language": "greek", "english": "shore", "translated_version": "ακτή"}, {"language": "greek", "english": "division", "translated_version": "διαίρεση"}, {"language": "greek", "english": "sheet", "translated_version": "σεντόνι"}, {"language": "greek", "english": "substance", "translated_version": "ουσία"}, {"language": "greek", "english": "favor", "translated_version": "εύνοια"}, {"language": "greek", "english": "connect", "translated_version": "συνδέω-συωδεομαι"}, {"language": "greek", "english": "post", "translated_version": "Θέση"}, {"language": "greek", "english": "spend", "translated_version": "περάσουν"}, {"language": "greek", "english": "chord", "translated_version": "χορδή"}, {"language": "greek", "english": "fat", "translated_version": "Λίπος"}, {"language": "greek", "english": "glad", "translated_version": "χαρούμενος"}, {"language": "greek", "english": "original", "translated_version": "πρωτότυπο"}, {"language": "greek", "english": "share", "translated_version": "μερίδιο"}, {"language": "greek", "english": "station", "translated_version": "σταθμός"}, {"language": "greek", "english": "dad", "translated_version": "Μπαμπάς"}, {"language": "greek", "english": "bread", "translated_version": "ψωμί"}, {"language": "greek", "english": "charge", "translated_version": "χρέωση"}, {"language": "greek", "english": "proper", "translated_version": "κατάλληλος"}, {"language": "greek", "english": "bar", "translated_version": "μπαρ"}, {"language": "greek", "english": "offer", "translated_version": "προσφορά"}, {"language": "greek", "english": "segment", "translated_version": "τμήμα"}, {"language": "greek", "english": "slave", "translated_version": "δούλος"}, {"language": "greek", "english": "duck", "translated_version": "πάπια"}, {"language": "greek", "english": "instant", "translated_version": "στιγμή"}, {"language": "greek", "english": "market", "translated_version": "αγορά"}, {"language": "greek", "english": "degree", "translated_version": "βαθμός"}, {"language": "greek", "english": "populate", "translated_version": "κατοικώ"}, {"language": "greek", "english": "chick", "translated_version": "νεοσσός"}, {"language": "greek", "english": "dear", "translated_version": "αγαπητός"}, {"language": "greek", "english": "enemy", "translated_version": "εχθρός"}, {"language": "greek", "english": "reply", "translated_version": "απάντηση"}, {"language": "greek", "english": "drink", "translated_version": "ποτό"}, {"language": "greek", "english": "occur", "translated_version": "συμβούν"}, {"language": "greek", "english": "support", "translated_version": "υποστήριξη"}, {"language": "greek", "english": "speech", "translated_version": "ομιλία"}, {"language": "greek", "english": "nature", "translated_version": "φύση"}, {"language": "greek", "english": "range", "translated_version": "εύρος"}, {"language": "greek", "english": "steam", "translated_version": "ατμός"}, {"language": "greek", "english": "motion", "translated_version": "κίνηση"}, {"language": "greek", "english": "path", "translated_version": "μονοπάτι"}, {"language": "greek", "english": "liquid", "translated_version": "υγρό"}, {"language": "greek", "english": "log", "translated_version": "κούτσουρο"}, {"language": "greek", "english": "meant", "translated_version": "εννοούσε"}, {"language": "greek", "english": "quotient", "translated_version": "πηλίκο"}, {"language": "greek", "english": "teeth", "translated_version": "δόντια"}, {"language": "greek", "english": "shell", "translated_version": "κέλυφος"}, {"language": "greek", "english": "neck", "translated_version": "λαιμός"}, {"language": "greek", "english": "oxygen", "translated_version": "οξυγόνο"}, {"language": "greek", "english": "sugar", "translated_version": "ζάχαρη"}, {"language": "greek", "english": "death", "translated_version": "θάνατος"}, {"language": "greek", "english": "pretty", "translated_version": "αρκετά"}, {"language": "greek", "english": "skill", "translated_version": "επιδεξιότητα"}, {"language": "greek", "english": "women", "translated_version": "γυναίκες"}, {"language": "greek", "english": "season", "translated_version": "εποχή"}, {"language": "greek", "english": "solution", "translated_version": "λύση"}, {"language": "greek", "english": "magnet", "translated_version": "μαγνήτης"}, {"language": "greek", "english": "silver", "translated_version": "ασήμι"}, {"language": "greek", "english": "thank", "translated_version": "ευχαριστώ"}, {"language": "greek", "english": "branch", "translated_version": "κλαδί"}, {"language": "greek", "english": "match", "translated_version": "αγώνας"}, {"language": "greek", "english": "suffix", "translated_version": "κατάληξη"}, {"language": "greek", "english": "especially", "translated_version": "ειδικά"}, {"language": "greek", "english": "fig", "translated_version": "Σύκο"}, {"language": "greek", "english": "afraid", "translated_version": "φοβισμένος"}, {"language": "greek", "english": "huge", "translated_version": "τεράστιος"}, {"language": "greek", "english": "sister", "translated_version": "αδελφή"}, {"language": "greek", "english": "steel", "translated_version": "ατσάλι"}, {"language": "greek", "english": "discuss", "translated_version": "συζητώ"}, {"language": "greek", "english": "forward", "translated_version": "προς τα εμπρός"}, {"language": "greek", "english": "similar", "translated_version": "παρόμοιος"}, {"language": "greek", "english": "guide", "translated_version": "οδηγός"}, {"language": "greek", "english": "experience", "translated_version": "εμπειρία"}, {"language": "greek", "english": "score", "translated_version": "σκορ"}, {"language": "greek", "english": "apple", "translated_version": "μήλο"}, {"language": "greek", "english": "bought", "translated_version": "αγορασμένος"}, {"language": "greek", "english": "led", "translated_version": "οδήγησε"}, {"language": "greek", "english": "pitch", "translated_version": "πίσσα"}, {"language": "greek", "english": "coat", "translated_version": "παλτό"}, {"language": "greek", "english": "mass", "translated_version": "μάζα"}, {"language": "greek", "english": "card", "translated_version": "κάρτα"}, {"language": "greek", "english": "band", "translated_version": "ζώνη"}, {"language": "greek", "english": "rope", "translated_version": "σκοινί"}, {"language": "greek", "english": "slip", "translated_version": "γλιστράω"}, {"language": "greek", "english": "win", "translated_version": "νίκη"}, {"language": "greek", "english": "dream", "translated_version": "όνειρο"}, {"language": "greek", "english": "evening", "translated_version": "απόγευμα"}, {"language": "greek", "english": "condition", "translated_version": "κατάσταση"}, {"language": "greek", "english": "feed", "translated_version": "ταίζω"}, {"language": "greek", "english": "tool", "translated_version": "εργαλείο"}, {"language": "greek", "english": "total", "translated_version": "σύνολο"}, {"language": "greek", "english": "basic", "translated_version": "βασικός"}, {"language": "greek", "english": "smell", "translated_version": "μυρωδιά"}, {"language": "greek", "english": "valley", "translated_version": "κοιλάδα"}, {"language": "greek", "english": "nor", "translated_version": "ούτε"}, {"language": "greek", "english": "double", "translated_version": "διπλό"}, {"language": "greek", "english": "seat", "translated_version": "έδρα"}, {"language": "greek", "english": "continue", "translated_version": "να συνεχίσει"}, {"language": "greek", "english": "block", "translated_version": "ΟΙΚΟΔΟΜΙΚΟ ΤΕΤΡΑΓΩΝΟ"}, {"language": "greek", "english": "chart", "translated_version": "διάγραμμα"}, {"language": "greek", "english": "hat", "translated_version": "καπέλο"}, {"language": "greek", "english": "sell", "translated_version": "Πουλώ"}, {"language": "greek", "english": "success", "translated_version": "επιτυχία"}, {"language": "greek", "english": "company", "translated_version": "Εταιρία"}, {"language": "greek", "english": "subtract", "translated_version": "αφαιρώ"}, {"language": "greek", "english": "event", "translated_version": "Εκδήλωση"}, {"language": "greek", "english": "particular", "translated_version": "ιδιαιτερος"}, {"language": "greek", "english": "deal", "translated_version": "συμφωνία"}, {"language": "greek", "english": "swim", "translated_version": "ζάλη"}, {"language": "greek", "english": "term", "translated_version": "όρος"}, {"language": "greek", "english": "opposite", "translated_version": "απεναντι απο"}, {"language": "greek", "english": "wife", "translated_version": "γυναίκα"}, {"language": "greek", "english": "shoe", "translated_version": "παπούτσι"}, {"language": "greek", "english": "shoulder", "translated_version": "ώμος"}, {"language": "greek", "english": "spread", "translated_version": "εξάπλωση"}, {"language": "greek", "english": "arrange", "translated_version": "κανονίζω"}, {"language": "greek", "english": "camp", "translated_version": "κατασκήνωση"}, {"language": "greek", "english": "invent", "translated_version": "εφευρίσκω"}, {"language": "greek", "english": "cotton", "translated_version": "βαμβάκι"}, {"language": "greek", "english": "born", "translated_version": "γεννημένος"}, {"language": "greek", "english": "determine", "translated_version": "καθορίσει"}, {"language": "greek", "english": "quart", "translated_version": "τέταρτο γαλονιού"}, {"language": "greek", "english": "nine", "translated_version": "εννέα"}, {"language": "greek", "english": "truck", "translated_version": "φορτηγό"}, {"language": "greek", "english": "noise", "translated_version": "θόρυβος"}, {"language": "greek", "english": "level", "translated_version": "επίπεδο"}, {"language": "greek", "english": "chance", "translated_version": "ευκαιρία"}, {"language": "greek", "english": "gather", "translated_version": "μαζεύω"}, {"language": "greek", "english": "shop", "translated_version": "κατάστημα"}, {"language": "greek", "english": "stretch", "translated_version": "τέντωμα"}, {"language": "greek", "english": "throw", "translated_version": "βολή"}, {"language": "greek", "english": "shine", "translated_version": "λάμψη"}, {"language": "greek", "english": "property", "translated_version": "ιδιοκτησία"}, {"language": "greek", "english": "column", "translated_version": "στήλη"}, {"language": "greek", "english": "molecule", "translated_version": "μόριο"}, {"language": "greek", "english": "select", "translated_version": "επιλέγω"}, {"language": "greek", "english": "wrong", "translated_version": "λανθασμένος"}, {"language": "greek", "english": "gray", "translated_version": "γκρί"}, {"language": "greek", "english": "repeat", "translated_version": "επαναλαμβάνω"}, {"language": "greek", "english": "require", "translated_version": "απαιτώ"}, {"language": "greek", "english": "broad", "translated_version": "ευρύς"}, {"language": "greek", "english": "prepare", "translated_version": "προετοιμάζω"}, {"language": "greek", "english": "salt", "translated_version": "άλας"}, {"language": "greek", "english": "nose", "translated_version": "μύτη"}, {"language": "greek", "english": "plural", "translated_version": "πληθυντικός"}, {"language": "greek", "english": "anger", "translated_version": "θυμός"}, {"language": "greek", "english": "claim", "translated_version": "απαίτηση"}, {"language": "greek", "english": "continent", "translated_version": "Ήπειρος"}]
+[
+    {
+        "language": "greek",
+        "english": "as",
+        "translated_version": "όπως και"
+    },
+    {
+        "language": "greek",
+        "english": "I",
+        "translated_version": "Εγώ"
+    },
+    {
+        "language": "greek",
+        "english": "his",
+        "translated_version": "του"
+    },
+    {
+        "language": "greek",
+        "english": "that",
+        "translated_version": "ότι"
+    },
+    {
+        "language": "greek",
+        "english": "he",
+        "translated_version": "αυτός"
+    },
+    {
+        "language": "greek",
+        "english": "was",
+        "translated_version": "ήταν"
+    },
+    {
+        "language": "greek",
+        "english": "for",
+        "translated_version": "Για"
+    },
+    {
+        "language": "greek",
+        "english": "on",
+        "translated_version": "επί"
+    },
+    {
+        "language": "greek",
+        "english": "are",
+        "translated_version": "είναι"
+    },
+    {
+        "language": "greek",
+        "english": "with",
+        "translated_version": "με"
+    },
+    {
+        "language": "greek",
+        "english": "they",
+        "translated_version": "αυτοί"
+    },
+    {
+        "language": "greek",
+        "english": "be",
+        "translated_version": "είναι"
+    },
+    {
+        "language": "greek",
+        "english": "at",
+        "translated_version": "στο"
+    },
+    {
+        "language": "greek",
+        "english": "one",
+        "translated_version": "ένας"
+    },
+    {
+        "language": "greek",
+        "english": "have",
+        "translated_version": "έχω"
+    },
+    {
+        "language": "greek",
+        "english": "this",
+        "translated_version": "Αυτό"
+    },
+    {
+        "language": "greek",
+        "english": "from",
+        "translated_version": "από"
+    },
+    {
+        "language": "greek",
+        "english": "by",
+        "translated_version": "με"
+    },
+    {
+        "language": "greek",
+        "english": "hot",
+        "translated_version": "ζεστό"
+    },
+    {
+        "language": "greek",
+        "english": "word",
+        "translated_version": "λέξη"
+    },
+    {
+        "language": "greek",
+        "english": "but",
+        "translated_version": "αλλά"
+    },
+    {
+        "language": "greek",
+        "english": "what",
+        "translated_version": "τι"
+    },
+    {
+        "language": "greek",
+        "english": "some",
+        "translated_version": "μερικοί"
+    },
+    {
+        "language": "greek",
+        "english": "is",
+        "translated_version": "είναι"
+    },
+    {
+        "language": "greek",
+        "english": "it",
+        "translated_version": "το"
+    },
+    {
+        "language": "greek",
+        "english": "you",
+        "translated_version": "εσύ"
+    },
+    {
+        "language": "greek",
+        "english": "or",
+        "translated_version": "ή"
+    },
+    {
+        "language": "greek",
+        "english": "had",
+        "translated_version": "είχε"
+    },
+    {
+        "language": "greek",
+        "english": "the",
+        "translated_version": "ο"
+    },
+    {
+        "language": "greek",
+        "english": "of",
+        "translated_version": "του"
+    },
+    {
+        "language": "greek",
+        "english": "to",
+        "translated_version": "προς το"
+    },
+    {
+        "language": "greek",
+        "english": "and",
+        "translated_version": "και"
+    },
+    {
+        "language": "greek",
+        "english": "a",
+        "translated_version": "ένα"
+    },
+    {
+        "language": "greek",
+        "english": "in",
+        "translated_version": "σε"
+    },
+    {
+        "language": "greek",
+        "english": "we",
+        "translated_version": "εμείς"
+    },
+    {
+        "language": "greek",
+        "english": "can",
+        "translated_version": "μπορώ"
+    },
+    {
+        "language": "greek",
+        "english": "out",
+        "translated_version": "έξω"
+    },
+    {
+        "language": "greek",
+        "english": "other",
+        "translated_version": "άλλα"
+    },
+    {
+        "language": "greek",
+        "english": "were",
+        "translated_version": "ήταν"
+    },
+    {
+        "language": "greek",
+        "english": "which",
+        "translated_version": "οι οποίες"
+    },
+    {
+        "language": "greek",
+        "english": "do",
+        "translated_version": "κάνω"
+    },
+    {
+        "language": "greek",
+        "english": "their",
+        "translated_version": "δικα τους"
+    },
+    {
+        "language": "greek",
+        "english": "time",
+        "translated_version": "χρόνος"
+    },
+    {
+        "language": "greek",
+        "english": "if",
+        "translated_version": "αν"
+    },
+    {
+        "language": "greek",
+        "english": "will",
+        "translated_version": "θα"
+    },
+    {
+        "language": "greek",
+        "english": "how",
+        "translated_version": "πως"
+    },
+    {
+        "language": "greek",
+        "english": "said",
+        "translated_version": "είπε"
+    },
+    {
+        "language": "greek",
+        "english": "an",
+        "translated_version": "ένα"
+    },
+    {
+        "language": "greek",
+        "english": "each",
+        "translated_version": "καθε"
+    },
+    {
+        "language": "greek",
+        "english": "tell",
+        "translated_version": "λέγω"
+    },
+    {
+        "language": "greek",
+        "english": "does",
+        "translated_version": "κάνει"
+    },
+    {
+        "language": "greek",
+        "english": "set",
+        "translated_version": "σειρά"
+    },
+    {
+        "language": "greek",
+        "english": "three",
+        "translated_version": "τρία"
+    },
+    {
+        "language": "greek",
+        "english": "want",
+        "translated_version": "θέλω"
+    },
+    {
+        "language": "greek",
+        "english": "air",
+        "translated_version": "αέρας"
+    },
+    {
+        "language": "greek",
+        "english": "well",
+        "translated_version": "Καλά"
+    },
+    {
+        "language": "greek",
+        "english": "also",
+        "translated_version": "επίσης"
+    },
+    {
+        "language": "greek",
+        "english": "play",
+        "translated_version": "παίζω"
+    },
+    {
+        "language": "greek",
+        "english": "small",
+        "translated_version": "μικρό"
+    },
+    {
+        "language": "greek",
+        "english": "end",
+        "translated_version": "τέλος"
+    },
+    {
+        "language": "greek",
+        "english": "put",
+        "translated_version": "βάζω"
+    },
+    {
+        "language": "greek",
+        "english": "home",
+        "translated_version": "Σπίτι"
+    },
+    {
+        "language": "greek",
+        "english": "read",
+        "translated_version": "ανάγνωση"
+    },
+    {
+        "language": "greek",
+        "english": "hand",
+        "translated_version": "χέρι"
+    },
+    {
+        "language": "greek",
+        "english": "port",
+        "translated_version": "Λιμάνι"
+    },
+    {
+        "language": "greek",
+        "english": "large",
+        "translated_version": "μεγάλο"
+    },
+    {
+        "language": "greek",
+        "english": "spell",
+        "translated_version": "σημαίνω"
+    },
+    {
+        "language": "greek",
+        "english": "add",
+        "translated_version": "Προσθήκη"
+    },
+    {
+        "language": "greek",
+        "english": "even",
+        "translated_version": "ακόμη και"
+    },
+    {
+        "language": "greek",
+        "english": "land",
+        "translated_version": "γη"
+    },
+    {
+        "language": "greek",
+        "english": "here",
+        "translated_version": "εδώ"
+    },
+    {
+        "language": "greek",
+        "english": "must",
+        "translated_version": "πρέπει"
+    },
+    {
+        "language": "greek",
+        "english": "big",
+        "translated_version": "μεγάλο"
+    },
+    {
+        "language": "greek",
+        "english": "high",
+        "translated_version": "υψηλός"
+    },
+    {
+        "language": "greek",
+        "english": "such",
+        "translated_version": "τέτοιος"
+    },
+    {
+        "language": "greek",
+        "english": "follow",
+        "translated_version": "ακολουθηστε"
+    },
+    {
+        "language": "greek",
+        "english": "act",
+        "translated_version": "υποκρίνομαι"
+    },
+    {
+        "language": "greek",
+        "english": "why",
+        "translated_version": "Γιατί"
+    },
+    {
+        "language": "greek",
+        "english": "ask",
+        "translated_version": "παρακαλώ"
+    },
+    {
+        "language": "greek",
+        "english": "men",
+        "translated_version": "άνδρες"
+    },
+    {
+        "language": "greek",
+        "english": "change",
+        "translated_version": "αλλαγή"
+    },
+    {
+        "language": "greek",
+        "english": "went",
+        "translated_version": "πήγε"
+    },
+    {
+        "language": "greek",
+        "english": "light",
+        "translated_version": "φως"
+    },
+    {
+        "language": "greek",
+        "english": "kind",
+        "translated_version": "είδος"
+    },
+    {
+        "language": "greek",
+        "english": "off",
+        "translated_version": "μακριά από"
+    },
+    {
+        "language": "greek",
+        "english": "need",
+        "translated_version": "χρειάζομαι"
+    },
+    {
+        "language": "greek",
+        "english": "house",
+        "translated_version": "σπίτι"
+    },
+    {
+        "language": "greek",
+        "english": "picture",
+        "translated_version": "εικόνα"
+    },
+    {
+        "language": "greek",
+        "english": "try",
+        "translated_version": "δοκιμάστε"
+    },
+    {
+        "language": "greek",
+        "english": "us",
+        "translated_version": "μας"
+    },
+    {
+        "language": "greek",
+        "english": "again",
+        "translated_version": "πάλι"
+    },
+    {
+        "language": "greek",
+        "english": "animal",
+        "translated_version": "ζώο"
+    },
+    {
+        "language": "greek",
+        "english": "point",
+        "translated_version": "σημείο"
+    },
+    {
+        "language": "greek",
+        "english": "mother",
+        "translated_version": "μητέρα"
+    },
+    {
+        "language": "greek",
+        "english": "world",
+        "translated_version": "κόσμος"
+    },
+    {
+        "language": "greek",
+        "english": "near",
+        "translated_version": "κοντά"
+    },
+    {
+        "language": "greek",
+        "english": "build",
+        "translated_version": "χτίζω"
+    },
+    {
+        "language": "greek",
+        "english": "self",
+        "translated_version": "εαυτός"
+    },
+    {
+        "language": "greek",
+        "english": "earth",
+        "translated_version": "γη"
+    },
+    {
+        "language": "greek",
+        "english": "father",
+        "translated_version": "πατέρας"
+    },
+    {
+        "language": "greek",
+        "english": "any",
+        "translated_version": "όποιος"
+    },
+    {
+        "language": "greek",
+        "english": "new",
+        "translated_version": "νέος"
+    },
+    {
+        "language": "greek",
+        "english": "work",
+        "translated_version": "δουλειά"
+    },
+    {
+        "language": "greek",
+        "english": "part",
+        "translated_version": "μέρος"
+    },
+    {
+        "language": "greek",
+        "english": "take",
+        "translated_version": "παίρνω"
+    },
+    {
+        "language": "greek",
+        "english": "get",
+        "translated_version": "παίρνω"
+    },
+    {
+        "language": "greek",
+        "english": "place",
+        "translated_version": "θέση"
+    },
+    {
+        "language": "greek",
+        "english": "made",
+        "translated_version": "έκανε"
+    },
+    {
+        "language": "greek",
+        "english": "live",
+        "translated_version": "ζω"
+    },
+    {
+        "language": "greek",
+        "english": "where",
+        "translated_version": "όπου"
+    },
+    {
+        "language": "greek",
+        "english": "after",
+        "translated_version": "μετά"
+    },
+    {
+        "language": "greek",
+        "english": "back",
+        "translated_version": "πίσω"
+    },
+    {
+        "language": "greek",
+        "english": "little",
+        "translated_version": "λίγο"
+    },
+    {
+        "language": "greek",
+        "english": "only",
+        "translated_version": "μόνο"
+    },
+    {
+        "language": "greek",
+        "english": "round",
+        "translated_version": "γύρος"
+    },
+    {
+        "language": "greek",
+        "english": "man",
+        "translated_version": "άνδρας"
+    },
+    {
+        "language": "greek",
+        "english": "year",
+        "translated_version": "έτος"
+    },
+    {
+        "language": "greek",
+        "english": "came",
+        "translated_version": "ήρθε"
+    },
+    {
+        "language": "greek",
+        "english": "show",
+        "translated_version": "προβολή"
+    },
+    {
+        "language": "greek",
+        "english": "every",
+        "translated_version": "κάθε"
+    },
+    {
+        "language": "greek",
+        "english": "good",
+        "translated_version": "Καλός"
+    },
+    {
+        "language": "greek",
+        "english": "me",
+        "translated_version": "μου"
+    },
+    {
+        "language": "greek",
+        "english": "give",
+        "translated_version": "δίνω"
+    },
+    {
+        "language": "greek",
+        "english": "our",
+        "translated_version": "μας"
+    },
+    {
+        "language": "greek",
+        "english": "under",
+        "translated_version": "κάτω από"
+    },
+    {
+        "language": "greek",
+        "english": "name",
+        "translated_version": "όνομα"
+    },
+    {
+        "language": "greek",
+        "english": "very",
+        "translated_version": "πολύ"
+    },
+    {
+        "language": "greek",
+        "english": "through",
+        "translated_version": "διά μέσου"
+    },
+    {
+        "language": "greek",
+        "english": "just",
+        "translated_version": "μόλις"
+    },
+    {
+        "language": "greek",
+        "english": "form",
+        "translated_version": "μορφή"
+    },
+    {
+        "language": "greek",
+        "english": "sentence",
+        "translated_version": "πρόταση"
+    },
+    {
+        "language": "greek",
+        "english": "great",
+        "translated_version": "μεγάλος"
+    },
+    {
+        "language": "greek",
+        "english": "think",
+        "translated_version": "νομίζω"
+    },
+    {
+        "language": "greek",
+        "english": "say",
+        "translated_version": "λένε"
+    },
+    {
+        "language": "greek",
+        "english": "help",
+        "translated_version": "βοήθεια"
+    },
+    {
+        "language": "greek",
+        "english": "low",
+        "translated_version": "χαμηλός"
+    },
+    {
+        "language": "greek",
+        "english": "line",
+        "translated_version": "γραμμή"
+    },
+    {
+        "language": "greek",
+        "english": "differ",
+        "translated_version": "διαφέρω"
+    },
+    {
+        "language": "greek",
+        "english": "turn",
+        "translated_version": "στροφή"
+    },
+    {
+        "language": "greek",
+        "english": "cause",
+        "translated_version": "αιτία"
+    },
+    {
+        "language": "greek",
+        "english": "much",
+        "translated_version": "πολύ"
+    },
+    {
+        "language": "greek",
+        "english": "mean",
+        "translated_version": "σημαίνω"
+    },
+    {
+        "language": "greek",
+        "english": "before",
+        "translated_version": "πριν"
+    },
+    {
+        "language": "greek",
+        "english": "move",
+        "translated_version": "κίνηση"
+    },
+    {
+        "language": "greek",
+        "english": "right",
+        "translated_version": "σωστά"
+    },
+    {
+        "language": "greek",
+        "english": "boy",
+        "translated_version": "αγόρι"
+    },
+    {
+        "language": "greek",
+        "english": "old",
+        "translated_version": "παλαιός"
+    },
+    {
+        "language": "greek",
+        "english": "too",
+        "translated_version": "πολύ"
+    },
+    {
+        "language": "greek",
+        "english": "same",
+        "translated_version": "ίδιο"
+    },
+    {
+        "language": "greek",
+        "english": "she",
+        "translated_version": "αυτή"
+    },
+    {
+        "language": "greek",
+        "english": "all",
+        "translated_version": "όλα"
+    },
+    {
+        "language": "greek",
+        "english": "there",
+        "translated_version": "εκεί"
+    },
+    {
+        "language": "greek",
+        "english": "when",
+        "translated_version": "πότε"
+    },
+    {
+        "language": "greek",
+        "english": "up",
+        "translated_version": "πάνω"
+    },
+    {
+        "language": "greek",
+        "english": "use",
+        "translated_version": "χρήση"
+    },
+    {
+        "language": "greek",
+        "english": "your",
+        "translated_version": "τα δικα σου"
+    },
+    {
+        "language": "greek",
+        "english": "way",
+        "translated_version": "τρόπος"
+    },
+    {
+        "language": "greek",
+        "english": "about",
+        "translated_version": "σχετικά με"
+    },
+    {
+        "language": "greek",
+        "english": "many",
+        "translated_version": "Πολλά"
+    },
+    {
+        "language": "greek",
+        "english": "then",
+        "translated_version": "τότε"
+    },
+    {
+        "language": "greek",
+        "english": "them",
+        "translated_version": "τους"
+    },
+    {
+        "language": "greek",
+        "english": "write",
+        "translated_version": "γράφω"
+    },
+    {
+        "language": "greek",
+        "english": "would",
+        "translated_version": "θα"
+    },
+    {
+        "language": "greek",
+        "english": "like",
+        "translated_version": "αρέσει"
+    },
+    {
+        "language": "greek",
+        "english": "so",
+        "translated_version": "Έτσι"
+    },
+    {
+        "language": "greek",
+        "english": "these",
+        "translated_version": "αυτά τα"
+    },
+    {
+        "language": "greek",
+        "english": "her",
+        "translated_version": "αυτήν"
+    },
+    {
+        "language": "greek",
+        "english": "long",
+        "translated_version": "μακρύς"
+    },
+    {
+        "language": "greek",
+        "english": "make",
+        "translated_version": "φτιαχνω, κανω"
+    },
+    {
+        "language": "greek",
+        "english": "thing",
+        "translated_version": "πράγμα"
+    },
+    {
+        "language": "greek",
+        "english": "see",
+        "translated_version": "βλέπω"
+    },
+    {
+        "language": "greek",
+        "english": "him",
+        "translated_version": "αυτόν"
+    },
+    {
+        "language": "greek",
+        "english": "two",
+        "translated_version": "δύο"
+    },
+    {
+        "language": "greek",
+        "english": "has",
+        "translated_version": "έχει"
+    },
+    {
+        "language": "greek",
+        "english": "look",
+        "translated_version": "Κοίτα"
+    },
+    {
+        "language": "greek",
+        "english": "more",
+        "translated_version": "περισσότερο"
+    },
+    {
+        "language": "greek",
+        "english": "day",
+        "translated_version": "ημέρα"
+    },
+    {
+        "language": "greek",
+        "english": "could",
+        "translated_version": "θα μπορούσε"
+    },
+    {
+        "language": "greek",
+        "english": "go",
+        "translated_version": "πηγαίνω"
+    },
+    {
+        "language": "greek",
+        "english": "come",
+        "translated_version": "Έλα"
+    },
+    {
+        "language": "greek",
+        "english": "did",
+        "translated_version": "έκανε"
+    },
+    {
+        "language": "greek",
+        "english": "number",
+        "translated_version": "αριθμός"
+    },
+    {
+        "language": "greek",
+        "english": "sound",
+        "translated_version": "ήχος"
+    },
+    {
+        "language": "greek",
+        "english": "no",
+        "translated_version": "όχι"
+    },
+    {
+        "language": "greek",
+        "english": "most",
+        "translated_version": "πλέον"
+    },
+    {
+        "language": "greek",
+        "english": "people",
+        "translated_version": "Ανθρωποι"
+    },
+    {
+        "language": "greek",
+        "english": "my",
+        "translated_version": "μου"
+    },
+    {
+        "language": "greek",
+        "english": "over",
+        "translated_version": "πάνω από"
+    },
+    {
+        "language": "greek",
+        "english": "know",
+        "translated_version": "ξέρω"
+    },
+    {
+        "language": "greek",
+        "english": "water",
+        "translated_version": "νερό"
+    },
+    {
+        "language": "greek",
+        "english": "than",
+        "translated_version": "από"
+    },
+    {
+        "language": "greek",
+        "english": "call",
+        "translated_version": "κλήση"
+    },
+    {
+        "language": "greek",
+        "english": "first",
+        "translated_version": "πρώτα"
+    },
+    {
+        "language": "greek",
+        "english": "who",
+        "translated_version": "που"
+    },
+    {
+        "language": "greek",
+        "english": "may",
+        "translated_version": "ενδέχεται"
+    },
+    {
+        "language": "greek",
+        "english": "down",
+        "translated_version": "κάτω"
+    },
+    {
+        "language": "greek",
+        "english": "side",
+        "translated_version": "πλευρά"
+    },
+    {
+        "language": "greek",
+        "english": "been",
+        "translated_version": "ήταν"
+    },
+    {
+        "language": "greek",
+        "english": "now",
+        "translated_version": "τώρα"
+    },
+    {
+        "language": "greek",
+        "english": "find",
+        "translated_version": "εύρημα"
+    },
+    {
+        "language": "greek",
+        "english": "head",
+        "translated_version": "κεφάλι"
+    },
+    {
+        "language": "greek",
+        "english": "stand",
+        "translated_version": "στάση"
+    },
+    {
+        "language": "greek",
+        "english": "own",
+        "translated_version": "το δικό"
+    },
+    {
+        "language": "greek",
+        "english": "page",
+        "translated_version": "σελίδα"
+    },
+    {
+        "language": "greek",
+        "english": "should",
+        "translated_version": "πρέπει"
+    },
+    {
+        "language": "greek",
+        "english": "country",
+        "translated_version": "Χώρα"
+    },
+    {
+        "language": "greek",
+        "english": "found",
+        "translated_version": "βρέθηκαν"
+    },
+    {
+        "language": "greek",
+        "english": "answer",
+        "translated_version": "απάντηση"
+    },
+    {
+        "language": "greek",
+        "english": "school",
+        "translated_version": "σχολείο"
+    },
+    {
+        "language": "greek",
+        "english": "grow",
+        "translated_version": "καλλιεργώ"
+    },
+    {
+        "language": "greek",
+        "english": "study",
+        "translated_version": "μελέτη"
+    },
+    {
+        "language": "greek",
+        "english": "still",
+        "translated_version": "ακόμη"
+    },
+    {
+        "language": "greek",
+        "english": "learn",
+        "translated_version": "μαθαίνω"
+    },
+    {
+        "language": "greek",
+        "english": "plant",
+        "translated_version": "φυτό"
+    },
+    {
+        "language": "greek",
+        "english": "cover",
+        "translated_version": "κάλυμμα"
+    },
+    {
+        "language": "greek",
+        "english": "food",
+        "translated_version": "τροφή"
+    },
+    {
+        "language": "greek",
+        "english": "sun",
+        "translated_version": "ήλιος"
+    },
+    {
+        "language": "greek",
+        "english": "four",
+        "translated_version": "τέσσερα"
+    },
+    {
+        "language": "greek",
+        "english": "between",
+        "translated_version": "μεταξύ"
+    },
+    {
+        "language": "greek",
+        "english": "state",
+        "translated_version": "κατάσταση"
+    },
+    {
+        "language": "greek",
+        "english": "keep",
+        "translated_version": "διατήρηση"
+    },
+    {
+        "language": "greek",
+        "english": "eye",
+        "translated_version": "μάτι"
+    },
+    {
+        "language": "greek",
+        "english": "never",
+        "translated_version": "ποτέ"
+    },
+    {
+        "language": "greek",
+        "english": "last",
+        "translated_version": "τελευταίος"
+    },
+    {
+        "language": "greek",
+        "english": "let",
+        "translated_version": "αφήνω"
+    },
+    {
+        "language": "greek",
+        "english": "thought",
+        "translated_version": "σκέψη"
+    },
+    {
+        "language": "greek",
+        "english": "city",
+        "translated_version": "πόλη"
+    },
+    {
+        "language": "greek",
+        "english": "tree",
+        "translated_version": "δέντρο"
+    },
+    {
+        "language": "greek",
+        "english": "cross",
+        "translated_version": "σταυρός"
+    },
+    {
+        "language": "greek",
+        "english": "farm",
+        "translated_version": "αγρόκτημα"
+    },
+    {
+        "language": "greek",
+        "english": "hard",
+        "translated_version": "σκληρά"
+    },
+    {
+        "language": "greek",
+        "english": "start",
+        "translated_version": "αρχή"
+    },
+    {
+        "language": "greek",
+        "english": "might",
+        "translated_version": "θα μπορούσε"
+    },
+    {
+        "language": "greek",
+        "english": "story",
+        "translated_version": "ιστορία"
+    },
+    {
+        "language": "greek",
+        "english": "saw",
+        "translated_version": "είδε"
+    },
+    {
+        "language": "greek",
+        "english": "far",
+        "translated_version": "μακριά"
+    },
+    {
+        "language": "greek",
+        "english": "sea",
+        "translated_version": "θάλασσα"
+    },
+    {
+        "language": "greek",
+        "english": "draw",
+        "translated_version": "σχεδιάζω"
+    },
+    {
+        "language": "greek",
+        "english": "left",
+        "translated_version": "αριστερά"
+    },
+    {
+        "language": "greek",
+        "english": "late",
+        "translated_version": "αργά"
+    },
+    {
+        "language": "greek",
+        "english": "run",
+        "translated_version": "τρέξιμο"
+    },
+    {
+        "language": "greek",
+        "english": "don’t",
+        "translated_version": "όχι"
+    },
+    {
+        "language": "greek",
+        "english": "while",
+        "translated_version": "ενώ"
+    },
+    {
+        "language": "greek",
+        "english": "press",
+        "translated_version": "τύπος"
+    },
+    {
+        "language": "greek",
+        "english": "close",
+        "translated_version": "Κλείσε"
+    },
+    {
+        "language": "greek",
+        "english": "night",
+        "translated_version": "Νύχτα"
+    },
+    {
+        "language": "greek",
+        "english": "real",
+        "translated_version": "πραγματικός"
+    },
+    {
+        "language": "greek",
+        "english": "life",
+        "translated_version": "ΖΩΗ"
+    },
+    {
+        "language": "greek",
+        "english": "few",
+        "translated_version": "λίγοι"
+    },
+    {
+        "language": "greek",
+        "english": "north",
+        "translated_version": "Βόρειος"
+    },
+    {
+        "language": "greek",
+        "english": "book",
+        "translated_version": "Βιβλίο"
+    },
+    {
+        "language": "greek",
+        "english": "carry",
+        "translated_version": "μεταφέρω"
+    },
+    {
+        "language": "greek",
+        "english": "took",
+        "translated_version": "πήρε"
+    },
+    {
+        "language": "greek",
+        "english": "science",
+        "translated_version": "επιστήμη"
+    },
+    {
+        "language": "greek",
+        "english": "eat",
+        "translated_version": "τρώω"
+    },
+    {
+        "language": "greek",
+        "english": "room",
+        "translated_version": "δωμάτιο"
+    },
+    {
+        "language": "greek",
+        "english": "friend",
+        "translated_version": "φίλος"
+    },
+    {
+        "language": "greek",
+        "english": "began",
+        "translated_version": "ξεκίνησε"
+    },
+    {
+        "language": "greek",
+        "english": "idea",
+        "translated_version": "ιδέα"
+    },
+    {
+        "language": "greek",
+        "english": "fish",
+        "translated_version": "ψάρι"
+    },
+    {
+        "language": "greek",
+        "english": "mountain",
+        "translated_version": "βουνό"
+    },
+    {
+        "language": "greek",
+        "english": "stop",
+        "translated_version": "να σταματήσει"
+    },
+    {
+        "language": "greek",
+        "english": "once",
+        "translated_version": "μια φορά"
+    },
+    {
+        "language": "greek",
+        "english": "base",
+        "translated_version": "βάση"
+    },
+    {
+        "language": "greek",
+        "english": "hear",
+        "translated_version": "ακούω"
+    },
+    {
+        "language": "greek",
+        "english": "horse",
+        "translated_version": "άλογο"
+    },
+    {
+        "language": "greek",
+        "english": "cut",
+        "translated_version": "Τομή"
+    },
+    {
+        "language": "greek",
+        "english": "sure",
+        "translated_version": "σίγουρος"
+    },
+    {
+        "language": "greek",
+        "english": "watch",
+        "translated_version": "ρολόι"
+    },
+    {
+        "language": "greek",
+        "english": "color",
+        "translated_version": "χρώμα"
+    },
+    {
+        "language": "greek",
+        "english": "face",
+        "translated_version": "πρόσωπο"
+    },
+    {
+        "language": "greek",
+        "english": "wood",
+        "translated_version": "ξύλο"
+    },
+    {
+        "language": "greek",
+        "english": "main",
+        "translated_version": "κύριος"
+    },
+    {
+        "language": "greek",
+        "english": "open",
+        "translated_version": "Άνοιξε"
+    },
+    {
+        "language": "greek",
+        "english": "seem",
+        "translated_version": "φαίνομαι"
+    },
+    {
+        "language": "greek",
+        "english": "together",
+        "translated_version": "μαζί"
+    },
+    {
+        "language": "greek",
+        "english": "next",
+        "translated_version": "Επόμενο"
+    },
+    {
+        "language": "greek",
+        "english": "white",
+        "translated_version": "άσπρο"
+    },
+    {
+        "language": "greek",
+        "english": "children",
+        "translated_version": "παιδιά"
+    },
+    {
+        "language": "greek",
+        "english": "begin",
+        "translated_version": "αρχίσει"
+    },
+    {
+        "language": "greek",
+        "english": "got",
+        "translated_version": "πήρα"
+    },
+    {
+        "language": "greek",
+        "english": "walk",
+        "translated_version": "Περπατήστε"
+    },
+    {
+        "language": "greek",
+        "english": "example",
+        "translated_version": "παράδειγμα"
+    },
+    {
+        "language": "greek",
+        "english": "ease",
+        "translated_version": "ευκολία"
+    },
+    {
+        "language": "greek",
+        "english": "paper",
+        "translated_version": "χαρτί"
+    },
+    {
+        "language": "greek",
+        "english": "group",
+        "translated_version": "ομάδα"
+    },
+    {
+        "language": "greek",
+        "english": "always",
+        "translated_version": "πάντα"
+    },
+    {
+        "language": "greek",
+        "english": "music",
+        "translated_version": "ΜΟΥΣΙΚΗ"
+    },
+    {
+        "language": "greek",
+        "english": "those",
+        "translated_version": "εκείνοι"
+    },
+    {
+        "language": "greek",
+        "english": "both",
+        "translated_version": "και τα δυο"
+    },
+    {
+        "language": "greek",
+        "english": "mark",
+        "translated_version": "σημάδι"
+    },
+    {
+        "language": "greek",
+        "english": "often",
+        "translated_version": "συχνά"
+    },
+    {
+        "language": "greek",
+        "english": "letter",
+        "translated_version": "γράμμα"
+    },
+    {
+        "language": "greek",
+        "english": "until",
+        "translated_version": "μέχρι"
+    },
+    {
+        "language": "greek",
+        "english": "mile",
+        "translated_version": "μίλι"
+    },
+    {
+        "language": "greek",
+        "english": "river",
+        "translated_version": "ποτάμι"
+    },
+    {
+        "language": "greek",
+        "english": "car",
+        "translated_version": "αυτοκίνητο"
+    },
+    {
+        "language": "greek",
+        "english": "feet",
+        "translated_version": "πόδια"
+    },
+    {
+        "language": "greek",
+        "english": "care",
+        "translated_version": "Φροντίδα"
+    },
+    {
+        "language": "greek",
+        "english": "second",
+        "translated_version": "δεύτερος"
+    },
+    {
+        "language": "greek",
+        "english": "enough",
+        "translated_version": "αρκετά"
+    },
+    {
+        "language": "greek",
+        "english": "plain",
+        "translated_version": "πεδιάδα"
+    },
+    {
+        "language": "greek",
+        "english": "girl",
+        "translated_version": "κορίτσι"
+    },
+    {
+        "language": "greek",
+        "english": "usual",
+        "translated_version": "συνήθης"
+    },
+    {
+        "language": "greek",
+        "english": "young",
+        "translated_version": "νέος"
+    },
+    {
+        "language": "greek",
+        "english": "ready",
+        "translated_version": "έτοιμος"
+    },
+    {
+        "language": "greek",
+        "english": "above",
+        "translated_version": "πάνω από"
+    },
+    {
+        "language": "greek",
+        "english": "ever",
+        "translated_version": "πάντα"
+    },
+    {
+        "language": "greek",
+        "english": "red",
+        "translated_version": "το κόκκινο"
+    },
+    {
+        "language": "greek",
+        "english": "list",
+        "translated_version": "λίστα"
+    },
+    {
+        "language": "greek",
+        "english": "though",
+        "translated_version": "αν και"
+    },
+    {
+        "language": "greek",
+        "english": "feel",
+        "translated_version": "αφή"
+    },
+    {
+        "language": "greek",
+        "english": "talk",
+        "translated_version": "ΜΙΛΑ ρε"
+    },
+    {
+        "language": "greek",
+        "english": "bird",
+        "translated_version": "πουλί"
+    },
+    {
+        "language": "greek",
+        "english": "soon",
+        "translated_version": "σύντομα"
+    },
+    {
+        "language": "greek",
+        "english": "body",
+        "translated_version": "σώμα"
+    },
+    {
+        "language": "greek",
+        "english": "dog",
+        "translated_version": "σκύλος"
+    },
+    {
+        "language": "greek",
+        "english": "family",
+        "translated_version": "οικογένεια"
+    },
+    {
+        "language": "greek",
+        "english": "direct",
+        "translated_version": "απευθείας"
+    },
+    {
+        "language": "greek",
+        "english": "pose",
+        "translated_version": "στάση"
+    },
+    {
+        "language": "greek",
+        "english": "leave",
+        "translated_version": "άδεια"
+    },
+    {
+        "language": "greek",
+        "english": "song",
+        "translated_version": "τραγούδι"
+    },
+    {
+        "language": "greek",
+        "english": "measure",
+        "translated_version": "μετρούν"
+    },
+    {
+        "language": "greek",
+        "english": "door",
+        "translated_version": "πόρτα"
+    },
+    {
+        "language": "greek",
+        "english": "product",
+        "translated_version": "προϊόν"
+    },
+    {
+        "language": "greek",
+        "english": "black",
+        "translated_version": "μαύρος"
+    },
+    {
+        "language": "greek",
+        "english": "short",
+        "translated_version": "μικρός"
+    },
+    {
+        "language": "greek",
+        "english": "numeral",
+        "translated_version": "αριθμός"
+    },
+    {
+        "language": "greek",
+        "english": "class",
+        "translated_version": "τάξη"
+    },
+    {
+        "language": "greek",
+        "english": "wind",
+        "translated_version": "άνεμος"
+    },
+    {
+        "language": "greek",
+        "english": "question",
+        "translated_version": "ερώτηση"
+    },
+    {
+        "language": "greek",
+        "english": "happen",
+        "translated_version": "συμβεί"
+    },
+    {
+        "language": "greek",
+        "english": "complete",
+        "translated_version": "πλήρης"
+    },
+    {
+        "language": "greek",
+        "english": "ship",
+        "translated_version": "πλοίο"
+    },
+    {
+        "language": "greek",
+        "english": "area",
+        "translated_version": "περιοχή"
+    },
+    {
+        "language": "greek",
+        "english": "half",
+        "translated_version": "τα μισα"
+    },
+    {
+        "language": "greek",
+        "english": "rock",
+        "translated_version": "βράχος"
+    },
+    {
+        "language": "greek",
+        "english": "order",
+        "translated_version": "Σειρά"
+    },
+    {
+        "language": "greek",
+        "english": "fire",
+        "translated_version": "Φωτιά"
+    },
+    {
+        "language": "greek",
+        "english": "south",
+        "translated_version": "Νότος"
+    },
+    {
+        "language": "greek",
+        "english": "problem",
+        "translated_version": "πρόβλημα"
+    },
+    {
+        "language": "greek",
+        "english": "piece",
+        "translated_version": "κομμάτι"
+    },
+    {
+        "language": "greek",
+        "english": "told",
+        "translated_version": "είπε"
+    },
+    {
+        "language": "greek",
+        "english": "knew",
+        "translated_version": "ήξερα"
+    },
+    {
+        "language": "greek",
+        "english": "pass",
+        "translated_version": "πέρασμα"
+    },
+    {
+        "language": "greek",
+        "english": "since",
+        "translated_version": "Από"
+    },
+    {
+        "language": "greek",
+        "english": "top",
+        "translated_version": "μπλουζα"
+    },
+    {
+        "language": "greek",
+        "english": "whole",
+        "translated_version": "ολόκληρος"
+    },
+    {
+        "language": "greek",
+        "english": "king",
+        "translated_version": "Βασιλιάς"
+    },
+    {
+        "language": "greek",
+        "english": "street",
+        "translated_version": "δρόμος"
+    },
+    {
+        "language": "greek",
+        "english": "inch",
+        "translated_version": "ίντσα"
+    },
+    {
+        "language": "greek",
+        "english": "multiply",
+        "translated_version": "πολλαπλασιάζω"
+    },
+    {
+        "language": "greek",
+        "english": "nothing",
+        "translated_version": "τίποτα"
+    },
+    {
+        "language": "greek",
+        "english": "course",
+        "translated_version": "σειρά μαθημάτων"
+    },
+    {
+        "language": "greek",
+        "english": "stay",
+        "translated_version": "διαμονή"
+    },
+    {
+        "language": "greek",
+        "english": "wheel",
+        "translated_version": "ρόδα"
+    },
+    {
+        "language": "greek",
+        "english": "full",
+        "translated_version": "γεμάτος"
+    },
+    {
+        "language": "greek",
+        "english": "force",
+        "translated_version": "δύναμη"
+    },
+    {
+        "language": "greek",
+        "english": "blue",
+        "translated_version": "μπλε"
+    },
+    {
+        "language": "greek",
+        "english": "object",
+        "translated_version": "αντικείμενο"
+    },
+    {
+        "language": "greek",
+        "english": "decide",
+        "translated_version": "αποφασίζω"
+    },
+    {
+        "language": "greek",
+        "english": "surface",
+        "translated_version": "επιφάνεια"
+    },
+    {
+        "language": "greek",
+        "english": "deep",
+        "translated_version": "βαθύς"
+    },
+    {
+        "language": "greek",
+        "english": "moon",
+        "translated_version": "φεγγάρι"
+    },
+    {
+        "language": "greek",
+        "english": "island",
+        "translated_version": "νησί"
+    },
+    {
+        "language": "greek",
+        "english": "foot",
+        "translated_version": "πόδι"
+    },
+    {
+        "language": "greek",
+        "english": "system",
+        "translated_version": "Σύστημα"
+    },
+    {
+        "language": "greek",
+        "english": "busy",
+        "translated_version": "απασχολημένος"
+    },
+    {
+        "language": "greek",
+        "english": "test",
+        "translated_version": "δοκιμή"
+    },
+    {
+        "language": "greek",
+        "english": "record",
+        "translated_version": "Ρεκόρ"
+    },
+    {
+        "language": "greek",
+        "english": "boat",
+        "translated_version": "σκάφος"
+    },
+    {
+        "language": "greek",
+        "english": "common",
+        "translated_version": "κοινός"
+    },
+    {
+        "language": "greek",
+        "english": "gold",
+        "translated_version": "χρυσός"
+    },
+    {
+        "language": "greek",
+        "english": "possible",
+        "translated_version": "δυνατόν"
+    },
+    {
+        "language": "greek",
+        "english": "plane",
+        "translated_version": "επίπεδο"
+    },
+    {
+        "language": "greek",
+        "english": "stead",
+        "translated_version": "θέση"
+    },
+    {
+        "language": "greek",
+        "english": "dry",
+        "translated_version": "στεγνός"
+    },
+    {
+        "language": "greek",
+        "english": "wonder",
+        "translated_version": "θαύμα"
+    },
+    {
+        "language": "greek",
+        "english": "laugh",
+        "translated_version": "γέλιο"
+    },
+    {
+        "language": "greek",
+        "english": "thousand",
+        "translated_version": "χίλια"
+    },
+    {
+        "language": "greek",
+        "english": "ago",
+        "translated_version": "πριν"
+    },
+    {
+        "language": "greek",
+        "english": "ran",
+        "translated_version": "έτρεξα"
+    },
+    {
+        "language": "greek",
+        "english": "check",
+        "translated_version": "έλεγχος"
+    },
+    {
+        "language": "greek",
+        "english": "game",
+        "translated_version": "παιχνίδι"
+    },
+    {
+        "language": "greek",
+        "english": "shape",
+        "translated_version": "σχήμα"
+    },
+    {
+        "language": "greek",
+        "english": "equate",
+        "translated_version": "εξισώνω"
+    },
+    {
+        "language": "greek",
+        "english": "miss",
+        "translated_version": "δεσποινίδα"
+    },
+    {
+        "language": "greek",
+        "english": "brought",
+        "translated_version": "έφερε"
+    },
+    {
+        "language": "greek",
+        "english": "heat",
+        "translated_version": "θερμότητα"
+    },
+    {
+        "language": "greek",
+        "english": "snow",
+        "translated_version": "χιόνι"
+    },
+    {
+        "language": "greek",
+        "english": "tire",
+        "translated_version": "λάστιχο"
+    },
+    {
+        "language": "greek",
+        "english": "bring",
+        "translated_version": "να φερεις"
+    },
+    {
+        "language": "greek",
+        "english": "yes",
+        "translated_version": "Ναί"
+    },
+    {
+        "language": "greek",
+        "english": "distant",
+        "translated_version": "μακρινός"
+    },
+    {
+        "language": "greek",
+        "english": "fill",
+        "translated_version": "γέμισμα"
+    },
+    {
+        "language": "greek",
+        "english": "east",
+        "translated_version": "Ανατολή"
+    },
+    {
+        "language": "greek",
+        "english": "paint",
+        "translated_version": "χρώμα"
+    },
+    {
+        "language": "greek",
+        "english": "language",
+        "translated_version": "Γλώσσα"
+    },
+    {
+        "language": "greek",
+        "english": "among",
+        "translated_version": "αναμεταξύ"
+    },
+    {
+        "language": "greek",
+        "english": "unit",
+        "translated_version": "μονάδα"
+    },
+    {
+        "language": "greek",
+        "english": "power",
+        "translated_version": "εξουσία"
+    },
+    {
+        "language": "greek",
+        "english": "town",
+        "translated_version": "πόλη"
+    },
+    {
+        "language": "greek",
+        "english": "fine",
+        "translated_version": "πρόστιμο"
+    },
+    {
+        "language": "greek",
+        "english": "certain",
+        "translated_version": "βέβαιος"
+    },
+    {
+        "language": "greek",
+        "english": "fly",
+        "translated_version": "πετώ"
+    },
+    {
+        "language": "greek",
+        "english": "fall",
+        "translated_version": "πτώση"
+    },
+    {
+        "language": "greek",
+        "english": "lead",
+        "translated_version": "οδηγω"
+    },
+    {
+        "language": "greek",
+        "english": "cry",
+        "translated_version": "κραυγή"
+    },
+    {
+        "language": "greek",
+        "english": "dark",
+        "translated_version": "σκοτάδι"
+    },
+    {
+        "language": "greek",
+        "english": "machine",
+        "translated_version": "μηχανή"
+    },
+    {
+        "language": "greek",
+        "english": "note",
+        "translated_version": "Σημείωση"
+    },
+    {
+        "language": "greek",
+        "english": "wait",
+        "translated_version": "Περίμενε"
+    },
+    {
+        "language": "greek",
+        "english": "plan",
+        "translated_version": "σχέδιο"
+    },
+    {
+        "language": "greek",
+        "english": "figure",
+        "translated_version": "εικόνα"
+    },
+    {
+        "language": "greek",
+        "english": "star",
+        "translated_version": "αστέρι"
+    },
+    {
+        "language": "greek",
+        "english": "box",
+        "translated_version": "κουτί"
+    },
+    {
+        "language": "greek",
+        "english": "noun",
+        "translated_version": "ουσιαστικό"
+    },
+    {
+        "language": "greek",
+        "english": "field",
+        "translated_version": "πεδίο"
+    },
+    {
+        "language": "greek",
+        "english": "rest",
+        "translated_version": "υπόλοιπο"
+    },
+    {
+        "language": "greek",
+        "english": "correct",
+        "translated_version": "σωστός"
+    },
+    {
+        "language": "greek",
+        "english": "able",
+        "translated_version": "ικανός"
+    },
+    {
+        "language": "greek",
+        "english": "pound",
+        "translated_version": "λίβρα"
+    },
+    {
+        "language": "greek",
+        "english": "done",
+        "translated_version": "Έγινε"
+    },
+    {
+        "language": "greek",
+        "english": "beauty",
+        "translated_version": "ομορφιά"
+    },
+    {
+        "language": "greek",
+        "english": "drive",
+        "translated_version": "οδηγώ"
+    },
+    {
+        "language": "greek",
+        "english": "stood",
+        "translated_version": "στάθηκε"
+    },
+    {
+        "language": "greek",
+        "english": "contain",
+        "translated_version": "περιέχω"
+    },
+    {
+        "language": "greek",
+        "english": "front",
+        "translated_version": "εμπρός"
+    },
+    {
+        "language": "greek",
+        "english": "teach",
+        "translated_version": "διδάσκω"
+    },
+    {
+        "language": "greek",
+        "english": "week",
+        "translated_version": "εβδομάδα"
+    },
+    {
+        "language": "greek",
+        "english": "final",
+        "translated_version": "τελικός"
+    },
+    {
+        "language": "greek",
+        "english": "gave",
+        "translated_version": "έδωσε"
+    },
+    {
+        "language": "greek",
+        "english": "green",
+        "translated_version": "πράσινος"
+    },
+    {
+        "language": "greek",
+        "english": "oh",
+        "translated_version": "Ω"
+    },
+    {
+        "language": "greek",
+        "english": "quick",
+        "translated_version": "γρήγορα"
+    },
+    {
+        "language": "greek",
+        "english": "develop",
+        "translated_version": "αναπτύσσω"
+    },
+    {
+        "language": "greek",
+        "english": "ocean",
+        "translated_version": "ωκεανός"
+    },
+    {
+        "language": "greek",
+        "english": "warm",
+        "translated_version": "ζεστός"
+    },
+    {
+        "language": "greek",
+        "english": "free",
+        "translated_version": "Ελεύθερος"
+    },
+    {
+        "language": "greek",
+        "english": "minute",
+        "translated_version": "λεπτό"
+    },
+    {
+        "language": "greek",
+        "english": "strong",
+        "translated_version": "ισχυρός"
+    },
+    {
+        "language": "greek",
+        "english": "special",
+        "translated_version": "ειδικός"
+    },
+    {
+        "language": "greek",
+        "english": "mind",
+        "translated_version": "μυαλό"
+    },
+    {
+        "language": "greek",
+        "english": "behind",
+        "translated_version": "πίσω"
+    },
+    {
+        "language": "greek",
+        "english": "clear",
+        "translated_version": "Σαφή"
+    },
+    {
+        "language": "greek",
+        "english": "tail",
+        "translated_version": "ουρά"
+    },
+    {
+        "language": "greek",
+        "english": "produce",
+        "translated_version": "παράγω"
+    },
+    {
+        "language": "greek",
+        "english": "fact",
+        "translated_version": "γεγονός"
+    },
+    {
+        "language": "greek",
+        "english": "space",
+        "translated_version": "χώρος"
+    },
+    {
+        "language": "greek",
+        "english": "heard",
+        "translated_version": "ακούστηκε"
+    },
+    {
+        "language": "greek",
+        "english": "best",
+        "translated_version": "καλύτερος"
+    },
+    {
+        "language": "greek",
+        "english": "hour",
+        "translated_version": "ώρα"
+    },
+    {
+        "language": "greek",
+        "english": "better",
+        "translated_version": "καλύτερα"
+    },
+    {
+        "language": "greek",
+        "english": "true",
+        "translated_version": "αληθής"
+    },
+    {
+        "language": "greek",
+        "english": "during",
+        "translated_version": "στη διάρκεια"
+    },
+    {
+        "language": "greek",
+        "english": "hundred",
+        "translated_version": "εκατό"
+    },
+    {
+        "language": "greek",
+        "english": "five",
+        "translated_version": "πέντε"
+    },
+    {
+        "language": "greek",
+        "english": "remember",
+        "translated_version": "θυμάμαι"
+    },
+    {
+        "language": "greek",
+        "english": "step",
+        "translated_version": "βήμα"
+    },
+    {
+        "language": "greek",
+        "english": "early",
+        "translated_version": "νωρίς"
+    },
+    {
+        "language": "greek",
+        "english": "hold",
+        "translated_version": "Κρατήστε"
+    },
+    {
+        "language": "greek",
+        "english": "west",
+        "translated_version": "δυτικά"
+    },
+    {
+        "language": "greek",
+        "english": "ground",
+        "translated_version": "έδαφος"
+    },
+    {
+        "language": "greek",
+        "english": "interest",
+        "translated_version": "ενδιαφέρον"
+    },
+    {
+        "language": "greek",
+        "english": "reach",
+        "translated_version": "φθάνω"
+    },
+    {
+        "language": "greek",
+        "english": "fast",
+        "translated_version": "γρήγορα"
+    },
+    {
+        "language": "greek",
+        "english": "verb",
+        "translated_version": "ρήμα"
+    },
+    {
+        "language": "greek",
+        "english": "sing",
+        "translated_version": "τραγουδώ"
+    },
+    {
+        "language": "greek",
+        "english": "listen",
+        "translated_version": "ακούω"
+    },
+    {
+        "language": "greek",
+        "english": "six",
+        "translated_version": "έξι"
+    },
+    {
+        "language": "greek",
+        "english": "table",
+        "translated_version": "τραπέζι"
+    },
+    {
+        "language": "greek",
+        "english": "travel",
+        "translated_version": "ταξίδι"
+    },
+    {
+        "language": "greek",
+        "english": "less",
+        "translated_version": "πιο λιγο"
+    },
+    {
+        "language": "greek",
+        "english": "morning",
+        "translated_version": "πρωί"
+    },
+    {
+        "language": "greek",
+        "english": "ten",
+        "translated_version": "δέκα"
+    },
+    {
+        "language": "greek",
+        "english": "simple",
+        "translated_version": "απλός"
+    },
+    {
+        "language": "greek",
+        "english": "several",
+        "translated_version": "αρκετά"
+    },
+    {
+        "language": "greek",
+        "english": "vowel",
+        "translated_version": "φωνήεν"
+    },
+    {
+        "language": "greek",
+        "english": "toward",
+        "translated_version": "προς"
+    },
+    {
+        "language": "greek",
+        "english": "war",
+        "translated_version": "πόλεμος"
+    },
+    {
+        "language": "greek",
+        "english": "lay",
+        "translated_version": "λαϊκός"
+    },
+    {
+        "language": "greek",
+        "english": "against",
+        "translated_version": "κατά"
+    },
+    {
+        "language": "greek",
+        "english": "pattern",
+        "translated_version": "πρότυπο"
+    },
+    {
+        "language": "greek",
+        "english": "slow",
+        "translated_version": "αργός"
+    },
+    {
+        "language": "greek",
+        "english": "center",
+        "translated_version": "κέντρο"
+    },
+    {
+        "language": "greek",
+        "english": "love",
+        "translated_version": "αγάπη"
+    },
+    {
+        "language": "greek",
+        "english": "person",
+        "translated_version": "πρόσωπο"
+    },
+    {
+        "language": "greek",
+        "english": "money",
+        "translated_version": "χρήματα"
+    },
+    {
+        "language": "greek",
+        "english": "serve",
+        "translated_version": "σερβίρισμα"
+    },
+    {
+        "language": "greek",
+        "english": "appear",
+        "translated_version": "εμφανίζομαι"
+    },
+    {
+        "language": "greek",
+        "english": "road",
+        "translated_version": "δρόμος"
+    },
+    {
+        "language": "greek",
+        "english": "map",
+        "translated_version": "χάρτης"
+    },
+    {
+        "language": "greek",
+        "english": "rain",
+        "translated_version": "βροχή"
+    },
+    {
+        "language": "greek",
+        "english": "rule",
+        "translated_version": "κανόνας"
+    },
+    {
+        "language": "greek",
+        "english": "govern",
+        "translated_version": "κυβερνώ"
+    },
+    {
+        "language": "greek",
+        "english": "pull",
+        "translated_version": "Τραβήξτε"
+    },
+    {
+        "language": "greek",
+        "english": "cold",
+        "translated_version": "κρύο"
+    },
+    {
+        "language": "greek",
+        "english": "notice",
+        "translated_version": "ειδοποίηση"
+    },
+    {
+        "language": "greek",
+        "english": "voice",
+        "translated_version": "φωνή"
+    },
+    {
+        "language": "greek",
+        "english": "energy",
+        "translated_version": "ενέργεια"
+    },
+    {
+        "language": "greek",
+        "english": "hunt",
+        "translated_version": "κυνήγι"
+    },
+    {
+        "language": "greek",
+        "english": "probable",
+        "translated_version": "πιθανός"
+    },
+    {
+        "language": "greek",
+        "english": "bed",
+        "translated_version": "κρεβάτι"
+    },
+    {
+        "language": "greek",
+        "english": "brother",
+        "translated_version": "αδελφός"
+    },
+    {
+        "language": "greek",
+        "english": "egg",
+        "translated_version": "αυγό"
+    },
+    {
+        "language": "greek",
+        "english": "ride",
+        "translated_version": "βόλτα"
+    },
+    {
+        "language": "greek",
+        "english": "cell",
+        "translated_version": "κύτταρο"
+    },
+    {
+        "language": "greek",
+        "english": "believe",
+        "translated_version": "πιστεύω"
+    },
+    {
+        "language": "greek",
+        "english": "perhaps",
+        "translated_version": "ίσως"
+    },
+    {
+        "language": "greek",
+        "english": "pick",
+        "translated_version": "διαλέγω"
+    },
+    {
+        "language": "greek",
+        "english": "sudden",
+        "translated_version": "αιφνίδιος"
+    },
+    {
+        "language": "greek",
+        "english": "count",
+        "translated_version": "μετρώ"
+    },
+    {
+        "language": "greek",
+        "english": "square",
+        "translated_version": "τετράγωνο"
+    },
+    {
+        "language": "greek",
+        "english": "reason",
+        "translated_version": "λόγος"
+    },
+    {
+        "language": "greek",
+        "english": "length",
+        "translated_version": "μήκος"
+    },
+    {
+        "language": "greek",
+        "english": "represent",
+        "translated_version": "εκπροσωπώ"
+    },
+    {
+        "language": "greek",
+        "english": "art",
+        "translated_version": "τέχνη"
+    },
+    {
+        "language": "greek",
+        "english": "subject",
+        "translated_version": "θέμα"
+    },
+    {
+        "language": "greek",
+        "english": "region",
+        "translated_version": "περιφέρεια"
+    },
+    {
+        "language": "greek",
+        "english": "size",
+        "translated_version": "Μέγεθος"
+    },
+    {
+        "language": "greek",
+        "english": "vary",
+        "translated_version": "ποικίλλω"
+    },
+    {
+        "language": "greek",
+        "english": "settle",
+        "translated_version": "εγκαθίσταμαι"
+    },
+    {
+        "language": "greek",
+        "english": "speak",
+        "translated_version": "μιλώ"
+    },
+    {
+        "language": "greek",
+        "english": "weight",
+        "translated_version": "βάρος"
+    },
+    {
+        "language": "greek",
+        "english": "general",
+        "translated_version": "γενικός"
+    },
+    {
+        "language": "greek",
+        "english": "ice",
+        "translated_version": "πάγος"
+    },
+    {
+        "language": "greek",
+        "english": "matter",
+        "translated_version": "ύλη"
+    },
+    {
+        "language": "greek",
+        "english": "circle",
+        "translated_version": "κύκλος"
+    },
+    {
+        "language": "greek",
+        "english": "pair",
+        "translated_version": "ζεύγος"
+    },
+    {
+        "language": "greek",
+        "english": "include",
+        "translated_version": "περιλαμβάνω"
+    },
+    {
+        "language": "greek",
+        "english": "divide",
+        "translated_version": "διαιρέστε"
+    },
+    {
+        "language": "greek",
+        "english": "syllable",
+        "translated_version": "συλλαβή"
+    },
+    {
+        "language": "greek",
+        "english": "felt",
+        "translated_version": "ένιωσα"
+    },
+    {
+        "language": "greek",
+        "english": "grand",
+        "translated_version": "μεγαλειώδης"
+    },
+    {
+        "language": "greek",
+        "english": "ball",
+        "translated_version": "μπάλα"
+    },
+    {
+        "language": "greek",
+        "english": "yet",
+        "translated_version": "Ακόμη"
+    },
+    {
+        "language": "greek",
+        "english": "wave",
+        "translated_version": "κύμα"
+    },
+    {
+        "language": "greek",
+        "english": "drop",
+        "translated_version": "πτώση"
+    },
+    {
+        "language": "greek",
+        "english": "heart",
+        "translated_version": "καρδιά"
+    },
+    {
+        "language": "greek",
+        "english": "am",
+        "translated_version": "είμαι"
+    },
+    {
+        "language": "greek",
+        "english": "present",
+        "translated_version": "παρόν"
+    },
+    {
+        "language": "greek",
+        "english": "heavy",
+        "translated_version": "βαρύς"
+    },
+    {
+        "language": "greek",
+        "english": "dance",
+        "translated_version": "χορός"
+    },
+    {
+        "language": "greek",
+        "english": "engine",
+        "translated_version": "κινητήρας"
+    },
+    {
+        "language": "greek",
+        "english": "position",
+        "translated_version": "θέση"
+    },
+    {
+        "language": "greek",
+        "english": "arm",
+        "translated_version": "μπράτσο"
+    },
+    {
+        "language": "greek",
+        "english": "wide",
+        "translated_version": "πλατύς"
+    },
+    {
+        "language": "greek",
+        "english": "sail",
+        "translated_version": "πανι ΠΛΟΙΟΥ"
+    },
+    {
+        "language": "greek",
+        "english": "material",
+        "translated_version": "υλικό"
+    },
+    {
+        "language": "greek",
+        "english": "fraction",
+        "translated_version": "κλάσμα"
+    },
+    {
+        "language": "greek",
+        "english": "forest",
+        "translated_version": "δάσος"
+    },
+    {
+        "language": "greek",
+        "english": "sit",
+        "translated_version": "Καθίστε"
+    },
+    {
+        "language": "greek",
+        "english": "race",
+        "translated_version": "αγώνας"
+    },
+    {
+        "language": "greek",
+        "english": "window",
+        "translated_version": "παράθυρο"
+    },
+    {
+        "language": "greek",
+        "english": "store",
+        "translated_version": "κατάστημα"
+    },
+    {
+        "language": "greek",
+        "english": "summer",
+        "translated_version": "καλοκαίρι"
+    },
+    {
+        "language": "greek",
+        "english": "train",
+        "translated_version": "τρένο"
+    },
+    {
+        "language": "greek",
+        "english": "sleep",
+        "translated_version": "ύπνος"
+    },
+    {
+        "language": "greek",
+        "english": "prove",
+        "translated_version": "αποδεικνύω"
+    },
+    {
+        "language": "greek",
+        "english": "lone",
+        "translated_version": "μοναχικός"
+    },
+    {
+        "language": "greek",
+        "english": "leg",
+        "translated_version": "πόδι"
+    },
+    {
+        "language": "greek",
+        "english": "exercise",
+        "translated_version": "άσκηση"
+    },
+    {
+        "language": "greek",
+        "english": "wall",
+        "translated_version": "τείχος"
+    },
+    {
+        "language": "greek",
+        "english": "catch",
+        "translated_version": "σύλληψη"
+    },
+    {
+        "language": "greek",
+        "english": "mount",
+        "translated_version": "βουνό"
+    },
+    {
+        "language": "greek",
+        "english": "wish",
+        "translated_version": "επιθυμία"
+    },
+    {
+        "language": "greek",
+        "english": "sky",
+        "translated_version": "ουρανός"
+    },
+    {
+        "language": "greek",
+        "english": "board",
+        "translated_version": "σανίδα"
+    },
+    {
+        "language": "greek",
+        "english": "joy",
+        "translated_version": "Χαρά"
+    },
+    {
+        "language": "greek",
+        "english": "winter",
+        "translated_version": "χειμώνας"
+    },
+    {
+        "language": "greek",
+        "english": "sat",
+        "translated_version": "κάθισε"
+    },
+    {
+        "language": "greek",
+        "english": "written",
+        "translated_version": "γραπτός"
+    },
+    {
+        "language": "greek",
+        "english": "wild",
+        "translated_version": "άγριος"
+    },
+    {
+        "language": "greek",
+        "english": "instrument",
+        "translated_version": "όργανο"
+    },
+    {
+        "language": "greek",
+        "english": "kept",
+        "translated_version": "φυλάσσεται"
+    },
+    {
+        "language": "greek",
+        "english": "glass",
+        "translated_version": "ποτήρι"
+    },
+    {
+        "language": "greek",
+        "english": "grass",
+        "translated_version": "γρασίδι"
+    },
+    {
+        "language": "greek",
+        "english": "cow",
+        "translated_version": "αγελάδα"
+    },
+    {
+        "language": "greek",
+        "english": "job",
+        "translated_version": "δουλειά"
+    },
+    {
+        "language": "greek",
+        "english": "edge",
+        "translated_version": "άκρη"
+    },
+    {
+        "language": "greek",
+        "english": "sign",
+        "translated_version": "σημάδι"
+    },
+    {
+        "language": "greek",
+        "english": "visit",
+        "translated_version": "επίσκεψη"
+    },
+    {
+        "language": "greek",
+        "english": "past",
+        "translated_version": "το παρελθόν"
+    },
+    {
+        "language": "greek",
+        "english": "soft",
+        "translated_version": "μαλακός"
+    },
+    {
+        "language": "greek",
+        "english": "fun",
+        "translated_version": "διασκέδαση"
+    },
+    {
+        "language": "greek",
+        "english": "bright",
+        "translated_version": "ΛΑΜΠΡΌΣ"
+    },
+    {
+        "language": "greek",
+        "english": "gas",
+        "translated_version": "αέριο"
+    },
+    {
+        "language": "greek",
+        "english": "weather",
+        "translated_version": "καιρός"
+    },
+    {
+        "language": "greek",
+        "english": "month",
+        "translated_version": "μήνας"
+    },
+    {
+        "language": "greek",
+        "english": "million",
+        "translated_version": "εκατομμύριο"
+    },
+    {
+        "language": "greek",
+        "english": "bear",
+        "translated_version": "αρκούδα"
+    },
+    {
+        "language": "greek",
+        "english": "finish",
+        "translated_version": "φινίρισμα"
+    },
+    {
+        "language": "greek",
+        "english": "happy",
+        "translated_version": "ευτυχισμένος"
+    },
+    {
+        "language": "greek",
+        "english": "hope",
+        "translated_version": "ελπίδα"
+    },
+    {
+        "language": "greek",
+        "english": "flower",
+        "translated_version": "λουλούδι"
+    },
+    {
+        "language": "greek",
+        "english": "clothe",
+        "translated_version": "ντύνω"
+    },
+    {
+        "language": "greek",
+        "english": "strange",
+        "translated_version": "παράξενος"
+    },
+    {
+        "language": "greek",
+        "english": "gone",
+        "translated_version": "χαμένος"
+    },
+    {
+        "language": "greek",
+        "english": "trade",
+        "translated_version": "εμπορικές συναλλαγές"
+    },
+    {
+        "language": "greek",
+        "english": "melody",
+        "translated_version": "μελωδία"
+    },
+    {
+        "language": "greek",
+        "english": "trip",
+        "translated_version": "ταξίδι"
+    },
+    {
+        "language": "greek",
+        "english": "office",
+        "translated_version": "γραφείο"
+    },
+    {
+        "language": "greek",
+        "english": "receive",
+        "translated_version": "λαμβάνω"
+    },
+    {
+        "language": "greek",
+        "english": "row",
+        "translated_version": "σειρά"
+    },
+    {
+        "language": "greek",
+        "english": "mouth",
+        "translated_version": "στόμα"
+    },
+    {
+        "language": "greek",
+        "english": "exact",
+        "translated_version": "ακριβής"
+    },
+    {
+        "language": "greek",
+        "english": "symbol",
+        "translated_version": "σύμβολο"
+    },
+    {
+        "language": "greek",
+        "english": "die",
+        "translated_version": "καλούπι"
+    },
+    {
+        "language": "greek",
+        "english": "least",
+        "translated_version": "ελάχιστα"
+    },
+    {
+        "language": "greek",
+        "english": "trouble",
+        "translated_version": "ταλαιπωρία"
+    },
+    {
+        "language": "greek",
+        "english": "shout",
+        "translated_version": "κραυγή"
+    },
+    {
+        "language": "greek",
+        "english": "except",
+        "translated_version": "εκτός"
+    },
+    {
+        "language": "greek",
+        "english": "wrote",
+        "translated_version": "έγραψε"
+    },
+    {
+        "language": "greek",
+        "english": "seed",
+        "translated_version": "σπόρος"
+    },
+    {
+        "language": "greek",
+        "english": "tone",
+        "translated_version": "τόνος"
+    },
+    {
+        "language": "greek",
+        "english": "join",
+        "translated_version": "Συμμετοχή"
+    },
+    {
+        "language": "greek",
+        "english": "suggest",
+        "translated_version": "προτείνω"
+    },
+    {
+        "language": "greek",
+        "english": "clean",
+        "translated_version": "ΚΑΘΑΡΗ"
+    },
+    {
+        "language": "greek",
+        "english": "break",
+        "translated_version": "Διακοπή"
+    },
+    {
+        "language": "greek",
+        "english": "lady",
+        "translated_version": "κυρία"
+    },
+    {
+        "language": "greek",
+        "english": "yard",
+        "translated_version": "αυλή"
+    },
+    {
+        "language": "greek",
+        "english": "rise",
+        "translated_version": "αύξηση"
+    },
+    {
+        "language": "greek",
+        "english": "bad",
+        "translated_version": "κακό"
+    },
+    {
+        "language": "greek",
+        "english": "blow",
+        "translated_version": "πλήγμα"
+    },
+    {
+        "language": "greek",
+        "english": "oil",
+        "translated_version": "λάδι"
+    },
+    {
+        "language": "greek",
+        "english": "blood",
+        "translated_version": "αίμα"
+    },
+    {
+        "language": "greek",
+        "english": "touch",
+        "translated_version": "αφή"
+    },
+    {
+        "language": "greek",
+        "english": "grew",
+        "translated_version": "μεγάλωσε"
+    },
+    {
+        "language": "greek",
+        "english": "cent",
+        "translated_version": "σεντ"
+    },
+    {
+        "language": "greek",
+        "english": "mix",
+        "translated_version": "μείγμα"
+    },
+    {
+        "language": "greek",
+        "english": "team",
+        "translated_version": "ομάδα"
+    },
+    {
+        "language": "greek",
+        "english": "wire",
+        "translated_version": "σύρμα"
+    },
+    {
+        "language": "greek",
+        "english": "cost",
+        "translated_version": "κόστος"
+    },
+    {
+        "language": "greek",
+        "english": "lost",
+        "translated_version": "χαμένος"
+    },
+    {
+        "language": "greek",
+        "english": "brown",
+        "translated_version": "καφέ"
+    },
+    {
+        "language": "greek",
+        "english": "wear",
+        "translated_version": "φορούν"
+    },
+    {
+        "language": "greek",
+        "english": "garden",
+        "translated_version": "κήπος"
+    },
+    {
+        "language": "greek",
+        "english": "equal",
+        "translated_version": "ίσος"
+    },
+    {
+        "language": "greek",
+        "english": "sent",
+        "translated_version": "Απεσταλμένα"
+    },
+    {
+        "language": "greek",
+        "english": "choose",
+        "translated_version": "επιλέγω"
+    },
+    {
+        "language": "greek",
+        "english": "fell",
+        "translated_version": "τομάρι ζώου"
+    },
+    {
+        "language": "greek",
+        "english": "fit",
+        "translated_version": "κατάλληλος"
+    },
+    {
+        "language": "greek",
+        "english": "flow",
+        "translated_version": "ροή"
+    },
+    {
+        "language": "greek",
+        "english": "fair",
+        "translated_version": "έκθεση"
+    },
+    {
+        "language": "greek",
+        "english": "bank",
+        "translated_version": "τράπεζα"
+    },
+    {
+        "language": "greek",
+        "english": "collect",
+        "translated_version": "συλλέγω"
+    },
+    {
+        "language": "greek",
+        "english": "save",
+        "translated_version": "αποθηκεύσετε"
+    },
+    {
+        "language": "greek",
+        "english": "control",
+        "translated_version": "έλεγχος"
+    },
+    {
+        "language": "greek",
+        "english": "decimal",
+        "translated_version": "δεκαδικός"
+    },
+    {
+        "language": "greek",
+        "english": "ear",
+        "translated_version": "αυτί"
+    },
+    {
+        "language": "greek",
+        "english": "else",
+        "translated_version": "αλλού"
+    },
+    {
+        "language": "greek",
+        "english": "quite",
+        "translated_version": "αρκετά"
+    },
+    {
+        "language": "greek",
+        "english": "broke",
+        "translated_version": "έσπασε"
+    },
+    {
+        "language": "greek",
+        "english": "case",
+        "translated_version": "υπόθεση"
+    },
+    {
+        "language": "greek",
+        "english": "middle",
+        "translated_version": "μέση"
+    },
+    {
+        "language": "greek",
+        "english": "kill",
+        "translated_version": "σκοτώνω"
+    },
+    {
+        "language": "greek",
+        "english": "son",
+        "translated_version": "υιός"
+    },
+    {
+        "language": "greek",
+        "english": "lake",
+        "translated_version": "λίμνη"
+    },
+    {
+        "language": "greek",
+        "english": "moment",
+        "translated_version": "στιγμή"
+    },
+    {
+        "language": "greek",
+        "english": "scale",
+        "translated_version": "κλίμακα"
+    },
+    {
+        "language": "greek",
+        "english": "loud",
+        "translated_version": "μεγαλόφωνος"
+    },
+    {
+        "language": "greek",
+        "english": "spring",
+        "translated_version": "άνοιξη"
+    },
+    {
+        "language": "greek",
+        "english": "observe",
+        "translated_version": "παρατηρώ"
+    },
+    {
+        "language": "greek",
+        "english": "child",
+        "translated_version": "παιδί"
+    },
+    {
+        "language": "greek",
+        "english": "straight",
+        "translated_version": "ευθεία"
+    },
+    {
+        "language": "greek",
+        "english": "consonant",
+        "translated_version": "σύμφωνο"
+    },
+    {
+        "language": "greek",
+        "english": "nation",
+        "translated_version": "έθνος"
+    },
+    {
+        "language": "greek",
+        "english": "dictionary",
+        "translated_version": "λεξικό"
+    },
+    {
+        "language": "greek",
+        "english": "milk",
+        "translated_version": "γάλα"
+    },
+    {
+        "language": "greek",
+        "english": "speed",
+        "translated_version": "Ταχύτητα"
+    },
+    {
+        "language": "greek",
+        "english": "method",
+        "translated_version": "μέθοδος"
+    },
+    {
+        "language": "greek",
+        "english": "organ",
+        "translated_version": "όργανο"
+    },
+    {
+        "language": "greek",
+        "english": "pay",
+        "translated_version": "πληρωμή"
+    },
+    {
+        "language": "greek",
+        "english": "age",
+        "translated_version": "ηλικία"
+    },
+    {
+        "language": "greek",
+        "english": "section",
+        "translated_version": "Ενότητα"
+    },
+    {
+        "language": "greek",
+        "english": "dress",
+        "translated_version": "φόρεμα"
+    },
+    {
+        "language": "greek",
+        "english": "cloud",
+        "translated_version": "σύννεφο"
+    },
+    {
+        "language": "greek",
+        "english": "surprise",
+        "translated_version": "έκπληξη"
+    },
+    {
+        "language": "greek",
+        "english": "quiet",
+        "translated_version": "ησυχια"
+    },
+    {
+        "language": "greek",
+        "english": "stone",
+        "translated_version": "πέτρα"
+    },
+    {
+        "language": "greek",
+        "english": "tiny",
+        "translated_version": "μικροσκοπικός"
+    },
+    {
+        "language": "greek",
+        "english": "climb",
+        "translated_version": "αναρρίχηση"
+    },
+    {
+        "language": "greek",
+        "english": "cool",
+        "translated_version": "δροσερός"
+    },
+    {
+        "language": "greek",
+        "english": "design",
+        "translated_version": "σχέδιο"
+    },
+    {
+        "language": "greek",
+        "english": "poor",
+        "translated_version": "Φτωχός"
+    },
+    {
+        "language": "greek",
+        "english": "lot",
+        "translated_version": "παρτίδα"
+    },
+    {
+        "language": "greek",
+        "english": "experiment",
+        "translated_version": "πείραμα"
+    },
+    {
+        "language": "greek",
+        "english": "bottom",
+        "translated_version": "κάτω μέρος"
+    },
+    {
+        "language": "greek",
+        "english": "key",
+        "translated_version": "κλειδί"
+    },
+    {
+        "language": "greek",
+        "english": "iron",
+        "translated_version": "σίδερο"
+    },
+    {
+        "language": "greek",
+        "english": "single",
+        "translated_version": "μονόκλινο"
+    },
+    {
+        "language": "greek",
+        "english": "stick",
+        "translated_version": "ραβδί"
+    },
+    {
+        "language": "greek",
+        "english": "flat",
+        "translated_version": "διαμέρισμα"
+    },
+    {
+        "language": "greek",
+        "english": "twenty",
+        "translated_version": "είκοσι"
+    },
+    {
+        "language": "greek",
+        "english": "skin",
+        "translated_version": "δέρμα"
+    },
+    {
+        "language": "greek",
+        "english": "smile",
+        "translated_version": "χαμόγελο"
+    },
+    {
+        "language": "greek",
+        "english": "crease",
+        "translated_version": "πτυχή"
+    },
+    {
+        "language": "greek",
+        "english": "hole",
+        "translated_version": "τρύπα"
+    },
+    {
+        "language": "greek",
+        "english": "jump",
+        "translated_version": "άλμα"
+    },
+    {
+        "language": "greek",
+        "english": "baby",
+        "translated_version": "μωρό"
+    },
+    {
+        "language": "greek",
+        "english": "eight",
+        "translated_version": "οκτώ"
+    },
+    {
+        "language": "greek",
+        "english": "village",
+        "translated_version": "χωριό"
+    },
+    {
+        "language": "greek",
+        "english": "meet",
+        "translated_version": "συναντώ"
+    },
+    {
+        "language": "greek",
+        "english": "root",
+        "translated_version": "ρίζα"
+    },
+    {
+        "language": "greek",
+        "english": "buy",
+        "translated_version": "αγορά"
+    },
+    {
+        "language": "greek",
+        "english": "raise",
+        "translated_version": "υψώνω"
+    },
+    {
+        "language": "greek",
+        "english": "solve",
+        "translated_version": "λύσει"
+    },
+    {
+        "language": "greek",
+        "english": "metal",
+        "translated_version": "μέταλλο"
+    },
+    {
+        "language": "greek",
+        "english": "whether",
+        "translated_version": "αν"
+    },
+    {
+        "language": "greek",
+        "english": "push",
+        "translated_version": "Σπρώξτε"
+    },
+    {
+        "language": "greek",
+        "english": "seven",
+        "translated_version": "επτά"
+    },
+    {
+        "language": "greek",
+        "english": "paragraph",
+        "translated_version": "παράγραφος"
+    },
+    {
+        "language": "greek",
+        "english": "third",
+        "translated_version": "τρίτος"
+    },
+    {
+        "language": "greek",
+        "english": "shall",
+        "translated_version": "θα"
+    },
+    {
+        "language": "greek",
+        "english": "held",
+        "translated_version": "που πραγματοποιήθηκε"
+    },
+    {
+        "language": "greek",
+        "english": "hair",
+        "translated_version": "μαλλιά"
+    },
+    {
+        "language": "greek",
+        "english": "describe",
+        "translated_version": "περιγράφω"
+    },
+    {
+        "language": "greek",
+        "english": "cook",
+        "translated_version": "μάγειρας"
+    },
+    {
+        "language": "greek",
+        "english": "floor",
+        "translated_version": "πάτωμα"
+    },
+    {
+        "language": "greek",
+        "english": "either",
+        "translated_version": "είτε"
+    },
+    {
+        "language": "greek",
+        "english": "result",
+        "translated_version": "αποτέλεσμα"
+    },
+    {
+        "language": "greek",
+        "english": "burn",
+        "translated_version": "έγκαυμα"
+    },
+    {
+        "language": "greek",
+        "english": "hill",
+        "translated_version": "λόφος"
+    },
+    {
+        "language": "greek",
+        "english": "safe",
+        "translated_version": "ασφαλής"
+    },
+    {
+        "language": "greek",
+        "english": "cat",
+        "translated_version": "Γάτα"
+    },
+    {
+        "language": "greek",
+        "english": "century",
+        "translated_version": "αιώνας"
+    },
+    {
+        "language": "greek",
+        "english": "consider",
+        "translated_version": "σκεφτείτε"
+    },
+    {
+        "language": "greek",
+        "english": "type",
+        "translated_version": "τύπος"
+    },
+    {
+        "language": "greek",
+        "english": "law",
+        "translated_version": "νόμος"
+    },
+    {
+        "language": "greek",
+        "english": "bit",
+        "translated_version": "κομμάτι"
+    },
+    {
+        "language": "greek",
+        "english": "coast",
+        "translated_version": "ακτή"
+    },
+    {
+        "language": "greek",
+        "english": "copy",
+        "translated_version": "αντίγραφο"
+    },
+    {
+        "language": "greek",
+        "english": "phrase",
+        "translated_version": "φράση"
+    },
+    {
+        "language": "greek",
+        "english": "silent",
+        "translated_version": "σιωπηλός"
+    },
+    {
+        "language": "greek",
+        "english": "tall",
+        "translated_version": "ψηλός"
+    },
+    {
+        "language": "greek",
+        "english": "sand",
+        "translated_version": "άμμος"
+    },
+    {
+        "language": "greek",
+        "english": "soil",
+        "translated_version": "έδαφος"
+    },
+    {
+        "language": "greek",
+        "english": "roll",
+        "translated_version": "ρολό"
+    },
+    {
+        "language": "greek",
+        "english": "temperature",
+        "translated_version": "θερμοκρασία"
+    },
+    {
+        "language": "greek",
+        "english": "finger",
+        "translated_version": "δάχτυλο"
+    },
+    {
+        "language": "greek",
+        "english": "industry",
+        "translated_version": "βιομηχανία"
+    },
+    {
+        "language": "greek",
+        "english": "value",
+        "translated_version": "αξία"
+    },
+    {
+        "language": "greek",
+        "english": "fight",
+        "translated_version": "πάλη"
+    },
+    {
+        "language": "greek",
+        "english": "lie",
+        "translated_version": "ψέμα"
+    },
+    {
+        "language": "greek",
+        "english": "beat",
+        "translated_version": "Ρυθμός"
+    },
+    {
+        "language": "greek",
+        "english": "excite",
+        "translated_version": "διεγείρω"
+    },
+    {
+        "language": "greek",
+        "english": "natural",
+        "translated_version": "φυσικός"
+    },
+    {
+        "language": "greek",
+        "english": "view",
+        "translated_version": "θέα"
+    },
+    {
+        "language": "greek",
+        "english": "sense",
+        "translated_version": "έννοια"
+    },
+    {
+        "language": "greek",
+        "english": "capital",
+        "translated_version": "κεφάλαιο"
+    },
+    {
+        "language": "greek",
+        "english": "won’t",
+        "translated_version": "συνηθισμένος"
+    },
+    {
+        "language": "greek",
+        "english": "chair",
+        "translated_version": "καρέκλα"
+    },
+    {
+        "language": "greek",
+        "english": "danger",
+        "translated_version": "κίνδυνος"
+    },
+    {
+        "language": "greek",
+        "english": "fruit",
+        "translated_version": "καρπός"
+    },
+    {
+        "language": "greek",
+        "english": "rich",
+        "translated_version": "πλούσιος"
+    },
+    {
+        "language": "greek",
+        "english": "thick",
+        "translated_version": "πυκνός"
+    },
+    {
+        "language": "greek",
+        "english": "soldier",
+        "translated_version": "στρατιώτης"
+    },
+    {
+        "language": "greek",
+        "english": "process",
+        "translated_version": "επεξεργάζομαι, διαδικασία"
+    },
+    {
+        "language": "greek",
+        "english": "operate",
+        "translated_version": "λειτουργεί"
+    },
+    {
+        "language": "greek",
+        "english": "practice",
+        "translated_version": "πρακτική"
+    },
+    {
+        "language": "greek",
+        "english": "separate",
+        "translated_version": "ξεχωριστός"
+    },
+    {
+        "language": "greek",
+        "english": "difficult",
+        "translated_version": "δύσκολος"
+    },
+    {
+        "language": "greek",
+        "english": "doctor",
+        "translated_version": "γιατρός"
+    },
+    {
+        "language": "greek",
+        "english": "please",
+        "translated_version": "σας παρακαλούμε"
+    },
+    {
+        "language": "greek",
+        "english": "protect",
+        "translated_version": "προστατεύω"
+    },
+    {
+        "language": "greek",
+        "english": "noon",
+        "translated_version": "μεσημέρι"
+    },
+    {
+        "language": "greek",
+        "english": "crop",
+        "translated_version": "καλλιέργεια"
+    },
+    {
+        "language": "greek",
+        "english": "modern",
+        "translated_version": "μοντέρνο"
+    },
+    {
+        "language": "greek",
+        "english": "element",
+        "translated_version": "στοιχείο"
+    },
+    {
+        "language": "greek",
+        "english": "hit",
+        "translated_version": "Κτύπημα"
+    },
+    {
+        "language": "greek",
+        "english": "student",
+        "translated_version": "μαθητης σχολειου"
+    },
+    {
+        "language": "greek",
+        "english": "corner",
+        "translated_version": "γωνία"
+    },
+    {
+        "language": "greek",
+        "english": "party",
+        "translated_version": "κόμμα"
+    },
+    {
+        "language": "greek",
+        "english": "supply",
+        "translated_version": "Προμήθεια"
+    },
+    {
+        "language": "greek",
+        "english": "whose",
+        "translated_version": "του οποίου"
+    },
+    {
+        "language": "greek",
+        "english": "locate",
+        "translated_version": "εγκατάσταση"
+    },
+    {
+        "language": "greek",
+        "english": "ring",
+        "translated_version": "δαχτυλίδι"
+    },
+    {
+        "language": "greek",
+        "english": "character",
+        "translated_version": "χαρακτήρας"
+    },
+    {
+        "language": "greek",
+        "english": "insect",
+        "translated_version": "έντομο"
+    },
+    {
+        "language": "greek",
+        "english": "caught",
+        "translated_version": "πιάστηκε"
+    },
+    {
+        "language": "greek",
+        "english": "period",
+        "translated_version": "περίοδος"
+    },
+    {
+        "language": "greek",
+        "english": "indicate",
+        "translated_version": "υποδεικνύω"
+    },
+    {
+        "language": "greek",
+        "english": "radio",
+        "translated_version": "ραδιόφωνο"
+    },
+    {
+        "language": "greek",
+        "english": "spoke",
+        "translated_version": "ακτίνα"
+    },
+    {
+        "language": "greek",
+        "english": "atom",
+        "translated_version": "άτομο"
+    },
+    {
+        "language": "greek",
+        "english": "human",
+        "translated_version": "ο άνθρωπος"
+    },
+    {
+        "language": "greek",
+        "english": "history",
+        "translated_version": "ιστορία"
+    },
+    {
+        "language": "greek",
+        "english": "effect",
+        "translated_version": "αποτέλεσμα"
+    },
+    {
+        "language": "greek",
+        "english": "electric",
+        "translated_version": "ηλεκτρικός"
+    },
+    {
+        "language": "greek",
+        "english": "expect",
+        "translated_version": "αναμένω"
+    },
+    {
+        "language": "greek",
+        "english": "bone",
+        "translated_version": "οστό"
+    },
+    {
+        "language": "greek",
+        "english": "rail",
+        "translated_version": "ράγα"
+    },
+    {
+        "language": "greek",
+        "english": "imagine",
+        "translated_version": "φαντάζομαι"
+    },
+    {
+        "language": "greek",
+        "english": "provide",
+        "translated_version": "προμηθεύω"
+    },
+    {
+        "language": "greek",
+        "english": "agree",
+        "translated_version": "συμφωνώ"
+    },
+    {
+        "language": "greek",
+        "english": "thus",
+        "translated_version": "έτσι"
+    },
+    {
+        "language": "greek",
+        "english": "gentle",
+        "translated_version": "ευγενής"
+    },
+    {
+        "language": "greek",
+        "english": "woman",
+        "translated_version": "γυναίκα"
+    },
+    {
+        "language": "greek",
+        "english": "captain",
+        "translated_version": "Καπετάνιος"
+    },
+    {
+        "language": "greek",
+        "english": "guess",
+        "translated_version": "εικασία"
+    },
+    {
+        "language": "greek",
+        "english": "necessary",
+        "translated_version": "απαραίτητη"
+    },
+    {
+        "language": "greek",
+        "english": "sharp",
+        "translated_version": "αιχμηρός"
+    },
+    {
+        "language": "greek",
+        "english": "wing",
+        "translated_version": "πτέρυγα"
+    },
+    {
+        "language": "greek",
+        "english": "create",
+        "translated_version": "δημιουργώ"
+    },
+    {
+        "language": "greek",
+        "english": "neighbor",
+        "translated_version": "γείτονας"
+    },
+    {
+        "language": "greek",
+        "english": "wash",
+        "translated_version": "πλύση"
+    },
+    {
+        "language": "greek",
+        "english": "bat",
+        "translated_version": "νυχτερίδα"
+    },
+    {
+        "language": "greek",
+        "english": "rather",
+        "translated_version": "μάλλον"
+    },
+    {
+        "language": "greek",
+        "english": "crowd",
+        "translated_version": "πλήθος"
+    },
+    {
+        "language": "greek",
+        "english": "corn",
+        "translated_version": "καλαμπόκι"
+    },
+    {
+        "language": "greek",
+        "english": "compare",
+        "translated_version": "συγκρίνω"
+    },
+    {
+        "language": "greek",
+        "english": "poem",
+        "translated_version": "ποίημα"
+    },
+    {
+        "language": "greek",
+        "english": "string",
+        "translated_version": "σειρά"
+    },
+    {
+        "language": "greek",
+        "english": "bell",
+        "translated_version": "κουδούνι"
+    },
+    {
+        "language": "greek",
+        "english": "depend",
+        "translated_version": "εξαρτώμαι"
+    },
+    {
+        "language": "greek",
+        "english": "meat",
+        "translated_version": "κρέας"
+    },
+    {
+        "language": "greek",
+        "english": "rub",
+        "translated_version": "τρίψιμο"
+    },
+    {
+        "language": "greek",
+        "english": "tube",
+        "translated_version": "σωλήνας"
+    },
+    {
+        "language": "greek",
+        "english": "famous",
+        "translated_version": "διάσημος"
+    },
+    {
+        "language": "greek",
+        "english": "dollar",
+        "translated_version": "δολάριο"
+    },
+    {
+        "language": "greek",
+        "english": "stream",
+        "translated_version": "ρεύμα"
+    },
+    {
+        "language": "greek",
+        "english": "fear",
+        "translated_version": "φόβος"
+    },
+    {
+        "language": "greek",
+        "english": "sight",
+        "translated_version": "θέαμα"
+    },
+    {
+        "language": "greek",
+        "english": "thin",
+        "translated_version": "λεπτός"
+    },
+    {
+        "language": "greek",
+        "english": "triangle",
+        "translated_version": "τρίγωνο"
+    },
+    {
+        "language": "greek",
+        "english": "planet",
+        "translated_version": "πλανήτης"
+    },
+    {
+        "language": "greek",
+        "english": "hurry",
+        "translated_version": "βιασύνη"
+    },
+    {
+        "language": "greek",
+        "english": "chief",
+        "translated_version": "αρχηγός"
+    },
+    {
+        "language": "greek",
+        "english": "colony",
+        "translated_version": "αποικία"
+    },
+    {
+        "language": "greek",
+        "english": "clock",
+        "translated_version": "ρολόι"
+    },
+    {
+        "language": "greek",
+        "english": "mine",
+        "translated_version": "δικος μου"
+    },
+    {
+        "language": "greek",
+        "english": "tie",
+        "translated_version": "γραβάτα"
+    },
+    {
+        "language": "greek",
+        "english": "enter",
+        "translated_version": "εισαγω"
+    },
+    {
+        "language": "greek",
+        "english": "major",
+        "translated_version": "μείζων"
+    },
+    {
+        "language": "greek",
+        "english": "fresh",
+        "translated_version": "φρέσκο"
+    },
+    {
+        "language": "greek",
+        "english": "search",
+        "translated_version": "Αναζήτηση"
+    },
+    {
+        "language": "greek",
+        "english": "send",
+        "translated_version": "στείλετε"
+    },
+    {
+        "language": "greek",
+        "english": "yellow",
+        "translated_version": "κίτρινος"
+    },
+    {
+        "language": "greek",
+        "english": "gun",
+        "translated_version": "όπλο"
+    },
+    {
+        "language": "greek",
+        "english": "allow",
+        "translated_version": "επιτρέπω"
+    },
+    {
+        "language": "greek",
+        "english": "print",
+        "translated_version": "Τυπώνω"
+    },
+    {
+        "language": "greek",
+        "english": "dead",
+        "translated_version": "νεκρός"
+    },
+    {
+        "language": "greek",
+        "english": "spot",
+        "translated_version": "σημείο"
+    },
+    {
+        "language": "greek",
+        "english": "desert",
+        "translated_version": "έρημος"
+    },
+    {
+        "language": "greek",
+        "english": "suit",
+        "translated_version": "κοστούμι"
+    },
+    {
+        "language": "greek",
+        "english": "current",
+        "translated_version": "ρεύμα"
+    },
+    {
+        "language": "greek",
+        "english": "lift",
+        "translated_version": "ανελκυστήρας"
+    },
+    {
+        "language": "greek",
+        "english": "rose",
+        "translated_version": "τριαντάφυλλο"
+    },
+    {
+        "language": "greek",
+        "english": "arrive",
+        "translated_version": "φθάνω"
+    },
+    {
+        "language": "greek",
+        "english": "master",
+        "translated_version": "κύριος"
+    },
+    {
+        "language": "greek",
+        "english": "track",
+        "translated_version": "πίστα"
+    },
+    {
+        "language": "greek",
+        "english": "parent",
+        "translated_version": "μητρική εταιρεία"
+    },
+    {
+        "language": "greek",
+        "english": "shore",
+        "translated_version": "ακτή"
+    },
+    {
+        "language": "greek",
+        "english": "division",
+        "translated_version": "διαίρεση"
+    },
+    {
+        "language": "greek",
+        "english": "sheet",
+        "translated_version": "σεντόνι"
+    },
+    {
+        "language": "greek",
+        "english": "substance",
+        "translated_version": "ουσία"
+    },
+    {
+        "language": "greek",
+        "english": "favor",
+        "translated_version": "εύνοια"
+    },
+    {
+        "language": "greek",
+        "english": "connect",
+        "translated_version": "συνδέω-συωδεομαι"
+    },
+    {
+        "language": "greek",
+        "english": "post",
+        "translated_version": "Θέση"
+    },
+    {
+        "language": "greek",
+        "english": "spend",
+        "translated_version": "περάσουν"
+    },
+    {
+        "language": "greek",
+        "english": "chord",
+        "translated_version": "χορδή"
+    },
+    {
+        "language": "greek",
+        "english": "fat",
+        "translated_version": "Λίπος"
+    },
+    {
+        "language": "greek",
+        "english": "glad",
+        "translated_version": "χαρούμενος"
+    },
+    {
+        "language": "greek",
+        "english": "original",
+        "translated_version": "πρωτότυπο"
+    },
+    {
+        "language": "greek",
+        "english": "share",
+        "translated_version": "μερίδιο"
+    },
+    {
+        "language": "greek",
+        "english": "station",
+        "translated_version": "σταθμός"
+    },
+    {
+        "language": "greek",
+        "english": "dad",
+        "translated_version": "Μπαμπάς"
+    },
+    {
+        "language": "greek",
+        "english": "bread",
+        "translated_version": "ψωμί"
+    },
+    {
+        "language": "greek",
+        "english": "charge",
+        "translated_version": "χρέωση"
+    },
+    {
+        "language": "greek",
+        "english": "proper",
+        "translated_version": "κατάλληλος"
+    },
+    {
+        "language": "greek",
+        "english": "bar",
+        "translated_version": "μπαρ"
+    },
+    {
+        "language": "greek",
+        "english": "offer",
+        "translated_version": "προσφορά"
+    },
+    {
+        "language": "greek",
+        "english": "segment",
+        "translated_version": "τμήμα"
+    },
+    {
+        "language": "greek",
+        "english": "slave",
+        "translated_version": "δούλος"
+    },
+    {
+        "language": "greek",
+        "english": "duck",
+        "translated_version": "πάπια"
+    },
+    {
+        "language": "greek",
+        "english": "instant",
+        "translated_version": "στιγμή"
+    },
+    {
+        "language": "greek",
+        "english": "market",
+        "translated_version": "αγορά"
+    },
+    {
+        "language": "greek",
+        "english": "degree",
+        "translated_version": "βαθμός"
+    },
+    {
+        "language": "greek",
+        "english": "populate",
+        "translated_version": "κατοικώ"
+    },
+    {
+        "language": "greek",
+        "english": "chick",
+        "translated_version": "νεοσσός"
+    },
+    {
+        "language": "greek",
+        "english": "dear",
+        "translated_version": "αγαπητός"
+    },
+    {
+        "language": "greek",
+        "english": "enemy",
+        "translated_version": "εχθρός"
+    },
+    {
+        "language": "greek",
+        "english": "reply",
+        "translated_version": "απάντηση"
+    },
+    {
+        "language": "greek",
+        "english": "drink",
+        "translated_version": "ποτό"
+    },
+    {
+        "language": "greek",
+        "english": "occur",
+        "translated_version": "συμβούν"
+    },
+    {
+        "language": "greek",
+        "english": "support",
+        "translated_version": "υποστήριξη"
+    },
+    {
+        "language": "greek",
+        "english": "speech",
+        "translated_version": "ομιλία"
+    },
+    {
+        "language": "greek",
+        "english": "nature",
+        "translated_version": "φύση"
+    },
+    {
+        "language": "greek",
+        "english": "range",
+        "translated_version": "εύρος"
+    },
+    {
+        "language": "greek",
+        "english": "steam",
+        "translated_version": "ατμός"
+    },
+    {
+        "language": "greek",
+        "english": "motion",
+        "translated_version": "κίνηση"
+    },
+    {
+        "language": "greek",
+        "english": "path",
+        "translated_version": "μονοπάτι"
+    },
+    {
+        "language": "greek",
+        "english": "liquid",
+        "translated_version": "υγρό"
+    },
+    {
+        "language": "greek",
+        "english": "log",
+        "translated_version": "κούτσουρο"
+    },
+    {
+        "language": "greek",
+        "english": "meant",
+        "translated_version": "εννοούσε"
+    },
+    {
+        "language": "greek",
+        "english": "quotient",
+        "translated_version": "πηλίκο"
+    },
+    {
+        "language": "greek",
+        "english": "teeth",
+        "translated_version": "δόντια"
+    },
+    {
+        "language": "greek",
+        "english": "shell",
+        "translated_version": "κέλυφος"
+    },
+    {
+        "language": "greek",
+        "english": "neck",
+        "translated_version": "λαιμός"
+    },
+    {
+        "language": "greek",
+        "english": "oxygen",
+        "translated_version": "οξυγόνο"
+    },
+    {
+        "language": "greek",
+        "english": "sugar",
+        "translated_version": "ζάχαρη"
+    },
+    {
+        "language": "greek",
+        "english": "death",
+        "translated_version": "θάνατος"
+    },
+    {
+        "language": "greek",
+        "english": "pretty",
+        "translated_version": "αρκετά"
+    },
+    {
+        "language": "greek",
+        "english": "skill",
+        "translated_version": "επιδεξιότητα"
+    },
+    {
+        "language": "greek",
+        "english": "women",
+        "translated_version": "γυναίκες"
+    },
+    {
+        "language": "greek",
+        "english": "season",
+        "translated_version": "εποχή"
+    },
+    {
+        "language": "greek",
+        "english": "solution",
+        "translated_version": "λύση"
+    },
+    {
+        "language": "greek",
+        "english": "magnet",
+        "translated_version": "μαγνήτης"
+    },
+    {
+        "language": "greek",
+        "english": "silver",
+        "translated_version": "ασήμι"
+    },
+    {
+        "language": "greek",
+        "english": "thank",
+        "translated_version": "ευχαριστώ"
+    },
+    {
+        "language": "greek",
+        "english": "branch",
+        "translated_version": "κλαδί"
+    },
+    {
+        "language": "greek",
+        "english": "match",
+        "translated_version": "αγώνας"
+    },
+    {
+        "language": "greek",
+        "english": "suffix",
+        "translated_version": "κατάληξη"
+    },
+    {
+        "language": "greek",
+        "english": "especially",
+        "translated_version": "ειδικά"
+    },
+    {
+        "language": "greek",
+        "english": "fig",
+        "translated_version": "Σύκο"
+    },
+    {
+        "language": "greek",
+        "english": "afraid",
+        "translated_version": "φοβισμένος"
+    },
+    {
+        "language": "greek",
+        "english": "huge",
+        "translated_version": "τεράστιος"
+    },
+    {
+        "language": "greek",
+        "english": "sister",
+        "translated_version": "αδελφή"
+    },
+    {
+        "language": "greek",
+        "english": "steel",
+        "translated_version": "ατσάλι"
+    },
+    {
+        "language": "greek",
+        "english": "discuss",
+        "translated_version": "συζητώ"
+    },
+    {
+        "language": "greek",
+        "english": "forward",
+        "translated_version": "προς τα εμπρός"
+    },
+    {
+        "language": "greek",
+        "english": "similar",
+        "translated_version": "παρόμοιος"
+    },
+    {
+        "language": "greek",
+        "english": "guide",
+        "translated_version": "οδηγός"
+    },
+    {
+        "language": "greek",
+        "english": "experience",
+        "translated_version": "εμπειρία"
+    },
+    {
+        "language": "greek",
+        "english": "score",
+        "translated_version": "σκορ"
+    },
+    {
+        "language": "greek",
+        "english": "apple",
+        "translated_version": "μήλο"
+    },
+    {
+        "language": "greek",
+        "english": "bought",
+        "translated_version": "αγορασμένος"
+    },
+    {
+        "language": "greek",
+        "english": "led",
+        "translated_version": "οδήγησε"
+    },
+    {
+        "language": "greek",
+        "english": "pitch",
+        "translated_version": "πίσσα"
+    },
+    {
+        "language": "greek",
+        "english": "coat",
+        "translated_version": "παλτό"
+    },
+    {
+        "language": "greek",
+        "english": "mass",
+        "translated_version": "μάζα"
+    },
+    {
+        "language": "greek",
+        "english": "card",
+        "translated_version": "κάρτα"
+    },
+    {
+        "language": "greek",
+        "english": "band",
+        "translated_version": "ζώνη"
+    },
+    {
+        "language": "greek",
+        "english": "rope",
+        "translated_version": "σκοινί"
+    },
+    {
+        "language": "greek",
+        "english": "slip",
+        "translated_version": "γλιστράω"
+    },
+    {
+        "language": "greek",
+        "english": "win",
+        "translated_version": "νίκη"
+    },
+    {
+        "language": "greek",
+        "english": "dream",
+        "translated_version": "όνειρο"
+    },
+    {
+        "language": "greek",
+        "english": "evening",
+        "translated_version": "απόγευμα"
+    },
+    {
+        "language": "greek",
+        "english": "condition",
+        "translated_version": "κατάσταση"
+    },
+    {
+        "language": "greek",
+        "english": "feed",
+        "translated_version": "ταίζω"
+    },
+    {
+        "language": "greek",
+        "english": "tool",
+        "translated_version": "εργαλείο"
+    },
+    {
+        "language": "greek",
+        "english": "total",
+        "translated_version": "σύνολο"
+    },
+    {
+        "language": "greek",
+        "english": "basic",
+        "translated_version": "βασικός"
+    },
+    {
+        "language": "greek",
+        "english": "smell",
+        "translated_version": "μυρωδιά"
+    },
+    {
+        "language": "greek",
+        "english": "valley",
+        "translated_version": "κοιλάδα"
+    },
+    {
+        "language": "greek",
+        "english": "nor",
+        "translated_version": "ούτε"
+    },
+    {
+        "language": "greek",
+        "english": "double",
+        "translated_version": "διπλό"
+    },
+    {
+        "language": "greek",
+        "english": "seat",
+        "translated_version": "έδρα"
+    },
+    {
+        "language": "greek",
+        "english": "continue",
+        "translated_version": "να συνεχίσει"
+    },
+    {
+        "language": "greek",
+        "english": "block",
+        "translated_version": "ΟΙΚΟΔΟΜΙΚΟ ΤΕΤΡΑΓΩΝΟ"
+    },
+    {
+        "language": "greek",
+        "english": "chart",
+        "translated_version": "διάγραμμα"
+    },
+    {
+        "language": "greek",
+        "english": "hat",
+        "translated_version": "καπέλο"
+    },
+    {
+        "language": "greek",
+        "english": "sell",
+        "translated_version": "Πουλώ"
+    },
+    {
+        "language": "greek",
+        "english": "success",
+        "translated_version": "επιτυχία"
+    },
+    {
+        "language": "greek",
+        "english": "company",
+        "translated_version": "Εταιρία"
+    },
+    {
+        "language": "greek",
+        "english": "subtract",
+        "translated_version": "αφαιρώ"
+    },
+    {
+        "language": "greek",
+        "english": "event",
+        "translated_version": "Εκδήλωση"
+    },
+    {
+        "language": "greek",
+        "english": "particular",
+        "translated_version": "ιδιαιτερος"
+    },
+    {
+        "language": "greek",
+        "english": "deal",
+        "translated_version": "συμφωνία"
+    },
+    {
+        "language": "greek",
+        "english": "swim",
+        "translated_version": "ζάλη"
+    },
+    {
+        "language": "greek",
+        "english": "term",
+        "translated_version": "όρος"
+    },
+    {
+        "language": "greek",
+        "english": "opposite",
+        "translated_version": "απεναντι απο"
+    },
+    {
+        "language": "greek",
+        "english": "wife",
+        "translated_version": "γυναίκα"
+    },
+    {
+        "language": "greek",
+        "english": "shoe",
+        "translated_version": "παπούτσι"
+    },
+    {
+        "language": "greek",
+        "english": "shoulder",
+        "translated_version": "ώμος"
+    },
+    {
+        "language": "greek",
+        "english": "spread",
+        "translated_version": "εξάπλωση"
+    },
+    {
+        "language": "greek",
+        "english": "arrange",
+        "translated_version": "κανονίζω"
+    },
+    {
+        "language": "greek",
+        "english": "camp",
+        "translated_version": "κατασκήνωση"
+    },
+    {
+        "language": "greek",
+        "english": "invent",
+        "translated_version": "εφευρίσκω"
+    },
+    {
+        "language": "greek",
+        "english": "cotton",
+        "translated_version": "βαμβάκι"
+    },
+    {
+        "language": "greek",
+        "english": "born",
+        "translated_version": "γεννημένος"
+    },
+    {
+        "language": "greek",
+        "english": "determine",
+        "translated_version": "καθορίσει"
+    },
+    {
+        "language": "greek",
+        "english": "quart",
+        "translated_version": "τέταρτο γαλονιού"
+    },
+    {
+        "language": "greek",
+        "english": "nine",
+        "translated_version": "εννέα"
+    },
+    {
+        "language": "greek",
+        "english": "truck",
+        "translated_version": "φορτηγό"
+    },
+    {
+        "language": "greek",
+        "english": "noise",
+        "translated_version": "θόρυβος"
+    },
+    {
+        "language": "greek",
+        "english": "level",
+        "translated_version": "επίπεδο"
+    },
+    {
+        "language": "greek",
+        "english": "chance",
+        "translated_version": "ευκαιρία"
+    },
+    {
+        "language": "greek",
+        "english": "gather",
+        "translated_version": "μαζεύω"
+    },
+    {
+        "language": "greek",
+        "english": "shop",
+        "translated_version": "κατάστημα"
+    },
+    {
+        "language": "greek",
+        "english": "stretch",
+        "translated_version": "τέντωμα"
+    },
+    {
+        "language": "greek",
+        "english": "throw",
+        "translated_version": "βολή"
+    },
+    {
+        "language": "greek",
+        "english": "shine",
+        "translated_version": "λάμψη"
+    },
+    {
+        "language": "greek",
+        "english": "property",
+        "translated_version": "ιδιοκτησία"
+    },
+    {
+        "language": "greek",
+        "english": "column",
+        "translated_version": "στήλη"
+    },
+    {
+        "language": "greek",
+        "english": "molecule",
+        "translated_version": "μόριο"
+    },
+    {
+        "language": "greek",
+        "english": "select",
+        "translated_version": "επιλέγω"
+    },
+    {
+        "language": "greek",
+        "english": "wrong",
+        "translated_version": "λανθασμένος"
+    },
+    {
+        "language": "greek",
+        "english": "gray",
+        "translated_version": "γκρί"
+    },
+    {
+        "language": "greek",
+        "english": "repeat",
+        "translated_version": "επαναλαμβάνω"
+    },
+    {
+        "language": "greek",
+        "english": "require",
+        "translated_version": "απαιτώ"
+    },
+    {
+        "language": "greek",
+        "english": "broad",
+        "translated_version": "ευρύς"
+    },
+    {
+        "language": "greek",
+        "english": "prepare",
+        "translated_version": "προετοιμάζω"
+    },
+    {
+        "language": "greek",
+        "english": "salt",
+        "translated_version": "άλας"
+    },
+    {
+        "language": "greek",
+        "english": "nose",
+        "translated_version": "μύτη"
+    },
+    {
+        "language": "greek",
+        "english": "plural",
+        "translated_version": "πληθυντικός"
+    },
+    {
+        "language": "greek",
+        "english": "anger",
+        "translated_version": "θυμός"
+    },
+    {
+        "language": "greek",
+        "english": "claim",
+        "translated_version": "απαίτηση"
+    },
+    {
+        "language": "greek",
+        "english": "continent",
+        "translated_version": "Ήπειρος"
+    }
+]
