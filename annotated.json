@@ -1,0 +1,6008 @@
+[
+    {
+        "english": "english",
+        "translated_version": "greek",
+        "language": "greek",
+        "definition": "definition"
+    },
+    {
+        "english": "as",
+        "translated_version": "όπως και",
+        "language": "greek",
+        "definition": "in comparison to"
+    },
+    {
+        "english": "as",
+        "translated_version": "ως",
+        "language": "greek",
+        "definition": "to the same degree that"
+    },
+    {
+        "english": "I",
+        "translated_version": "Εγώ",
+        "language": "greek",
+        "definition": "first person singular subject personal pronoun"
+    },
+    {
+        "english": "his",
+        "translated_version": "του",
+        "language": "greek",
+        "definition": "belonging to him"
+    },
+    {
+        "english": "that",
+        "translated_version": "ότι",
+        "language": "greek",
+        "definition": "Introducing a clause which is the subject or object of a verb"
+    },
+    {
+        "english": "he",
+        "translated_version": "αυτός",
+        "language": "greek",
+        "definition": "a male person or animal already known or implied"
+    },
+    {
+        "english": "was",
+        "translated_version": "ήταν",
+        "language": "greek",
+        "definition": "past indicative of be"
+    },
+    {
+        "english": "for",
+        "translated_version": "Για",
+        "language": "greek",
+        "definition": "because; as; since"
+    },
+    {
+        "english": "on",
+        "translated_version": "επί",
+        "language": "greek",
+        "definition": "in the state of being functioning or operating; fitted; covering; being worn"
+    },
+    {
+        "english": "are",
+        "translated_version": "είναι",
+        "language": "greek",
+        "definition": "simple present of be"
+    },
+    {
+        "english": "with",
+        "translated_version": "με",
+        "language": "greek",
+        "definition": "in the company of; alongside; close to; near to"
+    },
+    {
+        "english": "they",
+        "translated_version": "αυτοί",
+        "language": "greek",
+        "definition": "used to refer to two or more people or things previously mentioned or easily identified"
+    },
+    {
+        "english": "be",
+        "translated_version": "είναι",
+        "language": "greek",
+        "definition": "to exist; to have real existence; to be alive; to occupy a place"
+    },
+    {
+        "english": "at",
+        "translated_version": "στο",
+        "language": "greek",
+        "definition": "in or near a particular place; indicating occurrence in an instant of time or a period of time relatively short in context or from the speaker's perspective"
+    },
+    {
+        "english": "one",
+        "translated_version": "ένας",
+        "language": "greek",
+        "definition": "the number represented by the Arabic numeral 1; the numerical value equal to that cardinal number"
+    },
+    {
+        "english": "have",
+        "translated_version": "έχω",
+        "language": "greek",
+        "definition": "third-person singular simple present has"
+    },
+    {
+        "english": "this",
+        "translated_version": "Αυτό",
+        "language": "greek",
+        "definition": "the thing here used in indicating something or someone nearby"
+    },
+    {
+        "english": "from",
+        "translated_version": "από",
+        "language": "greek",
+        "definition": "with the source or provenance of or at"
+    },
+    {
+        "english": "by",
+        "translated_version": "με",
+        "language": "greek",
+        "definition": "near or next to"
+    },
+    {
+        "english": "hot",
+        "translated_version": "ζεστό",
+        "language": "greek",
+        "definition": "having a high temperature"
+    },
+    {
+        "english": "word",
+        "translated_version": "λέξη",
+        "language": "greek",
+        "definition": "the smallest discrete meaningful unit of language"
+    },
+    {
+        "english": "but",
+        "translated_version": "αλλά",
+        "language": "greek",
+        "definition": "apart from; except for; excluding"
+    },
+    {
+        "english": "what",
+        "translated_version": "τι",
+        "language": "greek",
+        "definition": "that which; those that; the thing that"
+    },
+    {
+        "english": "some",
+        "translated_version": "μερικοί",
+        "language": "greek",
+        "definition": "an indefinite quantity"
+    },
+    {
+        "english": "is",
+        "translated_version": "είναι",
+        "language": "greek",
+        "definition": "third-person singular simple present indicative form of be"
+    },
+    {
+        "english": "it",
+        "translated_version": "το",
+        "language": "greek",
+        "definition": "the third-person singular personal pronoun that is normally used to refer to an inanimate object or abstract entity"
+    },
+    {
+        "english": "you",
+        "translated_version": "εσύ",
+        "language": "greek",
+        "definition": "the people spoken or written to as an object"
+    },
+    {
+        "english": "or",
+        "translated_version": "ή",
+        "language": "greek",
+        "definition": "used to link alternatives"
+    },
+    {
+        "english": "had",
+        "translated_version": "είχε",
+        "language": "greek",
+        "definition": "possess; own; hold"
+    },
+    {
+        "english": "the",
+        "translated_version": "ο",
+        "language": "greek",
+        "definition": "used to point forward to a following qualifying or defining clause or phrase"
+    },
+    {
+        "english": "of",
+        "translated_version": "του",
+        "language": "greek",
+        "definition": "expressing the relationship between a part and a whole"
+    },
+    {
+        "english": "to",
+        "translated_version": "προς το",
+        "language": "greek",
+        "definition": "motion in the direction of"
+    },
+    {
+        "english": "and",
+        "translated_version": "και",
+        "language": "greek",
+        "definition": "used to connect words of the same clauses or sentences that are to be taken jointly"
+    },
+    {
+        "english": "a",
+        "translated_version": "ένα",
+        "language": "greek",
+        "definition": "one such thing"
+    },
+    {
+        "english": "in",
+        "translated_version": "σε",
+        "language": "greek",
+        "definition": "used to indicate location or position within some given limits"
+    },
+    {
+        "english": "we",
+        "translated_version": "εμείς",
+        "language": "greek",
+        "definition": "used by a speaker to refer to theirself and one or more other people considered together."
+    },
+    {
+        "english": "can",
+        "translated_version": "μπορώ",
+        "language": "greek",
+        "definition": "is able to"
+    },
+    {
+        "english": "out",
+        "translated_version": "έξω",
+        "language": "greek",
+        "definition": "moving or appearing to move away from a particular place especially one that is enclosed or hidden"
+    },
+    {
+        "english": "other",
+        "translated_version": "άλλα",
+        "language": "greek",
+        "definition": "denoting a person or thing that is different or distinct from one already mentioned or known about"
+    },
+    {
+        "english": "were",
+        "translated_version": "ήταν",
+        "language": "greek",
+        "definition": "second person singular past plural past and past subjunctive of be"
+    },
+    {
+        "english": "which",
+        "translated_version": "οι οποίες",
+        "language": "greek",
+        "definition": "with respect to one or more subjects from a definite set"
+    },
+    {
+        "english": "do",
+        "translated_version": "κάνω",
+        "language": "greek",
+        "definition": "perform an action"
+    },
+    {
+        "english": "their",
+        "translated_version": "δικα τους",
+        "language": "greek",
+        "definition": "belonging to or associated with the subjects previously mentioned"
+    },
+    {
+        "english": "time",
+        "translated_version": "χρόνος",
+        "language": "greek",
+        "definition": "the indefinite continued progress of existence and events in the past present and future regarded as a whole"
+    },
+    {
+        "english": "if",
+        "translated_version": "αν",
+        "language": "greek",
+        "definition": "on the condition or supposition that; in the event that"
+    },
+    {
+        "english": "will",
+        "translated_version": "θα",
+        "language": "greek",
+        "definition": "expressing the future tense"
+    },
+    {
+        "english": "how",
+        "translated_version": "πως",
+        "language": "greek",
+        "definition": "in what way or manner; by what means; regarding the condition or quality of something"
+    },
+    {
+        "english": "said",
+        "translated_version": "είπε",
+        "language": "greek",
+        "definition": "past and past participle of say"
+    },
+    {
+        "english": "an",
+        "translated_version": "ένα",
+        "language": "greek",
+        "definition": "one such thing"
+    },
+    {
+        "english": "each",
+        "translated_version": "καθε",
+        "language": "greek",
+        "definition": "used to refer to every one of two or more subjects which are regarded and identified separately"
+    },
+    {
+        "english": "tell",
+        "translated_version": "λέγω",
+        "language": "greek",
+        "definition": "to communicate information to someone in spoken or written words"
+    },
+    {
+        "english": "does",
+        "translated_version": "κάνει",
+        "language": "greek",
+        "definition": "third-person singular simple present indicative form of do"
+    },
+    {
+        "english": "set",
+        "translated_version": "σειρά",
+        "language": "greek",
+        "definition": "a series or group of something"
+    },
+    {
+        "english": "three",
+        "translated_version": "τρία",
+        "language": "greek",
+        "definition": "equivalent to the sum of one and two; one more than two"
+    },
+    {
+        "english": "want",
+        "translated_version": "θέλω",
+        "language": "greek",
+        "definition": "have a desire to possess or do something"
+    },
+    {
+        "english": "air",
+        "translated_version": "αέρας",
+        "language": "greek",
+        "definition": "the invisible gaseous substance surrounding the earth"
+    },
+    {
+        "english": "well",
+        "translated_version": "Καλά",
+        "language": "greek",
+        "definition": "in a good or satisfactory way"
+    },
+    {
+        "english": "also",
+        "translated_version": "επίσης",
+        "language": "greek",
+        "definition": "in addition"
+    },
+    {
+        "english": "play",
+        "translated_version": "παίζω",
+        "language": "greek",
+        "definition": "fool around; frolic; trifle; game; twiddle"
+    },
+    {
+        "english": "small",
+        "translated_version": "μικρό",
+        "language": "greek",
+        "definition": "of insubstantial size"
+    },
+    {
+        "english": "end",
+        "translated_version": "τέλος",
+        "language": "greek",
+        "definition": "finish; close"
+    },
+    {
+        "english": "put",
+        "translated_version": "βάζω",
+        "language": "greek",
+        "definition": "move to or place in a particular position"
+    },
+    {
+        "english": "home",
+        "translated_version": "Σπίτι",
+        "language": "greek",
+        "definition": "a place where one lives"
+    },
+    {
+        "english": "read",
+        "translated_version": "ανάγνωση",
+        "language": "greek",
+        "definition": "to consume information from a textual format"
+    },
+    {
+        "english": "hand",
+        "translated_version": "χέρι",
+        "language": "greek",
+        "definition": "the end part of a person's arm beyond the wrist including the palm fingers and thumb"
+    },
+    {
+        "english": "port",
+        "translated_version": "Λιμάνι",
+        "language": "greek",
+        "definition": "a town or city with a harbor where ships load or unload especially one where customs officers are stationed"
+    },
+    {
+        "english": "large",
+        "translated_version": "μεγάλο",
+        "language": "greek",
+        "definition": "of substantial size"
+    },
+    {
+        "english": "spell",
+        "translated_version": "σημαίνω",
+        "language": "greek",
+        "definition": "write or name the letters that form a word in correct sequence"
+    },
+    {
+        "english": "add",
+        "translated_version": "Προσθήκη",
+        "language": "greek",
+        "definition": "join something to something else so as to increase its magnitude"
+    },
+    {
+        "english": "even",
+        "translated_version": "ακόμη και",
+        "language": "greek",
+        "definition": "used to emphasize something surprising or extreme"
+    },
+    {
+        "english": "land",
+        "translated_version": "γη",
+        "language": "greek",
+        "definition": "the part of the earth's surface that is not covered by water as opposed to the sea or the air"
+    },
+    {
+        "english": "here",
+        "translated_version": "εδώ",
+        "language": "greek",
+        "definition": "in at or to this place or position"
+    },
+    {
+        "english": "must",
+        "translated_version": "πρέπει",
+        "language": "greek",
+        "definition": "be obliged to; should"
+    },
+    {
+        "english": "big",
+        "translated_version": "μεγάλο",
+        "language": "greek",
+        "definition": "of substantial size"
+    },
+    {
+        "english": "high",
+        "translated_version": "υψηλός",
+        "language": "greek",
+        "definition": "of great vertical extent"
+    },
+    {
+        "english": "such",
+        "translated_version": "τέτοιος",
+        "language": "greek",
+        "definition": "of the type previously mentioned"
+    },
+    {
+        "english": "follow",
+        "translated_version": "ακολουθηστε",
+        "language": "greek",
+        "definition": "move or travel behind"
+    },
+    {
+        "english": "act",
+        "translated_version": "υποκρίνομαι",
+        "language": "greek",
+        "definition": "take action; do something"
+    },
+    {
+        "english": "why",
+        "translated_version": "Γιατί",
+        "language": "greek",
+        "definition": "for what reason or purpose"
+    },
+    {
+        "english": "ask",
+        "translated_version": "παρακαλώ",
+        "language": "greek",
+        "definition": "say something in order to obtain an answer or some information"
+    },
+    {
+        "english": "men",
+        "translated_version": "άνδρες",
+        "language": "greek",
+        "definition": "an adult male human being"
+    },
+    {
+        "english": "change",
+        "translated_version": "αλλαγή",
+        "language": "greek",
+        "definition": "alter or modify"
+    },
+    {
+        "english": "went",
+        "translated_version": "πήγε",
+        "language": "greek",
+        "definition": "past tense of go"
+    },
+    {
+        "english": "light",
+        "translated_version": "φως",
+        "language": "greek",
+        "definition": "the natural agent that stimulates sight and makes things visible"
+    },
+    {
+        "english": "kind",
+        "translated_version": "είδος",
+        "language": "greek",
+        "definition": "a group of people or things having similar characteristics"
+    },
+    {
+        "english": "off",
+        "translated_version": "μακριά από",
+        "language": "greek",
+        "definition": "away from the place in question"
+    },
+    {
+        "english": "need",
+        "translated_version": "χρειάζομαι",
+        "language": "greek",
+        "definition": "require something because it is essential or very important"
+    },
+    {
+        "english": "house",
+        "translated_version": "σπίτι",
+        "language": "greek",
+        "definition": "a building for human habitation"
+    },
+    {
+        "english": "picture",
+        "translated_version": "εικόνα",
+        "language": "greek",
+        "definition": "a painting or drawing"
+    },
+    {
+        "english": "try",
+        "translated_version": "δοκιμάστε",
+        "language": "greek",
+        "definition": "make an attempt or effort to do something"
+    },
+    {
+        "english": "us",
+        "translated_version": "μας",
+        "language": "greek",
+        "definition": "used by a speaker to refer to theirself and one or more other people"
+    },
+    {
+        "english": "again",
+        "translated_version": "πάλι",
+        "language": "greek",
+        "definition": "another time; once more"
+    },
+    {
+        "english": "animal",
+        "translated_version": "ζώο",
+        "language": "greek",
+        "definition": "a living organism"
+    },
+    {
+        "english": "point",
+        "translated_version": "σημείο",
+        "language": "greek",
+        "definition": "the tapered or sharp end of a tool or other object"
+    },
+    {
+        "english": "mother",
+        "translated_version": "μητέρα",
+        "language": "greek",
+        "definition": "a woman in relation to her child or children"
+    },
+    {
+        "english": "world",
+        "translated_version": "κόσμος",
+        "language": "greek",
+        "definition": "the earth and everything in it"
+    },
+    {
+        "english": "near",
+        "translated_version": "κοντά",
+        "language": "greek",
+        "definition": "at or to a short distance away"
+    },
+    {
+        "english": "build",
+        "translated_version": "χτίζω",
+        "language": "greek",
+        "definition": "construct something by putting parts or material together"
+    },
+    {
+        "english": "self",
+        "translated_version": "εαυτός",
+        "language": "greek",
+        "definition": "a person's essential being that distinguishes them from others"
+    },
+    {
+        "english": "earth",
+        "translated_version": "γη",
+        "language": "greek",
+        "definition": "the planet on which we live"
+    },
+    {
+        "english": "father",
+        "translated_version": "πατέρας",
+        "language": "greek",
+        "definition": "a man in relation to his child or children"
+    },
+    {
+        "english": "any",
+        "translated_version": "όποιος",
+        "language": "greek",
+        "definition": "used to refer to one or some of a thing or number of things"
+    },
+    {
+        "english": "new",
+        "translated_version": "νέος",
+        "language": "greek",
+        "definition": "not existing before"
+    },
+    {
+        "english": "work",
+        "translated_version": "δουλειά",
+        "language": "greek",
+        "definition": "activity involving mental or physical effort done in order to achieve a result"
+    },
+    {
+        "english": "part",
+        "translated_version": "μέρος",
+        "language": "greek",
+        "definition": "a piece or segment of something"
+    },
+    {
+        "english": "take",
+        "translated_version": "παίρνω",
+        "language": "greek",
+        "definition": "lay hold of something with one's hands"
+    },
+    {
+        "english": "get",
+        "translated_version": "παίρνω",
+        "language": "greek",
+        "definition": "come to have or hold something"
+    },
+    {
+        "english": "place",
+        "translated_version": "θέση",
+        "language": "greek",
+        "definition": "a particular position or point in space"
+    },
+    {
+        "english": "made",
+        "translated_version": "έκανε",
+        "language": "greek",
+        "definition": "past and past participle of make"
+    },
+    {
+        "english": "live",
+        "translated_version": "ζω",
+        "language": "greek",
+        "definition": "remain alive"
+    },
+    {
+        "english": "where",
+        "translated_version": "όπου",
+        "language": "greek",
+        "definition": "in or to what place or position"
+    },
+    {
+        "english": "after",
+        "translated_version": "μετά",
+        "language": "greek",
+        "definition": "in the time following an event"
+    },
+    {
+        "english": "back",
+        "translated_version": "πίσω",
+        "language": "greek",
+        "definition": "the rear surface of the human body from the shoulders to the hips"
+    },
+    {
+        "english": "little",
+        "translated_version": "λίγο",
+        "language": "greek",
+        "definition": "small in size or in amount or in degree"
+    },
+    {
+        "english": "only",
+        "translated_version": "μόνο",
+        "language": "greek",
+        "definition": "and no one or nothing more besides"
+    },
+    {
+        "english": "round",
+        "translated_version": "γύρος",
+        "language": "greek",
+        "definition": "having curves rather than angles"
+    },
+    {
+        "english": "man",
+        "translated_version": "άνδρας",
+        "language": "greek",
+        "definition": "an adult male human being"
+    },
+    {
+        "english": "year",
+        "translated_version": "έτος",
+        "language": "greek",
+        "definition": "the time taken by the earth to make one revolution around the sun"
+    },
+    {
+        "english": "came",
+        "translated_version": "ήρθε",
+        "language": "greek",
+        "definition": "past of come"
+    },
+    {
+        "english": "show",
+        "translated_version": "προβολή",
+        "language": "greek",
+        "definition": "allow something to be visible"
+    },
+    {
+        "english": "every",
+        "translated_version": "κάθε",
+        "language": "greek",
+        "definition": "used to refer to all the individual members of a set without exception"
+    },
+    {
+        "english": "good",
+        "translated_version": "Καλός",
+        "language": "greek",
+        "definition": "desired or approved of"
+    },
+    {
+        "english": "me",
+        "translated_version": "μου",
+        "language": "greek",
+        "definition": "used by a speaker to refer to theirself"
+    },
+    {
+        "english": "give",
+        "translated_version": "δίνω",
+        "language": "greek",
+        "definition": "freely transfer the possession of something to someone"
+    },
+    {
+        "english": "our",
+        "translated_version": "μας",
+        "language": "greek",
+        "definition": "belonging to or associated with the speaker and one or more other people"
+    },
+    {
+        "english": "under",
+        "translated_version": "κάτω από",
+        "language": "greek",
+        "definition": "directly below"
+    },
+    {
+        "english": "name",
+        "translated_version": "όνομα",
+        "language": "greek",
+        "definition": "a word or set of words by which something is known"
+    },
+    {
+        "english": "very",
+        "translated_version": "πολύ",
+        "language": "greek",
+        "definition": "in a high degree"
+    },
+    {
+        "english": "through",
+        "translated_version": "διά μέσου",
+        "language": "greek",
+        "definition": "moving in one side and out of the other side of something"
+    },
+    {
+        "english": "just",
+        "translated_version": "μόλις",
+        "language": "greek",
+        "definition": "exactly"
+    },
+    {
+        "english": "form",
+        "translated_version": "μορφή",
+        "language": "greek",
+        "definition": "the visible shape of something"
+    },
+    {
+        "english": "sentence",
+        "translated_version": "πρόταση",
+        "language": "greek",
+        "definition": "a set of words that is complete in itself"
+    },
+    {
+        "english": "great",
+        "translated_version": "μεγάλος",
+        "language": "greek",
+        "definition": "of an extent considerably above the normal or average"
+    },
+    {
+        "english": "think",
+        "translated_version": "νομίζω",
+        "language": "greek",
+        "definition": "have a particular belief or idea about something"
+    },
+    {
+        "english": "say",
+        "translated_version": "λένε",
+        "language": "greek",
+        "definition": "utter words so as to convey information"
+    },
+    {
+        "english": "help",
+        "translated_version": "βοήθεια",
+        "language": "greek",
+        "definition": "make it easier for someone to do something by offering one's services or resources"
+    },
+    {
+        "english": "low",
+        "translated_version": "χαμηλός",
+        "language": "greek",
+        "definition": "of less than average height from top to bottom or to the top from the ground"
+    },
+    {
+        "english": "line",
+        "translated_version": "γραμμή",
+        "language": "greek",
+        "definition": "the shortest distance between two points"
+    },
+    {
+        "english": "differ",
+        "translated_version": "διαφέρω",
+        "language": "greek",
+        "definition": "unlike or dissimilar"
+    },
+    {
+        "english": "turn",
+        "translated_version": "στροφή",
+        "language": "greek",
+        "definition": "move in a circular direction around an axis or point"
+    },
+    {
+        "english": "cause",
+        "translated_version": "αιτία",
+        "language": "greek",
+        "definition": "something that gives rise to something else"
+    },
+    {
+        "english": "much",
+        "translated_version": "πολύ",
+        "language": "greek",
+        "definition": "a great amount of"
+    },
+    {
+        "english": "mean",
+        "translated_version": "σημαίνω",
+        "language": "greek",
+        "definition": "intend to indicate or refer to something"
+    },
+    {
+        "english": "before",
+        "translated_version": "πριν",
+        "language": "greek",
+        "definition": "during the period of time preceding a particular event"
+    },
+    {
+        "english": "move",
+        "translated_version": "κίνηση",
+        "language": "greek",
+        "definition": "change position."
+    },
+    {
+        "english": "right",
+        "translated_version": "σωστά",
+        "language": "greek",
+        "definition": "justified or acceptable"
+    },
+    {
+        "english": "boy",
+        "translated_version": "αγόρι",
+        "language": "greek",
+        "definition": "a male child or young man"
+    },
+    {
+        "english": "old",
+        "translated_version": "παλαιός",
+        "language": "greek",
+        "definition": "having existed for a long time"
+    },
+    {
+        "english": "too",
+        "translated_version": "πολύ",
+        "language": "greek",
+        "definition": "to a higher degree than is desirable"
+    },
+    {
+        "english": "same",
+        "translated_version": "ίδιο",
+        "language": "greek",
+        "definition": "not different"
+    },
+    {
+        "english": "she",
+        "translated_version": "αυτή",
+        "language": "greek",
+        "definition": "used to refer to a woman"
+    },
+    {
+        "english": "all",
+        "translated_version": "όλα",
+        "language": "greek",
+        "definition": "used to refer to the whole quantity or extent of something"
+    },
+    {
+        "english": "there",
+        "translated_version": "εκεί",
+        "language": "greek",
+        "definition": "a specified place or position"
+    },
+    {
+        "english": "when",
+        "translated_version": "πότε",
+        "language": "greek",
+        "definition": "at what time"
+    },
+    {
+        "english": "up",
+        "translated_version": "πάνω",
+        "language": "greek",
+        "definition": "toward a higher place or position"
+    },
+    {
+        "english": "use",
+        "translated_version": "χρήση",
+        "language": "greek",
+        "definition": "employ something as a means of achieving a result"
+    },
+    {
+        "english": "your",
+        "translated_version": "τα δικα σου",
+        "language": "greek",
+        "definition": "belonging to or associated with the person that the speaker is addressing"
+    },
+    {
+        "english": "way",
+        "translated_version": "τρόπος",
+        "language": "greek",
+        "definition": "a manner of doing something"
+    },
+    {
+        "english": "about",
+        "translated_version": "σχετικά με",
+        "language": "greek",
+        "definition": "on the subject of"
+    },
+    {
+        "english": "many",
+        "translated_version": "Πολλά",
+        "language": "greek",
+        "definition": "a large number of"
+    },
+    {
+        "english": "then",
+        "translated_version": "τότε",
+        "language": "greek",
+        "definition": "at that time"
+    },
+    {
+        "english": "them",
+        "translated_version": "τους",
+        "language": "greek",
+        "definition": "used as the object of a verb or preposition to refer to two or more people"
+    },
+    {
+        "english": "write",
+        "translated_version": "γράφω",
+        "language": "greek",
+        "definition": "mark words or symbols on a surface with some implement"
+    },
+    {
+        "english": "would",
+        "translated_version": "θα",
+        "language": "greek",
+        "definition": "expressing a desire or inclination"
+    },
+    {
+        "english": "like",
+        "translated_version": "αρέσει",
+        "language": "greek",
+        "definition": "similar to"
+    },
+    {
+        "english": "so",
+        "translated_version": "Έτσι",
+        "language": "greek",
+        "definition": "therefore"
+    },
+    {
+        "english": "these",
+        "translated_version": "αυτά τα",
+        "language": "greek",
+        "definition": "used to identify more than one thing close at hand"
+    },
+    {
+        "english": "her",
+        "translated_version": "αυτήν",
+        "language": "greek",
+        "definition": "used as the object of a verb or preposition to refer to something female"
+    },
+    {
+        "english": "long",
+        "translated_version": "μακρύς",
+        "language": "greek",
+        "definition": "measuring a great distance from end to end"
+    },
+    {
+        "english": "make",
+        "translated_version": "κανω",
+        "language": "greek",
+        "definition": "construct or create"
+    },
+    {
+        "english": "thing",
+        "translated_version": "πράγμα",
+        "language": "greek",
+        "definition": "an object or idea not given a specific name"
+    },
+    {
+        "english": "see",
+        "translated_version": "βλέπω",
+        "language": "greek",
+        "definition": "perceive with the eyes"
+    },
+    {
+        "english": "him",
+        "translated_version": "αυτόν",
+        "language": "greek",
+        "definition": "used as the object of a verb or preposition to refer to something male"
+    },
+    {
+        "english": "two",
+        "translated_version": "δύο",
+        "language": "greek",
+        "definition": "equivalent to the sum of one and one"
+    },
+    {
+        "english": "has",
+        "translated_version": "έχει",
+        "language": "greek",
+        "definition": "possess"
+    },
+    {
+        "english": "look",
+        "translated_version": "Κοίτα",
+        "language": "greek",
+        "definition": "direct one's gaze toward or something"
+    },
+    {
+        "english": "more",
+        "translated_version": "περισσότερο",
+        "language": "greek",
+        "definition": "a greater or additional amount or degree of"
+    },
+    {
+        "english": "day",
+        "translated_version": "ημέρα",
+        "language": "greek",
+        "definition": "a period of twenty-four hours as a unit of time"
+    },
+    {
+        "english": "could",
+        "translated_version": "θα μπορούσε",
+        "language": "greek",
+        "definition": "past of can"
+    },
+    {
+        "english": "go",
+        "translated_version": "πηγαίνω",
+        "language": "greek",
+        "definition": "move from one place to another"
+    },
+    {
+        "english": "come",
+        "translated_version": "Έλα",
+        "language": "greek",
+        "definition": "move from one place to another"
+    },
+    {
+        "english": "did",
+        "translated_version": "έκανε",
+        "language": "greek",
+        "definition": "perform in the past-tense"
+    },
+    {
+        "english": "number",
+        "translated_version": "αριθμός",
+        "language": "greek",
+        "definition": "a quantity or amount"
+    },
+    {
+        "english": "sound",
+        "translated_version": "ήχος",
+        "language": "greek",
+        "definition": "vibrations that travel through the air or another medium"
+    },
+    {
+        "english": "no",
+        "translated_version": "όχι",
+        "language": "greek",
+        "definition": "used to give a negative response"
+    },
+    {
+        "english": "most",
+        "translated_version": "πλέον",
+        "language": "greek",
+        "definition": "greatest in degree"
+    },
+    {
+        "english": "people",
+        "translated_version": "Ανθρωποι",
+        "language": "greek",
+        "definition": "human beings in general or considered collectively"
+    },
+    {
+        "english": "my",
+        "translated_version": "μου",
+        "language": "greek",
+        "definition": "belonging to or associated with the speaker"
+    },
+    {
+        "english": "over",
+        "translated_version": "πάνω από",
+        "language": "greek",
+        "definition": "extending directly upward from"
+    },
+    {
+        "english": "know",
+        "translated_version": "ξέρω",
+        "language": "greek",
+        "definition": "be aware of through observation or information"
+    },
+    {
+        "english": "water",
+        "translated_version": "νερό",
+        "language": "greek",
+        "definition": "a colorless and transparent liquid that forms the basis of the fluids of living organisms"
+    },
+    {
+        "english": "than",
+        "translated_version": "από",
+        "language": "greek",
+        "definition": "used in expressions introducing an exception or contrast"
+    },
+    {
+        "english": "call",
+        "translated_version": "κλήση",
+        "language": "greek",
+        "definition": "order or request the attendance of"
+    },
+    {
+        "english": "first",
+        "translated_version": "πρώτα",
+        "language": "greek",
+        "definition": "coming before all others in time or order"
+    },
+    {
+        "english": "who",
+        "translated_version": "που",
+        "language": "greek",
+        "definition": "what or which person or people"
+    },
+    {
+        "english": "may",
+        "translated_version": "ενδέχεται",
+        "language": "greek",
+        "definition": "expressing possibility"
+    },
+    {
+        "english": "down",
+        "translated_version": "κάτω",
+        "language": "greek",
+        "definition": "toward or in a lower place or position"
+    },
+    {
+        "english": "side",
+        "translated_version": "πλευρά",
+        "language": "greek",
+        "definition": "a position to the left or right of something"
+    },
+    {
+        "english": "been",
+        "translated_version": "ήταν",
+        "language": "greek",
+        "definition": "past participle of be"
+    },
+    {
+        "english": "now",
+        "translated_version": "τώρα",
+        "language": "greek",
+        "definition": "at the present time or moment"
+    },
+    {
+        "english": "find",
+        "translated_version": "εύρημα",
+        "language": "greek",
+        "definition": "discover or perceive by chance or unexpectedly"
+    },
+    {
+        "english": "head",
+        "translated_version": "κεφάλι",
+        "language": "greek",
+        "definition": "the front or upper part of the body of an animal"
+    },
+    {
+        "english": "stand",
+        "translated_version": "στάση",
+        "language": "greek",
+        "definition": "have or maintain an upright position"
+    },
+    {
+        "english": "own",
+        "translated_version": "το δικό",
+        "language": "greek",
+        "definition": "used with a possessive to emphasize that something belongs or relates to someone"
+    },
+    {
+        "english": "page",
+        "translated_version": "σελίδα",
+        "language": "greek",
+        "definition": "one side of a sheet of paper"
+    },
+    {
+        "english": "should",
+        "translated_version": "πρέπει",
+        "language": "greek",
+        "definition": "used to indicate obligation"
+    },
+    {
+        "english": "country",
+        "translated_version": "Χώρα",
+        "language": "greek",
+        "definition": "a nation with its own government"
+    },
+    {
+        "english": "found",
+        "translated_version": "βρέθηκαν",
+        "language": "greek",
+        "definition": "past and past participle of find"
+    },
+    {
+        "english": "answer",
+        "translated_version": "απάντηση",
+        "language": "greek",
+        "definition": "a thing said or done to deal with or as a reaction to a question"
+    },
+    {
+        "english": "school",
+        "translated_version": "σχολείο",
+        "language": "greek",
+        "definition": "an institution for educating children"
+    },
+    {
+        "english": "grow",
+        "translated_version": "καλλιεργώ",
+        "language": "greek",
+        "definition": "become larger or greater over a period of time"
+    },
+    {
+        "english": "study",
+        "translated_version": "μελέτη",
+        "language": "greek",
+        "definition": "the devotion of time and attention to acquiring knowledge"
+    },
+    {
+        "english": "still",
+        "translated_version": "ακόμη",
+        "language": "greek",
+        "definition": "not moving"
+    },
+    {
+        "english": "learn",
+        "translated_version": "μαθαίνω",
+        "language": "greek",
+        "definition": "gain or acquire knowledge of or skill in something by study"
+    },
+    {
+        "english": "plant",
+        "translated_version": "φυτό",
+        "language": "greek",
+        "definition": "a living organism of the kind exemplified by trees and shrubs"
+    },
+    {
+        "english": "cover",
+        "translated_version": "κάλυμμα",
+        "language": "greek",
+        "definition": "put something on top of or in front of something"
+    },
+    {
+        "english": "food",
+        "translated_version": "τροφή",
+        "language": "greek",
+        "definition": "any nutritious substance that living things eat or drink"
+    },
+    {
+        "english": "sun",
+        "translated_version": "ήλιος",
+        "language": "greek",
+        "definition": "the star around which the earth orbits"
+    },
+    {
+        "english": "four",
+        "translated_version": "τέσσερα",
+        "language": "greek",
+        "definition": "one more than three"
+    },
+    {
+        "english": "between",
+        "translated_version": "μεταξύ",
+        "language": "greek",
+        "definition": "across the space separating two objects or regions"
+    },
+    {
+        "english": "state",
+        "translated_version": "κατάσταση",
+        "language": "greek",
+        "definition": "the particular condition that someone or something is in at a specific time"
+    },
+    {
+        "english": "keep",
+        "translated_version": "διατήρηση",
+        "language": "greek",
+        "definition": "have or retain possession of"
+    },
+    {
+        "english": "eye",
+        "translated_version": "μάτι",
+        "language": "greek",
+        "definition": "globular organs in the head through which living creatures see"
+    },
+    {
+        "english": "never",
+        "translated_version": "ποτέ",
+        "language": "greek",
+        "definition": "at no time in the past or future"
+    },
+    {
+        "english": "last",
+        "translated_version": "τελευταίος",
+        "language": "greek",
+        "definition": "coming after all others in time or order"
+    },
+    {
+        "english": "let",
+        "translated_version": "αφήνω",
+        "language": "greek",
+        "definition": "allow"
+    },
+    {
+        "english": "thought",
+        "translated_version": "σκέψη",
+        "language": "greek",
+        "definition": "an idea produced by thinking"
+    },
+    {
+        "english": "city",
+        "translated_version": "πόλη",
+        "language": "greek",
+        "definition": "a large town"
+    },
+    {
+        "english": "tree",
+        "translated_version": "δέντρο",
+        "language": "greek",
+        "definition": "a woody perennial plant having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground"
+    },
+    {
+        "english": "cross",
+        "translated_version": "σταυρός",
+        "language": "greek",
+        "definition": "a figure formed by two short intersecting lines"
+    },
+    {
+        "english": "farm",
+        "translated_version": "αγρόκτημα",
+        "language": "greek",
+        "definition": "an area of land and its buildings used for growing crops and rearing animals"
+    },
+    {
+        "english": "hard",
+        "translated_version": "σκληρά",
+        "language": "greek",
+        "definition": "not easily broken"
+    },
+    {
+        "english": "start",
+        "translated_version": "αρχή",
+        "language": "greek",
+        "definition": "begin"
+    },
+    {
+        "english": "might",
+        "translated_version": "θα μπορούσε",
+        "language": "greek",
+        "definition": "used tentatively to ask permission or to express a polite request"
+    },
+    {
+        "english": "story",
+        "translated_version": "ιστορία",
+        "language": "greek",
+        "definition": "an account of imaginary or real people and events told for entertainment"
+    },
+    {
+        "english": "saw",
+        "translated_version": "είδε",
+        "language": "greek",
+        "definition": "a hand tool for cutting wood or other materials"
+    },
+    {
+        "english": "far",
+        "translated_version": "μακριά",
+        "language": "greek",
+        "definition": "a great distance away"
+    },
+    {
+        "english": "sea",
+        "translated_version": "θάλασσα",
+        "language": "greek",
+        "definition": "a large body of water enclosed on all sides by land"
+    },
+    {
+        "english": "draw",
+        "translated_version": "σχεδιάζω",
+        "language": "greek",
+        "definition": "to create an image on a surface with some tool"
+    },
+    {
+        "english": "left",
+        "translated_version": "αριστερά",
+        "language": "greek",
+        "definition": "that which is to the West one one faces North"
+    },
+    {
+        "english": "late",
+        "translated_version": "αργά",
+        "language": "greek",
+        "definition": "arriving or due to arrive after an expected time"
+    },
+    {
+        "english": "run",
+        "translated_version": "τρέξιμο",
+        "language": "greek",
+        "definition": "to travel quickly on foot"
+    },
+    {
+        "english": "don’t",
+        "translated_version": "όχι",
+        "language": "greek",
+        "definition": "opposite of do"
+    },
+    {
+        "english": "while",
+        "translated_version": "ενώ",
+        "language": "greek",
+        "definition": "during"
+    },
+    {
+        "english": "press",
+        "translated_version": "τύπος",
+        "language": "greek",
+        "definition": "compress by exerting continuous force"
+    },
+    {
+        "english": "close",
+        "translated_version": "Κλείσε",
+        "language": "greek",
+        "definition": "to cover or shut something"
+    },
+    {
+        "english": "night",
+        "translated_version": "Νύχτα",
+        "language": "greek",
+        "definition": "the time during the 24 hour cycle of day when the sun is not visible"
+    },
+    {
+        "english": "real",
+        "translated_version": "πραγματικός",
+        "language": "greek",
+        "definition": "tangible"
+    },
+    {
+        "english": "life",
+        "translated_version": "ζωή",
+        "language": "greek",
+        "definition": "the condition that distinguishes plants and animals from inorganic matter"
+    },
+    {
+        "english": "few",
+        "translated_version": "λίγοι",
+        "language": "greek",
+        "definition": "not many"
+    },
+    {
+        "english": "north",
+        "translated_version": "Βόρειος",
+        "language": "greek",
+        "definition": "the direction in which a compass needle normally points"
+    },
+    {
+        "english": "book",
+        "translated_version": "Βιβλίο",
+        "language": "greek",
+        "definition": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers"
+    },
+    {
+        "english": "carry",
+        "translated_version": "μεταφέρω",
+        "language": "greek",
+        "definition": "support and move something from one place to another"
+    },
+    {
+        "english": "took",
+        "translated_version": "πήρε",
+        "language": "greek",
+        "definition": "past tense of take"
+    },
+    {
+        "english": "science",
+        "translated_version": "επιστήμη",
+        "language": "greek",
+        "definition": "the intellectual and practical activity encompassing the systematic study of the structure and behaviour of the physical and natural world through observation and experiment"
+    },
+    {
+        "english": "eat",
+        "translated_version": "τρώω",
+        "language": "greek",
+        "definition": "to put food into one's mouth and chew and swallow it"
+    },
+    {
+        "english": "room",
+        "translated_version": "δωμάτιο",
+        "language": "greek",
+        "definition": "space that can be occupied or where something can be done"
+    },
+    {
+        "english": "friend",
+        "translated_version": "φίλος",
+        "language": "greek",
+        "definition": "a person whom one knows and with whom one has a bond of mutual affection"
+    },
+    {
+        "english": "began",
+        "translated_version": "ξεκίνησε",
+        "language": "greek",
+        "definition": "past tense of begin"
+    },
+    {
+        "english": "idea",
+        "translated_version": "ιδέα",
+        "language": "greek",
+        "definition": "a thought or suggestion as to a possible course of action"
+    },
+    {
+        "english": "fish",
+        "translated_version": "ψάρι",
+        "language": "greek",
+        "definition": "a limbless cold-blooded vertebrate animal with gills and fins and living wholly in water"
+    },
+    {
+        "english": "mountain",
+        "translated_version": "βουνό",
+        "language": "greek",
+        "definition": "a large natural elevation of the earth's surface rising abruptly from the surrounding level"
+    },
+    {
+        "english": "stop",
+        "translated_version": "να σταματήσει",
+        "language": "greek",
+        "definition": "a cessation of movement or operation"
+    },
+    {
+        "english": "once",
+        "translated_version": "μια φορά",
+        "language": "greek",
+        "definition": "exactly one time"
+    },
+    {
+        "english": "base",
+        "translated_version": "βάση",
+        "language": "greek",
+        "definition": "the lowest part or edge of something on which it rests or is supported"
+    },
+    {
+        "english": "hear",
+        "translated_version": "ακούω",
+        "language": "greek",
+        "definition": "to sense with one's audial organs"
+    },
+    {
+        "english": "horse",
+        "translated_version": "άλογο",
+        "language": "greek",
+        "definition": "a large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail"
+    },
+    {
+        "english": "cut",
+        "translated_version": "Τομή",
+        "language": "greek",
+        "definition": "a stroke or blow given by a sharp-edged implement"
+    },
+    {
+        "english": "sure",
+        "translated_version": "σίγουρος",
+        "language": "greek",
+        "definition": "confident in what one thinks or knows"
+    },
+    {
+        "english": "watch",
+        "translated_version": "ρολόι",
+        "language": "greek",
+        "definition": "a small timepiece worn typically on a strap on one's wrist"
+    },
+    {
+        "english": "color",
+        "translated_version": "χρώμα",
+        "language": "greek",
+        "definition": "the property possessed by an object of producing different sensations on the eye as a result of the way the object reflects or emits light"
+    },
+    {
+        "english": "face",
+        "translated_version": "πρόσωπο",
+        "language": "greek",
+        "definition": "the front part of a person's head from the forehead to the chin"
+    },
+    {
+        "english": "wood",
+        "translated_version": "ξύλο",
+        "language": "greek",
+        "definition": "the hard fibrous material that forms the main substance of the trunk or branches of a tree or shrub"
+    },
+    {
+        "english": "main",
+        "translated_version": "κύριος",
+        "language": "greek",
+        "definition": "chief in size or importance"
+    },
+    {
+        "english": "open",
+        "translated_version": "Άνοιξε",
+        "language": "greek",
+        "definition": "not closed or blocked up"
+    },
+    {
+        "english": "seem",
+        "translated_version": "φαίνομαι",
+        "language": "greek",
+        "definition": "give the impression or sensation of being something or having a particular quality"
+    },
+    {
+        "english": "together",
+        "translated_version": "μαζί",
+        "language": "greek",
+        "definition": "with or in proximity to another thing"
+    },
+    {
+        "english": "next",
+        "translated_version": "Επόμενο",
+        "language": "greek",
+        "definition": "coming immediately after the time of writing or speaking"
+    },
+    {
+        "english": "white",
+        "translated_version": "άσπρο",
+        "language": "greek",
+        "definition": "of the color of milk or fresh snow"
+    },
+    {
+        "english": "children",
+        "translated_version": "παιδιά",
+        "language": "greek",
+        "definition": "more than one young human being"
+    },
+    {
+        "english": "begin",
+        "translated_version": "αρχίσει",
+        "language": "greek",
+        "definition": "perform or undergo the first part of"
+    },
+    {
+        "english": "got",
+        "translated_version": "πήρα",
+        "language": "greek",
+        "definition": "past tense of get"
+    },
+    {
+        "english": "walk",
+        "translated_version": "Περπατήστε",
+        "language": "greek",
+        "definition": "move at a regular pace by lifting and setting down each foot in turn"
+    },
+    {
+        "english": "example",
+        "translated_version": "παράδειγμα",
+        "language": "greek",
+        "definition": "a thing characteristic of its kind or illustrating a general rule"
+    },
+    {
+        "english": "ease",
+        "translated_version": "ευκολία",
+        "language": "greek",
+        "definition": "absence of difficulty or effort"
+    },
+    {
+        "english": "paper",
+        "translated_version": "χαρτί",
+        "language": "greek",
+        "definition": "material manufactured in thin sheets from the pulp of wood or other fibrous substances"
+    },
+    {
+        "english": "group",
+        "translated_version": "ομάδα",
+        "language": "greek",
+        "definition": "a number of things that are located close together or are considered or classed together"
+    },
+    {
+        "english": "always",
+        "translated_version": "πάντα",
+        "language": "greek",
+        "definition": "at all times"
+    },
+    {
+        "english": "music",
+        "translated_version": "ΜΟΥΣΙΚΗ",
+        "language": "greek",
+        "definition": "vocal or instrumental sounds or both combined in such a way as to produce beauty of form"
+    },
+    {
+        "english": "those",
+        "translated_version": "εκείνοι",
+        "language": "greek",
+        "definition": "referring to a group of things"
+    },
+    {
+        "english": "both",
+        "translated_version": "και τα δυο",
+        "language": "greek",
+        "definition": "referring to each thing when referring to a pair of things"
+    },
+    {
+        "english": "mark",
+        "translated_version": "σημάδι",
+        "language": "greek",
+        "definition": "a small area on a surface having a different color from its surroundings"
+    },
+    {
+        "english": "often",
+        "translated_version": "συχνά",
+        "language": "greek",
+        "definition": "happening frequently"
+    },
+    {
+        "english": "letter",
+        "translated_version": "γράμμα",
+        "language": "greek",
+        "definition": "a symbol representing a phonetic sound"
+    },
+    {
+        "english": "until",
+        "translated_version": "μέχρι",
+        "language": "greek",
+        "definition": "up to"
+    },
+    {
+        "english": "mile",
+        "translated_version": "μίλι",
+        "language": "greek",
+        "definition": "a distance of 5280 feet"
+    },
+    {
+        "english": "river",
+        "translated_version": "ποτάμι",
+        "language": "greek",
+        "definition": "a relatively narrow body of water flowing from some source and toward some end"
+    },
+    {
+        "english": "car",
+        "translated_version": "αυτοκίνητο",
+        "language": "greek",
+        "definition": "a four wheeled vehicle suitable for transporting people"
+    },
+    {
+        "english": "feet",
+        "translated_version": "πόδια",
+        "language": "greek",
+        "definition": "the appendages at the end of one's legs"
+    },
+    {
+        "english": "care",
+        "translated_version": "Φροντίδα",
+        "language": "greek",
+        "definition": "the provision of what is necessary for the welfare or protection of something"
+    },
+    {
+        "english": "second",
+        "translated_version": "δεύτερος",
+        "language": "greek",
+        "definition": "number two in some sequence"
+    },
+    {
+        "english": "enough",
+        "translated_version": "αρκετά",
+        "language": "greek",
+        "definition": "as much as is required"
+    },
+    {
+        "english": "plain",
+        "translated_version": "πεδιάδα",
+        "language": "greek",
+        "definition": "being undecorated or unremarkable by some measure"
+    },
+    {
+        "english": "girl",
+        "translated_version": "κορίτσι",
+        "language": "greek",
+        "definition": "a typically young female human"
+    },
+    {
+        "english": "usual",
+        "translated_version": "συνήθης",
+        "language": "greek",
+        "definition": "not out of the ordinary"
+    },
+    {
+        "english": "young",
+        "translated_version": "νέος",
+        "language": "greek",
+        "definition": "having not aged considerably or having been born fairly recently"
+    },
+    {
+        "english": "ready",
+        "translated_version": "έτοιμος",
+        "language": "greek",
+        "definition": "to be prepared for something"
+    },
+    {
+        "english": "above",
+        "translated_version": "πάνω από",
+        "language": "greek",
+        "definition": "higher with respect to some object"
+    },
+    {
+        "english": "ever",
+        "translated_version": "πάντα",
+        "language": "greek",
+        "definition": "at any time"
+    },
+    {
+        "english": "red",
+        "translated_version": "το κόκκινο",
+        "language": "greek",
+        "definition": "the color of roses and strawberries"
+    },
+    {
+        "english": "list",
+        "translated_version": "λίστα",
+        "language": "greek",
+        "definition": "a sequential ordering of tasks or things"
+    },
+    {
+        "english": "though",
+        "translated_version": "αν και",
+        "language": "greek",
+        "definition": "despite the fact"
+    },
+    {
+        "english": "feel",
+        "translated_version": "αφή",
+        "language": "greek",
+        "definition": "to sense with any number of organs; to sense emotionally"
+    },
+    {
+        "english": "talk",
+        "translated_version": "ΜΙΛΑ ρε",
+        "language": "greek",
+        "definition": "to communicate vocally"
+    },
+    {
+        "english": "bird",
+        "translated_version": "πουλί",
+        "language": "greek",
+        "definition": "a warm-blooded egg-laying vertebrate distinguished by the possession of wings"
+    },
+    {
+        "english": "soon",
+        "translated_version": "σύντομα",
+        "language": "greek",
+        "definition": "near in time"
+    },
+    {
+        "english": "body",
+        "translated_version": "σώμα",
+        "language": "greek",
+        "definition": "the physical structure of something"
+    },
+    {
+        "english": "dog",
+        "translated_version": "σκύλος",
+        "language": "greek",
+        "definition": "a domesticated omnivorous mammal that typically has a long snout and an acute sense of smell"
+    },
+    {
+        "english": "family",
+        "translated_version": "οικογένεια",
+        "language": "greek",
+        "definition": "a group of people who are related by blood especially if they are direct relatives"
+    },
+    {
+        "english": "direct",
+        "translated_version": "απευθείας",
+        "language": "greek",
+        "definition": "with nothing in between"
+    },
+    {
+        "english": "pose",
+        "translated_version": "στάση",
+        "language": "greek",
+        "definition": "a physical stance taken by a person"
+    },
+    {
+        "english": "leave",
+        "translated_version": "άδεια",
+        "language": "greek",
+        "definition": "to exit a place"
+    },
+    {
+        "english": "song",
+        "translated_version": "τραγούδι",
+        "language": "greek",
+        "definition": "a composition of music"
+    },
+    {
+        "english": "measure",
+        "translated_version": "μετρούν",
+        "language": "greek",
+        "definition": "ascertain the degree of something through the use of some instrument that is physical or abstract"
+    },
+    {
+        "english": "door",
+        "translated_version": "πόρτα",
+        "language": "greek",
+        "definition": "a physical hinged entrance to someplace"
+    },
+    {
+        "english": "product",
+        "translated_version": "προϊόν",
+        "language": "greek",
+        "definition": "an article or substance that is manufactured"
+    },
+    {
+        "english": "black",
+        "translated_version": "μαύρος",
+        "language": "greek",
+        "definition": "the color of coal and some dark rocks"
+    },
+    {
+        "english": "short",
+        "translated_version": "μικρός",
+        "language": "greek",
+        "definition": "not of great length"
+    },
+    {
+        "english": "numeral",
+        "translated_version": "αριθμός",
+        "language": "greek",
+        "definition": "a number which denotes a group of things"
+    },
+    {
+        "english": "class",
+        "translated_version": "τάξη",
+        "language": "greek",
+        "definition": "a set or category of things having some property or attribute in common and differentiated from others by kind"
+    },
+    {
+        "english": "wind",
+        "translated_version": "άνεμος",
+        "language": "greek",
+        "definition": "the perciptible natural movement of air"
+    },
+    {
+        "english": "question",
+        "translated_version": "ερώτηση",
+        "language": "greek",
+        "definition": "a statement designed to glean information"
+    },
+    {
+        "english": "happen",
+        "translated_version": "συμβεί",
+        "language": "greek",
+        "definition": "to occur"
+    },
+    {
+        "english": "complete",
+        "translated_version": "πλήρης",
+        "language": "greek",
+        "definition": "missing no part"
+    },
+    {
+        "english": "ship",
+        "translated_version": "πλοίο",
+        "language": "greek",
+        "definition": "a vessel for transporting things over the water"
+    },
+    {
+        "english": "area",
+        "translated_version": "περιοχή",
+        "language": "greek",
+        "definition": "a particular region"
+    },
+    {
+        "english": "half",
+        "translated_version": "τα μισα",
+        "language": "greek",
+        "definition": "one of two parts resultant from dividing some whole in two"
+    },
+    {
+        "english": "rock",
+        "translated_version": "βράχος",
+        "language": "greek",
+        "definition": "the solid mineral material forming part of the surface of the earth and other similar planets"
+    },
+    {
+        "english": "order",
+        "translated_version": "Σειρά",
+        "language": "greek",
+        "definition": "the arrangement or disposition of things in relation to each other according to a particular sequence"
+    },
+    {
+        "english": "fire",
+        "translated_version": "Φωτιά",
+        "language": "greek",
+        "definition": "the excitement of molecules due to high energy resultant from some source of fuel and ignition"
+    },
+    {
+        "english": "south",
+        "translated_version": "Νότος",
+        "language": "greek",
+        "definition": "the opposite direction of that direction in which a compass normally points"
+    },
+    {
+        "english": "problem",
+        "translated_version": "πρόβλημα",
+        "language": "greek",
+        "definition": "a situation that is troublesome or inconvenient to which a solution is desired"
+    },
+    {
+        "english": "piece",
+        "translated_version": "κομμάτι",
+        "language": "greek",
+        "definition": "one part given the division of some whole arbitrarily"
+    },
+    {
+        "english": "told",
+        "translated_version": "είπε",
+        "language": "greek",
+        "definition": "past tense of tell"
+    },
+    {
+        "english": "knew",
+        "translated_version": "ήξερα",
+        "language": "greek",
+        "definition": "past tense of know"
+    },
+    {
+        "english": "pass",
+        "translated_version": "πέρασμα",
+        "language": "greek",
+        "definition": "move or cause to move in a specified direction especially with respect to something else"
+    },
+    {
+        "english": "since",
+        "translated_version": "Από",
+        "language": "greek",
+        "definition": "in the intervening period between the time or event mentioned and the time under consideration"
+    },
+    {
+        "english": "top",
+        "translated_version": "μπλουζα",
+        "language": "greek",
+        "definition": "the highest part of something"
+    },
+    {
+        "english": "whole",
+        "translated_version": "ολόκληρος",
+        "language": "greek",
+        "definition": "that which is complete in itself"
+    },
+    {
+        "english": "king",
+        "translated_version": "Βασιλιάς",
+        "language": "greek",
+        "definition": "the ruler of some country or land or nation by divine right"
+    },
+    {
+        "english": "street",
+        "translated_version": "δρόμος",
+        "language": "greek",
+        "definition": "a usually paved path adjacent to which homes or businesses find their place and on which travel occurs"
+    },
+    {
+        "english": "inch",
+        "translated_version": "ίντσα",
+        "language": "greek",
+        "definition": "one-twelfth of one foot"
+    },
+    {
+        "english": "multiply",
+        "translated_version": "πολλαπλασιάζω",
+        "language": "greek",
+        "definition": "obtain from a number another that contains the first number a specified number of times"
+    },
+    {
+        "english": "nothing",
+        "translated_version": "τίποτα",
+        "language": "greek",
+        "definition": "the opposite of the whole"
+    },
+    {
+        "english": "course",
+        "translated_version": "σειρά μαθημάτων",
+        "language": "greek",
+        "definition": "a cirriculum followed by a student especially when taught by some instructor"
+    },
+    {
+        "english": "stay",
+        "translated_version": "διαμονή",
+        "language": "greek",
+        "definition": "to remain in a place or with something"
+    },
+    {
+        "english": "wheel",
+        "translated_version": "ρόδα",
+        "language": "greek",
+        "definition": "a round object which is used by attachment to something for easier transportation of that thing"
+    },
+    {
+        "english": "full",
+        "translated_version": "γεμάτος",
+        "language": "greek",
+        "definition": "not empty"
+    },
+    {
+        "english": "force",
+        "translated_version": "δύναμη",
+        "language": "greek",
+        "definition": "strength or energy as an attribute of physical action or movement"
+    },
+    {
+        "english": "blue",
+        "translated_version": "μπλε",
+        "language": "greek",
+        "definition": "the color of the sky during daytime"
+    },
+    {
+        "english": "object",
+        "translated_version": "αντικείμενο",
+        "language": "greek",
+        "definition": "something tangible"
+    },
+    {
+        "english": "decide",
+        "translated_version": "αποφασίζω",
+        "language": "greek",
+        "definition": "choosing one given a set of options"
+    },
+    {
+        "english": "surface",
+        "translated_version": "επιφάνεια",
+        "language": "greek",
+        "definition": "solely the typically visible exterior of something"
+    },
+    {
+        "english": "deep",
+        "translated_version": "βαθύς",
+        "language": "greek",
+        "definition": "the downward heigh of something especially when describing a hole or body of water"
+    },
+    {
+        "english": "moon",
+        "translated_version": "φεγγάρι",
+        "language": "greek",
+        "definition": "a great celestial satellite of a planet especially when considering earth's own satellite"
+    },
+    {
+        "english": "island",
+        "translated_version": "νησί",
+        "language": "greek",
+        "definition": "land that is surrounded by a body of water; the opposite of a sea"
+    },
+    {
+        "english": "foot",
+        "translated_version": "πόδι",
+        "language": "greek",
+        "definition": "one of the two appendages"
+    },
+    {
+        "english": "system",
+        "translated_version": "Σύστημα",
+        "language": "greek",
+        "definition": "a set of things working together as parts of a mechanism"
+    },
+    {
+        "english": "busy",
+        "translated_version": "απασχολημένος",
+        "language": "greek",
+        "definition": "having much to do"
+    },
+    {
+        "english": "test",
+        "translated_version": "δοκιμή",
+        "language": "greek",
+        "definition": "an evaluation of one's skill or mettle"
+    },
+    {
+        "english": "record",
+        "translated_version": "Ρεκόρ",
+        "language": "greek",
+        "definition": "a thing constituting a piece of evidence about the past"
+    },
+    {
+        "english": "boat",
+        "translated_version": "σκάφος",
+        "language": "greek",
+        "definition": "a vessel used for transportation on water"
+    },
+    {
+        "english": "common",
+        "translated_version": "κοινός",
+        "language": "greek",
+        "definition": "frequently occurring"
+    },
+    {
+        "english": "gold",
+        "translated_version": "χρυσός",
+        "language": "greek",
+        "definition": "a yellow precious metal valued for its appearance and useful properties"
+    },
+    {
+        "english": "possible",
+        "translated_version": "δυνατόν",
+        "language": "greek",
+        "definition": "that which could potentially occur"
+    },
+    {
+        "english": "plane",
+        "translated_version": "επίπεδο",
+        "language": "greek",
+        "definition": "a flat surface on which a straight line joining any two points on it would wholly lie"
+    },
+    {
+        "english": "stead",
+        "translated_version": "θέση",
+        "language": "greek",
+        "definition": "the place or role that someone or something should have or fill"
+    },
+    {
+        "english": "dry",
+        "translated_version": "στεγνός",
+        "language": "greek",
+        "definition": "lacking moisture"
+    },
+    {
+        "english": "wonder",
+        "translated_version": "θαύμα",
+        "language": "greek",
+        "definition": "a mircale or marvel"
+    },
+    {
+        "english": "laugh",
+        "translated_version": "γέλιο",
+        "language": "greek",
+        "definition": "make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement"
+    },
+    {
+        "english": "thousand",
+        "translated_version": "χίλια",
+        "language": "greek",
+        "definition": "100 times ten"
+    },
+    {
+        "english": "ago",
+        "translated_version": "πριν",
+        "language": "greek",
+        "definition": "before the present or earlier used after a measurement of time"
+    },
+    {
+        "english": "ran",
+        "translated_version": "έτρεξα",
+        "language": "greek",
+        "definition": "past tense of run"
+    },
+    {
+        "english": "check",
+        "translated_version": "έλεγχος",
+        "language": "greek",
+        "definition": "examine something in order to determine its condition"
+    },
+    {
+        "english": "game",
+        "translated_version": "παιχνίδι",
+        "language": "greek",
+        "definition": "an amusing or competitive activity"
+    },
+    {
+        "english": "shape",
+        "translated_version": "σχήμα",
+        "language": "greek",
+        "definition": "the form or outline of something"
+    },
+    {
+        "english": "equate",
+        "translated_version": "εξισώνω",
+        "language": "greek",
+        "definition": "consider the case when one thing is the same as another"
+    },
+    {
+        "english": "miss",
+        "translated_version": "δεσποινίδα",
+        "language": "greek",
+        "definition": "an unmarried woman; especially a young woman"
+    },
+    {
+        "english": "brought",
+        "translated_version": "έφερε",
+        "language": "greek",
+        "definition": "past tense of bring"
+    },
+    {
+        "english": "heat",
+        "translated_version": "θερμότητα",
+        "language": "greek",
+        "definition": "the tangible measure of energy of something; the feeling of warmth exuding from something"
+    },
+    {
+        "english": "snow",
+        "translated_version": "χιόνι",
+        "language": "greek",
+        "definition": "frozen precipitation"
+    },
+    {
+        "english": "tire",
+        "translated_version": "λάστιχο",
+        "language": "greek",
+        "definition": "a typically inflated rubber covering placed around a wheel to form a flexible contact with the road"
+    },
+    {
+        "english": "bring",
+        "translated_version": "να φερεις",
+        "language": "greek",
+        "definition": "take something to somewhere"
+    },
+    {
+        "english": "yes",
+        "translated_version": "Ναί",
+        "language": "greek",
+        "definition": "a term used in agreeance or acceptance of something"
+    },
+    {
+        "english": "distant",
+        "translated_version": "μακρινός",
+        "language": "greek",
+        "definition": "far away"
+    },
+    {
+        "english": "fill",
+        "translated_version": "γέμισμα",
+        "language": "greek",
+        "definition": "to add to an empty volume especially when considering liquids"
+    },
+    {
+        "english": "east",
+        "translated_version": "Ανατολή",
+        "language": "greek",
+        "definition": "to the right of the direction in which a compass usually points"
+    },
+    {
+        "english": "paint",
+        "translated_version": "μπογιά",
+        "language": "greek",
+        "definition": "a colored substance which is spread over the surface of an object"
+    },
+    {
+        "english": "language",
+        "translated_version": "Γλώσσα",
+        "language": "greek",
+        "definition": "a collection of terms combined with a grammar used for communication or instruction"
+    },
+    {
+        "english": "among",
+        "translated_version": "αναμεταξύ",
+        "language": "greek",
+        "definition": "in the midst of"
+    },
+    {
+        "english": "unit",
+        "translated_version": "μονάδα",
+        "language": "greek",
+        "definition": "an individual thing regarded as single and complete but which can also form an individual component of a larger or more complex whole"
+    },
+    {
+        "english": "power",
+        "translated_version": "εξουσία",
+        "language": "greek",
+        "definition": "the capacity or ability to direct or influence the behavior of others or the course of events"
+    },
+    {
+        "english": "town",
+        "translated_version": "πόλη",
+        "language": "greek",
+        "definition": "a place constituted of buildings and people where life and work take place"
+    },
+    {
+        "english": "fine",
+        "translated_version": "πρόστιμο",
+        "language": "greek",
+        "definition": "of high quality"
+    },
+    {
+        "english": "certain",
+        "translated_version": "βέβαιος",
+        "language": "greek",
+        "definition": "entirely sure and without doubt"
+    },
+    {
+        "english": "fly",
+        "translated_version": "πετώ",
+        "language": "greek",
+        "definition": "to travel through the air"
+    },
+    {
+        "english": "fall",
+        "translated_version": "πτώση",
+        "language": "greek",
+        "definition": "to travel downward toward the ground due to gravity"
+    },
+    {
+        "english": "lead",
+        "translated_version": "οδηγω",
+        "language": "greek",
+        "definition": "cause something to follow"
+    },
+    {
+        "english": "cry",
+        "translated_version": "κραυγή",
+        "language": "greek",
+        "definition": "shead tears especially as an expression of distress"
+    },
+    {
+        "english": "dark",
+        "translated_version": "σκοτάδι",
+        "language": "greek",
+        "definition": "lacking light"
+    },
+    {
+        "english": "machine",
+        "translated_version": "μηχανή",
+        "language": "greek",
+        "definition": "a construct used to fulfill some purpose especially when considering production"
+    },
+    {
+        "english": "note",
+        "translated_version": "Σημείωση",
+        "language": "greek",
+        "definition": "a brief record of topics written down as an aid to memory"
+    },
+    {
+        "english": "wait",
+        "translated_version": "Περίμενε",
+        "language": "greek",
+        "definition": "to remain until something occurs"
+    },
+    {
+        "english": "plan",
+        "translated_version": "σχέδιο",
+        "language": "greek",
+        "definition": "a detailed proposal for achieving something"
+    },
+    {
+        "english": "figure",
+        "translated_version": "εικόνα",
+        "language": "greek",
+        "definition": "an illustration or collection of data used as a reference for some topic which it represents"
+    },
+    {
+        "english": "star",
+        "translated_version": "αστέρι",
+        "language": "greek",
+        "definition": "a dense flaming ball of gas in space"
+    },
+    {
+        "english": "box",
+        "translated_version": "κουτί",
+        "language": "greek",
+        "definition": "an enclosure with 6 faces"
+    },
+    {
+        "english": "noun",
+        "translated_version": "ουσιαστικό",
+        "language": "greek",
+        "definition": "a person place thing or idea"
+    },
+    {
+        "english": "field",
+        "translated_version": "πεδίο",
+        "language": "greek",
+        "definition": "an area of open land"
+    },
+    {
+        "english": "rest",
+        "translated_version": "υπόλοιπο",
+        "language": "greek",
+        "definition": "cease work or movement in order to relax refresh oneself or recover strength"
+    },
+    {
+        "english": "correct",
+        "translated_version": "σωστός",
+        "language": "greek",
+        "definition": "to have stated something true; to have done something up to a given specification"
+    },
+    {
+        "english": "able",
+        "translated_version": "ικανός",
+        "language": "greek",
+        "definition": "having the means to do something"
+    },
+    {
+        "english": "pound",
+        "translated_version": "λίβρα",
+        "language": "greek",
+        "definition": "a unit of weight equal to 16 ounces"
+    },
+    {
+        "english": "done",
+        "translated_version": "Έγινε",
+        "language": "greek",
+        "definition": "past tense of do"
+    },
+    {
+        "english": "beauty",
+        "translated_version": "ομορφιά",
+        "language": "greek",
+        "definition": "the pleasant appearance of something"
+    },
+    {
+        "english": "drive",
+        "translated_version": "οδηγώ",
+        "language": "greek",
+        "definition": "operate and control the direction and speed of some vehicle"
+    },
+    {
+        "english": "stood",
+        "translated_version": "στάθηκε",
+        "language": "greek",
+        "definition": "past tense of stand"
+    },
+    {
+        "english": "contain",
+        "translated_version": "περιέχω",
+        "language": "greek",
+        "definition": "to have or hold within"
+    },
+    {
+        "english": "front",
+        "translated_version": "εμπρός",
+        "language": "greek",
+        "definition": "the side or part of an object that presents itself to view or use or that is normally seen or used first"
+    },
+    {
+        "english": "teach",
+        "translated_version": "διδάσκω",
+        "language": "greek",
+        "definition": "to convey information regarding something to another person in an effort to increase their understanding"
+    },
+    {
+        "english": "week",
+        "translated_version": "εβδομάδα",
+        "language": "greek",
+        "definition": "an amount of time equal to seven days"
+    },
+    {
+        "english": "final",
+        "translated_version": "τελικός",
+        "language": "greek",
+        "definition": "last"
+    },
+    {
+        "english": "gave",
+        "translated_version": "έδωσε",
+        "language": "greek",
+        "definition": "past tense of give"
+    },
+    {
+        "english": "green",
+        "translated_version": "πράσινος",
+        "language": "greek",
+        "definition": "the color of grass and many leaves"
+    },
+    {
+        "english": "oh",
+        "translated_version": "Ω",
+        "language": "greek",
+        "definition": "used to express a range of emotions in reaction to something that has just been said or done"
+    },
+    {
+        "english": "quick",
+        "translated_version": "γρήγορα",
+        "language": "greek",
+        "definition": "with great speed"
+    },
+    {
+        "english": "develop",
+        "translated_version": "αναπτύσσω",
+        "language": "greek",
+        "definition": "grow or cause to grow and become more advanced"
+    },
+    {
+        "english": "ocean",
+        "translated_version": "ωκεανός",
+        "language": "greek",
+        "definition": "the great bodies of water separating the continents of the planet"
+    },
+    {
+        "english": "warm",
+        "translated_version": "ζεστός",
+        "language": "greek",
+        "definition": "having heat"
+    },
+    {
+        "english": "free",
+        "translated_version": "Ελεύθερος",
+        "language": "greek",
+        "definition": "not under the control or power of another"
+    },
+    {
+        "english": "minute",
+        "translated_version": "λεπτό",
+        "language": "greek",
+        "definition": "the amount of time equal to 60 seconds"
+    },
+    {
+        "english": "strong",
+        "translated_version": "ισχυρός",
+        "language": "greek",
+        "definition": "of great physical ability or durability"
+    },
+    {
+        "english": "special",
+        "translated_version": "ειδικός",
+        "language": "greek",
+        "definition": "being uncommon and especially when valued by something"
+    },
+    {
+        "english": "mind",
+        "translated_version": "μυαλό",
+        "language": "greek",
+        "definition": "the element of a person that enables them to be aware of the world and of themselves"
+    },
+    {
+        "english": "behind",
+        "translated_version": "πίσω",
+        "language": "greek",
+        "definition": "immediately following something"
+    },
+    {
+        "english": "clear",
+        "translated_version": "Σαφή",
+        "language": "greek",
+        "definition": "translucent or transparent; well understood"
+    },
+    {
+        "english": "tail",
+        "translated_version": "ουρά",
+        "language": "greek",
+        "definition": "an appendage attached to the posterior of an animal which often serves to help them balance"
+    },
+    {
+        "english": "produce",
+        "translated_version": "παράγω",
+        "language": "greek",
+        "definition": "to create something especially for sale"
+    },
+    {
+        "english": "fact",
+        "translated_version": "γεγονός",
+        "language": "greek",
+        "definition": "that which is true"
+    },
+    {
+        "english": "space",
+        "translated_version": "χώρος",
+        "language": "greek",
+        "definition": "a continuous area or expanse; a set with added structure"
+    },
+    {
+        "english": "heard",
+        "translated_version": "ακούστηκε",
+        "language": "greek",
+        "definition": "past tense of hear"
+    },
+    {
+        "english": "best",
+        "translated_version": "καλύτερος",
+        "language": "greek",
+        "definition": "the greatest amongst a set of things; a thing of the highest quality of its kind"
+    },
+    {
+        "english": "hour",
+        "translated_version": "ώρα",
+        "language": "greek",
+        "definition": "the amount of time equal to 60 minutes"
+    },
+    {
+        "english": "better",
+        "translated_version": "καλύτερα",
+        "language": "greek",
+        "definition": "greater in quality with respect to something else"
+    },
+    {
+        "english": "true",
+        "translated_version": "αληθής",
+        "language": "greek",
+        "definition": "that which has been proven by some evidence"
+    },
+    {
+        "english": "during",
+        "translated_version": "στη διάρκεια",
+        "language": "greek",
+        "definition": "while an event takes place"
+    },
+    {
+        "english": "hundred",
+        "translated_version": "εκατό",
+        "language": "greek",
+        "definition": "10 of 10 of something"
+    },
+    {
+        "english": "five",
+        "translated_version": "πέντε",
+        "language": "greek",
+        "definition": "one more than four"
+    },
+    {
+        "english": "remember",
+        "translated_version": "θυμάμαι",
+        "language": "greek",
+        "definition": "to recall something which took place"
+    },
+    {
+        "english": "step",
+        "translated_version": "βήμα",
+        "language": "greek",
+        "definition": "an act or movement of putting one leg in front of the other in walking or running"
+    },
+    {
+        "english": "early",
+        "translated_version": "νωρίς",
+        "language": "greek",
+        "definition": "before the usual or expected time"
+    },
+    {
+        "english": "hold",
+        "translated_version": "Κρατήστε",
+        "language": "greek",
+        "definition": "to keep in one's hands or arms"
+    },
+    {
+        "english": "west",
+        "translated_version": "δυτικά",
+        "language": "greek",
+        "definition": "the direction to the left of that direction in which a compass usually points"
+    },
+    {
+        "english": "ground",
+        "translated_version": "έδαφος",
+        "language": "greek",
+        "definition": "the solid surface of the earth"
+    },
+    {
+        "english": "interest",
+        "translated_version": "ενδιαφέρον",
+        "language": "greek",
+        "definition": "wanting to know or learn about something"
+    },
+    {
+        "english": "reach",
+        "translated_version": "φθάνω",
+        "language": "greek",
+        "definition": "to extend one's grasp toward something"
+    },
+    {
+        "english": "fast",
+        "translated_version": "γρήγορα",
+        "language": "greek",
+        "definition": "with haste"
+    },
+    {
+        "english": "verb",
+        "translated_version": "ρήμα",
+        "language": "greek",
+        "definition": "a word of action"
+    },
+    {
+        "english": "sing",
+        "translated_version": "τραγουδώ",
+        "language": "greek",
+        "definition": "to make music with one's voice"
+    },
+    {
+        "english": "listen",
+        "translated_version": "ακούω",
+        "language": "greek",
+        "definition": "to sense with one's audial organs"
+    },
+    {
+        "english": "six",
+        "translated_version": "έξι",
+        "language": "greek",
+        "definition": "one more than five"
+    },
+    {
+        "english": "table",
+        "translated_version": "τραπέζι",
+        "language": "greek",
+        "definition": "a surface typically with legs on which things are placed"
+    },
+    {
+        "english": "travel",
+        "translated_version": "ταξίδι",
+        "language": "greek",
+        "definition": "to move to some other place especially to visit"
+    },
+    {
+        "english": "less",
+        "translated_version": "πιο λιγο",
+        "language": "greek",
+        "definition": "not as many"
+    },
+    {
+        "english": "morning",
+        "translated_version": "πρωί",
+        "language": "greek",
+        "definition": "the time of day after the sun rises yet before it reaches its peak in the sky"
+    },
+    {
+        "english": "ten",
+        "translated_version": "δέκα",
+        "language": "greek",
+        "definition": "one more than nine"
+    },
+    {
+        "english": "simple",
+        "translated_version": "απλός",
+        "language": "greek",
+        "definition": "not complex"
+    },
+    {
+        "english": "several",
+        "translated_version": "αρκετά",
+        "language": "greek",
+        "definition": "many"
+    },
+    {
+        "english": "vowel",
+        "translated_version": "φωνήεν",
+        "language": "greek",
+        "definition": "a speech sound which is produced by comparatively open configuration of the vocal tract"
+    },
+    {
+        "english": "toward",
+        "translated_version": "προς",
+        "language": "greek",
+        "definition": "in the direction of"
+    },
+    {
+        "english": "war",
+        "translated_version": "πόλεμος",
+        "language": "greek",
+        "definition": "a conflict between groups of people or between nations"
+    },
+    {
+        "english": "lay",
+        "translated_version": "λαϊκός",
+        "language": "greek",
+        "definition": "not ordained into or belonging to the clergy"
+    },
+    {
+        "english": "against",
+        "translated_version": "κατά",
+        "language": "greek",
+        "definition": "in opposition to"
+    },
+    {
+        "english": "pattern",
+        "translated_version": "πρότυπο",
+        "language": "greek",
+        "definition": "some repeated information especially in designs"
+    },
+    {
+        "english": "slow",
+        "translated_version": "αργός",
+        "language": "greek",
+        "definition": "without haste; not fast"
+    },
+    {
+        "english": "center",
+        "translated_version": "κέντρο",
+        "language": "greek",
+        "definition": "the middle of something"
+    },
+    {
+        "english": "love",
+        "translated_version": "αγάπη",
+        "language": "greek",
+        "definition": "an intense feeling of deep affection"
+    },
+    {
+        "english": "person",
+        "translated_version": "πρόσωπο",
+        "language": "greek",
+        "definition": "a human"
+    },
+    {
+        "english": "money",
+        "translated_version": "χρήματα",
+        "language": "greek",
+        "definition": "a medium of exchange for goods or services"
+    },
+    {
+        "english": "serve",
+        "translated_version": "σερβίρισμα",
+        "language": "greek",
+        "definition": "perform duties for or on behalf of a person or organizations"
+    },
+    {
+        "english": "appear",
+        "translated_version": "εμφανίζομαι",
+        "language": "greek",
+        "definition": "to become visible"
+    },
+    {
+        "english": "road",
+        "translated_version": "δρόμος",
+        "language": "greek",
+        "definition": "a wide way leading from one place to another"
+    },
+    {
+        "english": "map",
+        "translated_version": "χάρτης",
+        "language": "greek",
+        "definition": "a pictographic representation of some region"
+    },
+    {
+        "english": "rain",
+        "translated_version": "βροχή",
+        "language": "greek",
+        "definition": "liquid precipitation"
+    },
+    {
+        "english": "rule",
+        "translated_version": "κανόνας",
+        "language": "greek",
+        "definition": "one of a set of explicit or understood regulations or principles governing conduct within a particular activity or sphere"
+    },
+    {
+        "english": "govern",
+        "translated_version": "κυβερνώ",
+        "language": "greek",
+        "definition": "conduct the actions of a state or organization"
+    },
+    {
+        "english": "pull",
+        "translated_version": "Τραβήξτε",
+        "language": "greek",
+        "definition": "exert force on something so as to cause movement toward oneself"
+    },
+    {
+        "english": "cold",
+        "translated_version": "κρύο",
+        "language": "greek",
+        "definition": "lacking heat"
+    },
+    {
+        "english": "notice",
+        "translated_version": "ειδοποίηση",
+        "language": "greek",
+        "definition": "the fact of observing or paying attention to something"
+    },
+    {
+        "english": "voice",
+        "translated_version": "φωνή",
+        "language": "greek",
+        "definition": "the sound produced in a person's larynx and uttered through the mouth as speech or song"
+    },
+    {
+        "english": "energy",
+        "translated_version": "ενέργεια",
+        "language": "greek",
+        "definition": "the strength and vitality required for sustained physical or mental activity"
+    },
+    {
+        "english": "hunt",
+        "translated_version": "κυνήγι",
+        "language": "greek",
+        "definition": "pursue and kill a wild animal for sport or food"
+    },
+    {
+        "english": "probable",
+        "translated_version": "πιθανός",
+        "language": "greek",
+        "definition": "likely to be the case or to happen"
+    },
+    {
+        "english": "bed",
+        "translated_version": "κρεβάτι",
+        "language": "greek",
+        "definition": "a piece of furniture for sleep or rest"
+    },
+    {
+        "english": "brother",
+        "translated_version": "αδελφός",
+        "language": "greek",
+        "definition": "a man or boy in relation to other sons and daughters of his parents"
+    },
+    {
+        "english": "egg",
+        "translated_version": "αυγό",
+        "language": "greek",
+        "definition": "an oval or round object laid by a female bird reptile fish or invertebrate usually containing a developing embryo"
+    },
+    {
+        "english": "ride",
+        "translated_version": "βόλτα",
+        "language": "greek",
+        "definition": "sit on and control the movement of an animal especially a horse typically as a recreation or sport"
+    },
+    {
+        "english": "cell",
+        "translated_version": "κύτταρο",
+        "language": "greek",
+        "definition": "a small room in which a prisoner is locked up or in which a monk or nun sleeps"
+    },
+    {
+        "english": "believe",
+        "translated_version": "πιστεύω",
+        "language": "greek",
+        "definition": "accept something as true feel sure of the truth of"
+    },
+    {
+        "english": "perhaps",
+        "translated_version": "ίσως",
+        "language": "greek",
+        "definition": "used to express uncertainty or possibility"
+    },
+    {
+        "english": "pick",
+        "translated_version": "διαλέγω",
+        "language": "greek",
+        "definition": "take hold of and remove a flower fruit or vegetable from where it is growing"
+    },
+    {
+        "english": "sudden",
+        "translated_version": "αιφνίδιος",
+        "language": "greek",
+        "definition": "occurring or done quickly and unexpectedly or without warning"
+    },
+    {
+        "english": "count",
+        "translated_version": "μετρώ",
+        "language": "greek",
+        "definition": "determine the total number of a collection of items"
+    },
+    {
+        "english": "square",
+        "translated_version": "τετράγωνο",
+        "language": "greek",
+        "definition": "a plane figure with four equal straight sides and four right angles"
+    },
+    {
+        "english": "reason",
+        "translated_version": "λόγος",
+        "language": "greek",
+        "definition": "a cause explanation or justification for an action or event"
+    },
+    {
+        "english": "length",
+        "translated_version": "μήκος",
+        "language": "greek",
+        "definition": "the measurement or extent of something from end to end"
+    },
+    {
+        "english": "represent",
+        "translated_version": "εκπροσωπώ",
+        "language": "greek",
+        "definition": "be entitled or appointed to act or speak for someone especially in an official capacity"
+    },
+    {
+        "english": "art",
+        "translated_version": "τέχνη",
+        "language": "greek",
+        "definition": "the expression or application of human creative skill and imagination"
+    },
+    {
+        "english": "subject",
+        "translated_version": "θέμα",
+        "language": "greek",
+        "definition": "a person or thing that is being discussed described or dealt with"
+    },
+    {
+        "english": "region",
+        "translated_version": "περιφέρεια",
+        "language": "greek",
+        "definition": "an area or division especially part of a country or the world having definable characteristics but not always fixed boundaries"
+    },
+    {
+        "english": "size",
+        "translated_version": "Μέγεθος",
+        "language": "greek",
+        "definition": "the relative extent of something a thing's overall dimensions or magnitude how big something is"
+    },
+    {
+        "english": "vary",
+        "translated_version": "ποικίλλω",
+        "language": "greek",
+        "definition": "differ in size amount degree or nature from something else of the same general class"
+    },
+    {
+        "english": "settle",
+        "translated_version": "εγκαθίσταμαι",
+        "language": "greek",
+        "definition": "resolve or reach an agreement about an argument or problem"
+    },
+    {
+        "english": "speak",
+        "translated_version": "μιλώ",
+        "language": "greek",
+        "definition": "say something in order to convey information an opinion or a feeling"
+    },
+    {
+        "english": "weight",
+        "translated_version": "βάρος",
+        "language": "greek",
+        "definition": "a body's relative mass or the quantity of matter contained by it giving rise to a downward force the heaviness of a person or thing"
+    },
+    {
+        "english": "general",
+        "translated_version": "γενικός",
+        "language": "greek",
+        "definition": "affecting or concerning all or most people places or things widespread"
+    },
+    {
+        "english": "ice",
+        "translated_version": "πάγος",
+        "language": "greek",
+        "definition": "frozen water a brittle transparent crystalline solid"
+    },
+    {
+        "english": "matter",
+        "translated_version": "ύλη",
+        "language": "greek",
+        "definition": "physical substance in general as distinct from mind and spirit in physics that which occupies space and possesses rest mass especially as distinct from energy"
+    },
+    {
+        "english": "circle",
+        "translated_version": "κύκλος",
+        "language": "greek",
+        "definition": "a round plane figure whose boundary the circumference consists of points equidistant from a fixed point the center"
+    },
+    {
+        "english": "pair",
+        "translated_version": "ζεύγος",
+        "language": "greek",
+        "definition": "a set of two things used together or regarded as a unit"
+    },
+    {
+        "english": "include",
+        "translated_version": "περιλαμβάνω",
+        "language": "greek",
+        "definition": "comprise or contain as part of a whole"
+    },
+    {
+        "english": "divide",
+        "translated_version": "διαιρέστε",
+        "language": "greek",
+        "definition": "separate or be separated into parts"
+    },
+    {
+        "english": "syllable",
+        "translated_version": "συλλαβή",
+        "language": "greek",
+        "definition": "a unit of pronunciation having one vowel sound with or without surrounding consonants forming the whole or a part of a word"
+    },
+    {
+        "english": "felt",
+        "translated_version": "ένιωσα",
+        "language": "greek",
+        "definition": "a kind of cloth made by rolling and pressing wool or another suitable textile accompanied by the application of moisture or heat which causes the constituent fibers to mat together to create a smooth surface"
+    },
+    {
+        "english": "grand",
+        "translated_version": "μεγαλειώδης",
+        "language": "greek",
+        "definition": "magnificent and imposing in appearance size or style"
+    },
+    {
+        "english": "ball",
+        "translated_version": "μπάλα",
+        "language": "greek",
+        "definition": "a solid or hollow spherical or egg-shaped object that is kicked thrown or hit in a game"
+    },
+    {
+        "english": "yet",
+        "translated_version": "Ακόμη",
+        "language": "greek",
+        "definition": "up until the present or a specified or implied time by now or then"
+    },
+    {
+        "english": "wave",
+        "translated_version": "κύμα",
+        "language": "greek",
+        "definition": "move one's hand to and fro in greeting or as a signal"
+    },
+    {
+        "english": "drop",
+        "translated_version": "πτώση",
+        "language": "greek",
+        "definition": "let or make something fall vertically"
+    },
+    {
+        "english": "heart",
+        "translated_version": "καρδιά",
+        "language": "greek",
+        "definition": "a hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction and dilation"
+    },
+    {
+        "english": "am",
+        "translated_version": "είμαι",
+        "language": "greek",
+        "definition": "first person singular present of be"
+    },
+    {
+        "english": "present",
+        "translated_version": "παρόν",
+        "language": "greek",
+        "definition": "in a particular place"
+    },
+    {
+        "english": "heavy",
+        "translated_version": "βαρύς",
+        "language": "greek",
+        "definition": "of great weight"
+    },
+    {
+        "english": "dance",
+        "translated_version": "χορός",
+        "language": "greek",
+        "definition": "move rhythmically to music typically following a set sequence of steps"
+    },
+    {
+        "english": "engine",
+        "translated_version": "κινητήρας",
+        "language": "greek",
+        "definition": "a machine with moving parts that converts power into motion"
+    },
+    {
+        "english": "position",
+        "translated_version": "θέση",
+        "language": "greek",
+        "definition": "a place where someone or something is located or has been put"
+    },
+    {
+        "english": "arm",
+        "translated_version": "μπράτσο",
+        "language": "greek",
+        "definition": "each of the two upper limbs of the human body from the shoulder to the hand"
+    },
+    {
+        "english": "wide",
+        "translated_version": "πλατύς",
+        "language": "greek",
+        "definition": "of great or more than average width"
+    },
+    {
+        "english": "sail",
+        "translated_version": "πανι ΠΛΟΙΟΥ",
+        "language": "greek",
+        "definition": "a piece of material extended on a mast to catch the wind and propel a boat or ship or other vessel"
+    },
+    {
+        "english": "material",
+        "translated_version": "υλικό",
+        "language": "greek",
+        "definition": "the matter from which a thing is or can be made"
+    },
+    {
+        "english": "fraction",
+        "translated_version": "κλάσμα",
+        "language": "greek",
+        "definition": "a numerical quantity that is not a whole number"
+    },
+    {
+        "english": "forest",
+        "translated_version": "δάσος",
+        "language": "greek",
+        "definition": "a large area covered chiefly with trees and undergrowth"
+    },
+    {
+        "english": "sit",
+        "translated_version": "Καθίστε",
+        "language": "greek",
+        "definition": "adopt or be in a position in which one's weight is supported by one's buttocks rather than one's feet and one's back is upright"
+    },
+    {
+        "english": "race",
+        "translated_version": "αγώνας",
+        "language": "greek",
+        "definition": "a competition between runners horses vehicles boats etc to see which is the fastest in covering a set course"
+    },
+    {
+        "english": "window",
+        "translated_version": "παράθυρο",
+        "language": "greek",
+        "definition": "an opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material in a frame to admit light or air and allow people to see out"
+    },
+    {
+        "english": "store",
+        "translated_version": "κατάστημα",
+        "language": "greek",
+        "definition": "a quantity or supply of something kept for use as needed"
+    },
+    {
+        "english": "summer",
+        "translated_version": "καλοκαίρι",
+        "language": "greek",
+        "definition": "the warmest season of the year"
+    },
+    {
+        "english": "train",
+        "translated_version": "τρένο",
+        "language": "greek",
+        "definition": "teach a person or animal a particular skill or type of behavior through practice and instruction over a period of time"
+    },
+    {
+        "english": "sleep",
+        "translated_version": "ύπνος",
+        "language": "greek",
+        "definition": "a condition of body and mind that typically recurs for several hours every night in which the nervous system is relatively inactive and consciousness practically suspended"
+    },
+    {
+        "english": "prove",
+        "translated_version": "αποδεικνύω",
+        "language": "greek",
+        "definition": "demonstrate the truth or existence of something by evidence or argument"
+    },
+    {
+        "english": "lone",
+        "translated_version": "μοναχικός",
+        "language": "greek",
+        "definition": "solitary or single"
+    },
+    {
+        "english": "leg",
+        "translated_version": "πόδι",
+        "language": "greek",
+        "definition": "the appendage attached at the hip"
+    },
+    {
+        "english": "exercise",
+        "translated_version": "άσκηση",
+        "language": "greek",
+        "definition": "to exert oneself physically for the improvement of health"
+    },
+    {
+        "english": "wall",
+        "translated_version": "τείχος",
+        "language": "greek",
+        "definition": "a structure used to keep others from entering an area"
+    },
+    {
+        "english": "catch",
+        "translated_version": "σύλληψη",
+        "language": "greek",
+        "definition": "intercept and hold something which has been thrown"
+    },
+    {
+        "english": "mount",
+        "translated_version": "βουνό",
+        "language": "greek",
+        "definition": "a mountain or hill"
+    },
+    {
+        "english": "wish",
+        "translated_version": "επιθυμία",
+        "language": "greek",
+        "definition": "feel or express a strong desire or hope for something that is not easily attainable"
+    },
+    {
+        "english": "sky",
+        "translated_version": "ουρανός",
+        "language": "greek",
+        "definition": "the region of the atmosphere and outer space seen from the earth"
+    },
+    {
+        "english": "board",
+        "translated_version": "σανίδα",
+        "language": "greek",
+        "definition": "a flat piece of wood or other hard material"
+    },
+    {
+        "english": "joy",
+        "translated_version": "Χαρά",
+        "language": "greek",
+        "definition": "a feeling of great pleasure and happiness"
+    },
+    {
+        "english": "winter",
+        "translated_version": "χειμώνας",
+        "language": "greek",
+        "definition": "the coldest season of the year"
+    },
+    {
+        "english": "sat",
+        "translated_version": "κάθισε",
+        "language": "greek",
+        "definition": "past tense of sit"
+    },
+    {
+        "english": "written",
+        "translated_version": "γραπτός",
+        "language": "greek",
+        "definition": "past participle of write"
+    },
+    {
+        "english": "wild",
+        "translated_version": "άγριος",
+        "language": "greek",
+        "definition": " living or growing in the natural environment; not domesticated or cultivated"
+    },
+    {
+        "english": "instrument",
+        "translated_version": "όργανο",
+        "language": "greek",
+        "definition": "an object with which one performs music"
+    },
+    {
+        "english": "kept",
+        "translated_version": "φυλάσσεται",
+        "language": "greek",
+        "definition": "past tense of keep"
+    },
+    {
+        "english": "glass",
+        "translated_version": "ποτήρι",
+        "language": "greek",
+        "definition": "a container used for holding drinks"
+    },
+    {
+        "english": "grass",
+        "translated_version": "γρασίδι",
+        "language": "greek",
+        "definition": "vegetation consisting of typically short plants with narrow leaves growing wild or cultivated on lawns and pasture"
+    },
+    {
+        "english": "cow",
+        "translated_version": "αγελάδα",
+        "language": "greek",
+        "definition": "a fully grown female animal of a domesticated breed of ox"
+    },
+    {
+        "english": "job",
+        "translated_version": "δουλειά",
+        "language": "greek",
+        "definition": "a paid position of regular employment"
+    },
+    {
+        "english": "edge",
+        "translated_version": "άκρη",
+        "language": "greek",
+        "definition": "the outside limit of an object"
+    },
+    {
+        "english": "sign",
+        "translated_version": "σημάδι",
+        "language": "greek",
+        "definition": "an object or event whose presence or occurrence indicates the probable presence or occurrence of something else"
+    },
+    {
+        "english": "visit",
+        "translated_version": "επίσκεψη",
+        "language": "greek",
+        "definition": "go to see and spend time with someone socially"
+    },
+    {
+        "english": "past",
+        "translated_version": "το παρελθόν",
+        "language": "greek",
+        "definition": "gone by in time and no longer existing"
+    },
+    {
+        "english": "soft",
+        "translated_version": "μαλακός",
+        "language": "greek",
+        "definition": "not hard or firm to the touch"
+    },
+    {
+        "english": "fun",
+        "translated_version": "διασκέδαση",
+        "language": "greek",
+        "definition": "lighthearted pleasure"
+    },
+    {
+        "english": "bright",
+        "translated_version": "ΛΑΜΠΡΌΣ",
+        "language": "greek",
+        "definition": "giving off or reflecting a lot of light"
+    },
+    {
+        "english": "gas",
+        "translated_version": "αέριο",
+        "language": "greek",
+        "definition": "a substance or matter in a state in which it will expand freely to fill the whole of a container and which has neither fixed shape or volume"
+    },
+    {
+        "english": "weather",
+        "translated_version": "καιρός",
+        "language": "greek",
+        "definition": "the state of the atmosphere at a place and time"
+    },
+    {
+        "english": "month",
+        "translated_version": "μήνας",
+        "language": "greek",
+        "definition": "each of twelve named periods into which a year is divided"
+    },
+    {
+        "english": "million",
+        "translated_version": "εκατομμύριο",
+        "language": "greek",
+        "definition": "one thousand of one thousand"
+    },
+    {
+        "english": "bear",
+        "translated_version": "αρκούδα",
+        "language": "greek",
+        "definition": "a heavy mammal with thick fur and a short tail"
+    },
+    {
+        "english": "finish",
+        "translated_version": "φινίρισμα",
+        "language": "greek",
+        "definition": "complete"
+    },
+    {
+        "english": "happy",
+        "translated_version": "ευτυχισμένος",
+        "language": "greek",
+        "definition": "feeling or showing pleasure or contentment"
+    },
+    {
+        "english": "hope",
+        "translated_version": "ελπίδα",
+        "language": "greek",
+        "definition": "a feeling of expectation and desire for a certain thing to happen"
+    },
+    {
+        "english": "flower",
+        "translated_version": "λουλούδι",
+        "language": "greek",
+        "definition": "the seed-bearing part of a plant consisting of reproductive organs that are typically surrounded by a brightly colored corolla"
+    },
+    {
+        "english": "clothe",
+        "translated_version": "ντύνω",
+        "language": "greek",
+        "definition": "to put clothes on"
+    },
+    {
+        "english": "strange",
+        "translated_version": "παράξενος",
+        "language": "greek",
+        "definition": "outside of the known norm or status quo"
+    },
+    {
+        "english": "gone",
+        "translated_version": "χαμένος",
+        "language": "greek",
+        "definition": "past tense of go"
+    },
+    {
+        "english": "trade",
+        "translated_version": "εμπορικές συναλλαγές",
+        "language": "greek",
+        "definition": "commercial transactions based on currency for either goods or services"
+    },
+    {
+        "english": "melody",
+        "translated_version": "μελωδία",
+        "language": "greek",
+        "definition": "a sequence of single notes that is musically satisfying"
+    },
+    {
+        "english": "trip",
+        "translated_version": "ταξίδι",
+        "language": "greek",
+        "definition": "an act of going to a place and returning; a journey or excursion especially for pleasure"
+    },
+    {
+        "english": "office",
+        "translated_version": "γραφείο",
+        "language": "greek",
+        "definition": "a building used as a place for professional work"
+    },
+    {
+        "english": "receive",
+        "translated_version": "λαμβάνω",
+        "language": "greek",
+        "definition": "to be given something"
+    },
+    {
+        "english": "row",
+        "translated_version": "σειρά",
+        "language": "greek",
+        "definition": "a number of things in a straight line"
+    },
+    {
+        "english": "mouth",
+        "translated_version": "στόμα",
+        "language": "greek",
+        "definition": "the opening in the lower part of the human face"
+    },
+    {
+        "english": "exact",
+        "translated_version": "ακριβής",
+        "language": "greek",
+        "definition": "not approximated in any way; precise"
+    },
+    {
+        "english": "symbol",
+        "translated_version": "σύμβολο",
+        "language": "greek",
+        "definition": "a mark or character used as a conventional representation of something"
+    },
+    {
+        "english": "die",
+        "translated_version": "καλούπι",
+        "language": "greek",
+        "definition": "to stop living"
+    },
+    {
+        "english": "least",
+        "translated_version": "ελάχιστα",
+        "language": "greek",
+        "definition": "smallest in amount"
+    },
+    {
+        "english": "trouble",
+        "translated_version": "ταλαιπωρία",
+        "language": "greek",
+        "definition": "difficult or problems"
+    },
+    {
+        "english": "shout",
+        "translated_version": "κραυγή",
+        "language": "greek",
+        "definition": "utter a loud call or cry"
+    },
+    {
+        "english": "except",
+        "translated_version": "εκτός",
+        "language": "greek",
+        "definition": "not including; other than"
+    },
+    {
+        "english": "wrote",
+        "translated_version": "έγραψε",
+        "language": "greek",
+        "definition": "past tense of write"
+    },
+    {
+        "english": "seed",
+        "translated_version": "σπόρος",
+        "language": "greek",
+        "definition": "a flowering plant's unit of reproduction"
+    },
+    {
+        "english": "tone",
+        "translated_version": "τόνος",
+        "language": "greek",
+        "definition": "a musical sound with reference to its pitch and strength"
+    },
+    {
+        "english": "join",
+        "translated_version": "Συμμετοχή",
+        "language": "greek",
+        "definition": "link or connect"
+    },
+    {
+        "english": "suggest",
+        "translated_version": "προτείνω",
+        "language": "greek",
+        "definition": "put forward for consideration"
+    },
+    {
+        "english": "clean",
+        "translated_version": "ΚΑΘΑΡΗ",
+        "language": "greek",
+        "definition": "free from dirt or stains"
+    },
+    {
+        "english": "break",
+        "translated_version": "Διακοπή",
+        "language": "greek",
+        "definition": "separate or cause to separate into pieces"
+    },
+    {
+        "english": "lady",
+        "translated_version": "κυρία",
+        "language": "greek",
+        "definition": "a woman"
+    },
+    {
+        "english": "yard",
+        "translated_version": "αυλή",
+        "language": "greek",
+        "definition": "an area of generally open ground outside of a house or between the walls of a building"
+    },
+    {
+        "english": "rise",
+        "translated_version": "αύξηση",
+        "language": "greek",
+        "definition": "move from a lower position to a higher one"
+    },
+    {
+        "english": "bad",
+        "translated_version": "κακό",
+        "language": "greek",
+        "definition": "of poor quality or low standard"
+    },
+    {
+        "english": "blow",
+        "translated_version": "πλήγμα",
+        "language": "greek",
+        "definition": "a strike delivered to something"
+    },
+    {
+        "english": "oil",
+        "translated_version": "λάδι",
+        "language": "greek",
+        "definition": "a viscous liquid derived from petroleum or a plant"
+    },
+    {
+        "english": "blood",
+        "translated_version": "αίμα",
+        "language": "greek",
+        "definition": "the red liquid that circulates in the arteries and veins of humans and other vertebrate animals"
+    },
+    {
+        "english": "touch",
+        "translated_version": "αφή",
+        "language": "greek",
+        "definition": "come into or be in contact with"
+    },
+    {
+        "english": "grew",
+        "translated_version": "μεγάλωσε",
+        "language": "greek",
+        "definition": "past tense of grow"
+    },
+    {
+        "english": "cent",
+        "translated_version": "σεντ",
+        "language": "greek",
+        "definition": "one hundredth of a dollar or euro"
+    },
+    {
+        "english": "mix",
+        "translated_version": "μείγμα",
+        "language": "greek",
+        "definition": "combine or put together to form one substance or mass"
+    },
+    {
+        "english": "team",
+        "translated_version": "ομάδα",
+        "language": "greek",
+        "definition": "a group of players forming one side in a competitive game or sport"
+    },
+    {
+        "english": "wire",
+        "translated_version": "σύρμα",
+        "language": "greek",
+        "definition": "metal drawn out into the form of a thin flexible thread or rod"
+    },
+    {
+        "english": "cost",
+        "translated_version": "κόστος",
+        "language": "greek",
+        "definition": "the amount of money required to acquire something"
+    },
+    {
+        "english": "lost",
+        "translated_version": "χαμένος",
+        "language": "greek",
+        "definition": "past participle of lose"
+    },
+    {
+        "english": "brown",
+        "translated_version": "καφέ",
+        "language": "greek",
+        "definition": "the color of soil and coffee"
+    },
+    {
+        "english": "wear",
+        "translated_version": "φορούν",
+        "language": "greek",
+        "definition": "have on one's body or a part of one's body as clothing"
+    },
+    {
+        "english": "garden",
+        "translated_version": "κήπος",
+        "language": "greek",
+        "definition": "a small area filled with plants as a hobby or for harvest"
+    },
+    {
+        "english": "equal",
+        "translated_version": "ίσος",
+        "language": "greek",
+        "definition": "being the same as another thing in some regard"
+    },
+    {
+        "english": "sent",
+        "translated_version": "Απεσταλμένα",
+        "language": "greek",
+        "definition": "past tense of send"
+    },
+    {
+        "english": "choose",
+        "translated_version": "επιλέγω",
+        "language": "greek",
+        "definition": "selecting one out of two or more alternatives"
+    },
+    {
+        "english": "fell",
+        "translated_version": "τομάρι ζώου",
+        "language": "greek",
+        "definition": "past tense of fall"
+    },
+    {
+        "english": "fit",
+        "translated_version": "κατάλληλος",
+        "language": "greek",
+        "definition": "of suitable standard to meet the required purpose"
+    },
+    {
+        "english": "flow",
+        "translated_version": "ροή",
+        "language": "greek",
+        "definition": "move along or out steadily and continuously in a current or stream"
+    },
+    {
+        "english": "fair",
+        "translated_version": "έκθεση",
+        "language": "greek",
+        "definition": "a celebration of some event sometimes used to exhibit achievements"
+    },
+    {
+        "english": "bank",
+        "translated_version": "τράπεζα",
+        "language": "greek",
+        "definition": "the land alongside or sloping down to a river or lake"
+    },
+    {
+        "english": "collect",
+        "translated_version": "συλλέγω",
+        "language": "greek",
+        "definition": "bring or gather together some things"
+    },
+    {
+        "english": "save",
+        "translated_version": "αποθηκεύσετε",
+        "language": "greek",
+        "definition": "keep and store up something for future use"
+    },
+    {
+        "english": "control",
+        "translated_version": "έλεγχος",
+        "language": "greek",
+        "definition": "determine the behavior or supervise the running of"
+    },
+    {
+        "english": "decimal",
+        "translated_version": "δεκαδικός",
+        "language": "greek",
+        "definition": "relating to or denoting a system of numbers and arithmetic based on the number ten and its powers"
+    },
+    {
+        "english": "ear",
+        "translated_version": "αυτί",
+        "language": "greek",
+        "definition": "the organ of hearing and balance in humans and other vertebrates"
+    },
+    {
+        "english": "else",
+        "translated_version": "αλλού",
+        "language": "greek",
+        "definition": "in addition; besides"
+    },
+    {
+        "english": "quite",
+        "translated_version": "αρκετά",
+        "language": "greek",
+        "definition": "to the utmost or most absolute extent or degree"
+    },
+    {
+        "english": "broke",
+        "translated_version": "έσπασε",
+        "language": "greek",
+        "definition": "past tense of break"
+    },
+    {
+        "english": "case",
+        "translated_version": "υπόθεση",
+        "language": "greek",
+        "definition": "an instance of a particular situation"
+    },
+    {
+        "english": "middle",
+        "translated_version": "μέση",
+        "language": "greek",
+        "definition": "the point or position at an equal distance from the sides or ends of something"
+    },
+    {
+        "english": "kill",
+        "translated_version": "σκοτώνω",
+        "language": "greek",
+        "definition": "cause the death of something"
+    },
+    {
+        "english": "son",
+        "translated_version": "υιός",
+        "language": "greek",
+        "definition": "a man in relation to either or both of his parents"
+    },
+    {
+        "english": "lake",
+        "translated_version": "λίμνη",
+        "language": "greek",
+        "definition": "a large body of water surrounded by land that is smaller than a sea"
+    },
+    {
+        "english": "moment",
+        "translated_version": "στιγμή",
+        "language": "greek",
+        "definition": "a very brief period of time"
+    },
+    {
+        "english": "scale",
+        "translated_version": "κλίμακα",
+        "language": "greek",
+        "definition": "each of the small horny or bony plates protecting the skin of fish and reptiles"
+    },
+    {
+        "english": "loud",
+        "translated_version": "μεγαλόφωνος",
+        "language": "greek",
+        "definition": "producing much noise"
+    },
+    {
+        "english": "spring",
+        "translated_version": "άνοιξη",
+        "language": "greek",
+        "definition": "the season after winter and before summer in which vegetation begins to appear"
+    },
+    {
+        "english": "observe",
+        "translated_version": "παρατηρώ",
+        "language": "greek",
+        "definition": "notice or perceive something and register it as being significant"
+    },
+    {
+        "english": "child",
+        "translated_version": "παιδί",
+        "language": "greek",
+        "definition": "a young human"
+    },
+    {
+        "english": "straight",
+        "translated_version": "ευθεία",
+        "language": "greek",
+        "definition": "uniform or without curves or bends"
+    },
+    {
+        "english": "consonant",
+        "translated_version": "σύμφωνο",
+        "language": "greek",
+        "definition": "a basic speech sound in which the breath is at least partly obstructed and which can be combined with a vowel to form a syllable"
+    },
+    {
+        "english": "nation",
+        "translated_version": "έθνος",
+        "language": "greek",
+        "definition": "a large body of people united by common descent or culture which inhabit a particular country or territory"
+    },
+    {
+        "english": "dictionary",
+        "translated_version": "λεξικό",
+        "language": "greek",
+        "definition": "a resource that lists the words of a language and givers their meaning"
+    },
+    {
+        "english": "milk",
+        "translated_version": "γάλα",
+        "language": "greek",
+        "definition": "an opaque white fluid rich in fat and protein secreted by female mammals"
+    },
+    {
+        "english": "speed",
+        "translated_version": "Ταχύτητα",
+        "language": "greek",
+        "definition": "the rate at which someone or something is able to move or operate"
+    },
+    {
+        "english": "method",
+        "translated_version": "μέθοδος",
+        "language": "greek",
+        "definition": "a particular form of procedure for accomplishing or approaching something"
+    },
+    {
+        "english": "organ",
+        "translated_version": "όργανο",
+        "language": "greek",
+        "definition": "a part of an organism that is typically self-contained and has a specific vital function"
+    },
+    {
+        "english": "pay",
+        "translated_version": "πληρωμή",
+        "language": "greek",
+        "definition": "give someone money that is due for a debt incurred"
+    },
+    {
+        "english": "age",
+        "translated_version": "ηλικία",
+        "language": "greek",
+        "definition": "the length of time that a person has lived or a thing has existed"
+    },
+    {
+        "english": "section",
+        "translated_version": "Ενότητα",
+        "language": "greek",
+        "definition": "any of the more or less distinct parts into which something is or may be divided or from which it is made up"
+    },
+    {
+        "english": "dress",
+        "translated_version": "φόρεμα",
+        "language": "greek",
+        "definition": "a one-piece garment typically worn by women and girls that covers the body and extends down over the legs"
+    },
+    {
+        "english": "cloud",
+        "translated_version": "σύννεφο",
+        "language": "greek",
+        "definition": "a visible mass of condensed water vapor floating in the atmosphere"
+    },
+    {
+        "english": "surprise",
+        "translated_version": "έκπληξη",
+        "language": "greek",
+        "definition": "something unexpected or astonishing"
+    },
+    {
+        "english": "quiet",
+        "translated_version": "ησυχια",
+        "language": "greek",
+        "definition": "making little or no noise"
+    },
+    {
+        "english": "stone",
+        "translated_version": "πέτρα",
+        "language": "greek",
+        "definition": "hard solid nonmetallic mineral matter of which rock is made"
+    },
+    {
+        "english": "tiny",
+        "translated_version": "μικροσκοπικός",
+        "language": "greek",
+        "definition": "exceptionally small"
+    },
+    {
+        "english": "climb",
+        "translated_version": "αναρρίχηση",
+        "language": "greek",
+        "definition": "go or come up some incline incline especially by using the feet and sometimes the hands"
+    },
+    {
+        "english": "cool",
+        "translated_version": "δροσερός",
+        "language": "greek",
+        "definition": "of fairly low temperature"
+    },
+    {
+        "english": "design",
+        "translated_version": "σχέδιο",
+        "language": "greek",
+        "definition": "a plan or drawing produced to show the look and function or workings of something before it is built or made"
+    },
+    {
+        "english": "poor",
+        "translated_version": "Φτωχός",
+        "language": "greek",
+        "definition": "lacking sufficient money to live at a standard considered comfortable or normal in a society"
+    },
+    {
+        "english": "lot",
+        "translated_version": "παρτίδα",
+        "language": "greek",
+        "definition": "a particular group or collection of things"
+    },
+    {
+        "english": "experiment",
+        "translated_version": "πείραμα",
+        "language": "greek",
+        "definition": "a scientific procedure undertaken to make test a hypothesis"
+    },
+    {
+        "english": "bottom",
+        "translated_version": "κάτω μέρος",
+        "language": "greek",
+        "definition": "the lowest part of something"
+    },
+    {
+        "english": "key",
+        "translated_version": "κλειδί",
+        "language": "greek",
+        "definition": "a small piece of shaped metal with incisions cut to fit the wards of a particular lock"
+    },
+    {
+        "english": "iron",
+        "translated_version": "σίδερο",
+        "language": "greek",
+        "definition": "a strong"
+    },
+    {
+        "english": "single",
+        "translated_version": "μονόκλινο",
+        "language": "greek",
+        "definition": "one of its kind"
+    },
+    {
+        "english": "stick",
+        "translated_version": "ραβδί",
+        "language": "greek",
+        "definition": "a thin piece of wood that has fallen or been cut from a tree"
+    },
+    {
+        "english": "flat",
+        "translated_version": "διαμέρισμα",
+        "language": "greek",
+        "definition": "smooth and even"
+    },
+    {
+        "english": "twenty",
+        "translated_version": "είκοσι",
+        "language": "greek",
+        "definition": "the number equivalent to the product of two and ten"
+    },
+    {
+        "english": "skin",
+        "translated_version": "δέρμα",
+        "language": "greek",
+        "definition": "the thin layer of tissue forming the natural outer covering of the body of a person or animal"
+    },
+    {
+        "english": "smile",
+        "translated_version": "χαμόγελο",
+        "language": "greek",
+        "definition": "form one's features into a pleased expression"
+    },
+    {
+        "english": "crease",
+        "translated_version": "πτυχή",
+        "language": "greek",
+        "definition": "a line or ridge produced on paper or cloth by folding or pressing"
+    },
+    {
+        "english": "hole",
+        "translated_version": "τρύπα",
+        "language": "greek",
+        "definition": "a hollow place in a solid body or surface"
+    },
+    {
+        "english": "jump",
+        "translated_version": "άλμα",
+        "language": "greek",
+        "definition": "push oneself off a surface and into the air by using the muscles in one's legs and feet"
+    },
+    {
+        "english": "baby",
+        "translated_version": "μωρό",
+        "language": "greek",
+        "definition": "a recently born human"
+    },
+    {
+        "english": "eight",
+        "translated_version": "οκτώ",
+        "language": "greek",
+        "definition": "one more than seven"
+    },
+    {
+        "english": "village",
+        "translated_version": "χωριό",
+        "language": "greek",
+        "definition": "a group of houses and associated buildings that is larger than a hamlet and smaller than a town"
+    },
+    {
+        "english": "meet",
+        "translated_version": "συναντώ",
+        "language": "greek",
+        "definition": "come into the presence or company of someone by chance or arrangement"
+    },
+    {
+        "english": "root",
+        "translated_version": "ρίζα",
+        "language": "greek",
+        "definition": "the part of a plant which attaches it to the ground or to a support"
+    },
+    {
+        "english": "buy",
+        "translated_version": "αγορά",
+        "language": "greek",
+        "definition": "obtain in exchange for payment"
+    },
+    {
+        "english": "raise",
+        "translated_version": "υψώνω",
+        "language": "greek",
+        "definition": "lift or move to a higher position or level"
+    },
+    {
+        "english": "solve",
+        "translated_version": "λύσει",
+        "language": "greek",
+        "definition": "find an answer to or explanation for a problem or situation"
+    },
+    {
+        "english": "metal",
+        "translated_version": "μέταλλο",
+        "language": "greek",
+        "definition": "a solid material that is typically hard with good electrical and thermal conductivity"
+    },
+    {
+        "english": "whether",
+        "translated_version": "αν",
+        "language": "greek",
+        "definition": "expressing a doubt or choice between alternatives"
+    },
+    {
+        "english": "push",
+        "translated_version": "Σπρώξτε",
+        "language": "greek",
+        "definition": "exert a force on something in order to move it away from the origin of the force"
+    },
+    {
+        "english": "seven",
+        "translated_version": "επτά",
+        "language": "greek",
+        "definition": "one more than six"
+    },
+    {
+        "english": "paragraph",
+        "translated_version": "παράγραφος",
+        "language": "greek",
+        "definition": "a distinct section of a piece of writing usually dealing with a single theme"
+    },
+    {
+        "english": "third",
+        "translated_version": "τρίτος",
+        "language": "greek",
+        "definition": "constituting number three in a sequence"
+    },
+    {
+        "english": "shall",
+        "translated_version": "θα",
+        "language": "greek",
+        "definition": "an expression of the future tense; synonym for 'will' when speaking with respect to time"
+    },
+    {
+        "english": "held",
+        "translated_version": "που πραγματοποιήθηκε",
+        "language": "greek",
+        "definition": "past tense of hold"
+    },
+    {
+        "english": "hair",
+        "translated_version": "μαλλιά",
+        "language": "greek",
+        "definition": "the fine threadlike strands which grow from the skin of humans and some animals"
+    },
+    {
+        "english": "describe",
+        "translated_version": "περιγράφω",
+        "language": "greek",
+        "definition": "to give an account of something including all of its relevant characteristics"
+    },
+    {
+        "english": "cook",
+        "translated_version": "μάγειρας",
+        "language": "greek",
+        "definition": "prepare food by combining and usually by heating the ingredients in various ways"
+    },
+    {
+        "english": "floor",
+        "translated_version": "πάτωμα",
+        "language": "greek",
+        "definition": "the lower surface of a room on which one may walk"
+    },
+    {
+        "english": "either",
+        "translated_version": "είτε",
+        "language": "greek",
+        "definition": "used before the first of two alternatives that are being specified"
+    },
+    {
+        "english": "result",
+        "translated_version": "αποτέλεσμα",
+        "language": "greek",
+        "definition": "the outcome of something"
+    },
+    {
+        "english": "burn",
+        "translated_version": "έγκαυμα",
+        "language": "greek",
+        "definition": "produce flames and heat while consuming some fuel"
+    },
+    {
+        "english": "hill",
+        "translated_version": "λόφος",
+        "language": "greek",
+        "definition": "a raised area of land that is not as high as a mountain"
+    },
+    {
+        "english": "safe",
+        "translated_version": "ασφαλής",
+        "language": "greek",
+        "definition": "protected from or not exposed to danger or risk"
+    },
+    {
+        "english": "cat",
+        "translated_version": "Γάτα",
+        "language": "greek",
+        "definition": "a small domesticated carnivorous mammal with soft fur and retractable claws"
+    },
+    {
+        "english": "century",
+        "translated_version": "αιώνας",
+        "language": "greek",
+        "definition": "a period of time equal to 100 years"
+    },
+    {
+        "english": "consider",
+        "translated_version": "σκεφτείτε",
+        "language": "greek",
+        "definition": "think carefully about something before making a decision"
+    },
+    {
+        "english": "type",
+        "translated_version": "τύπος",
+        "language": "greek",
+        "definition": "a category of things having common characteristics"
+    },
+    {
+        "english": "law",
+        "translated_version": "νόμος",
+        "language": "greek",
+        "definition": "the system of rules which a particular country or community recognizes as regulating the actions of its members and which it may enforce by the imposition of penalties"
+    },
+    {
+        "english": "bit",
+        "translated_version": "κομμάτι",
+        "language": "greek",
+        "definition": "a small piece or quantity of something"
+    },
+    {
+        "english": "coast",
+        "translated_version": "ακτή",
+        "language": "greek",
+        "definition": "the part of land adjacent to the sea or ocean"
+    },
+    {
+        "english": "copy",
+        "translated_version": "αντίγραφο",
+        "language": "greek",
+        "definition": "a thing made to be similar or identical to another"
+    },
+    {
+        "english": "phrase",
+        "translated_version": "φράση",
+        "language": "greek",
+        "definition": "a small group of words standing together as a conceptual unit"
+    },
+    {
+        "english": "silent",
+        "translated_version": "σιωπηλός",
+        "language": "greek",
+        "definition": "not making any sound"
+    },
+    {
+        "english": "tall",
+        "translated_version": "ψηλός",
+        "language": "greek",
+        "definition": "of great or above average height"
+    },
+    {
+        "english": "sand",
+        "translated_version": "άμμος",
+        "language": "greek",
+        "definition": "a loose granular substance resulting from the erosion of rocks"
+    },
+    {
+        "english": "soil",
+        "translated_version": "έδαφος",
+        "language": "greek",
+        "definition": "the upper layer of earth in which plants grow"
+    },
+    {
+        "english": "roll",
+        "translated_version": "ρολό",
+        "language": "greek",
+        "definition": "move or cause to move in a particular direction by turning over and over on an axis"
+    },
+    {
+        "english": "temperature",
+        "translated_version": "θερμοκρασία",
+        "language": "greek",
+        "definition": "the measured degree or intensity of heat present in something"
+    },
+    {
+        "english": "finger",
+        "translated_version": "δάχτυλο",
+        "language": "greek",
+        "definition": "each of the five slender jointed parts attached to either hand"
+    },
+    {
+        "english": "industry",
+        "translated_version": "βιομηχανία",
+        "language": "greek",
+        "definition": "economic activity concerned with the processing of raw materials and manufacture of goods in factories"
+    },
+    {
+        "english": "value",
+        "translated_version": "αξία",
+        "language": "greek",
+        "definition": "the worth that something is held to deserve"
+    },
+    {
+        "english": "fight",
+        "translated_version": "πάλη",
+        "language": "greek",
+        "definition": "take part in a violent struggle involving the exchange of physical blows or the use of weapons"
+    },
+    {
+        "english": "lie",
+        "translated_version": "ψέμα",
+        "language": "greek",
+        "definition": "a statement that is untrue"
+    },
+    {
+        "english": "beat",
+        "translated_version": "Ρυθμός",
+        "language": "greek",
+        "definition": "a main accent or rhythmic unit in music or poetry"
+    },
+    {
+        "english": "excite",
+        "translated_version": "διεγείρω",
+        "language": "greek",
+        "definition": "to cause feelings of enthusiasm and eagerness in someone"
+    },
+    {
+        "english": "natural",
+        "translated_version": "φυσικός",
+        "language": "greek",
+        "definition": "existing in or caused by nature"
+    },
+    {
+        "english": "view",
+        "translated_version": "θέα",
+        "language": "greek",
+        "definition": "a sight or prospect that can be taken in from a particular place"
+    },
+    {
+        "english": "sense",
+        "translated_version": "έννοια",
+        "language": "greek",
+        "definition": "a faculty by which the body perceives an external stimulus"
+    },
+    {
+        "english": "capital",
+        "translated_version": "κεφάλαιο",
+        "language": "greek",
+        "definition": "wealth in the form of money or other assets owned by a person or organization or available or contributed for a particular purpose such as starting a company or investing"
+    },
+    {
+        "english": "won’t",
+        "translated_version": "συνηθισμένος",
+        "language": "greek",
+        "definition": "will not"
+    },
+    {
+        "english": "chair",
+        "translated_version": "καρέκλα",
+        "language": "greek",
+        "definition": "a seat for one person"
+    },
+    {
+        "english": "danger",
+        "translated_version": "κίνδυνος",
+        "language": "greek",
+        "definition": "the possibility of suffering harm or injury"
+    },
+    {
+        "english": "fruit",
+        "translated_version": "καρπός",
+        "language": "greek",
+        "definition": "the sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food"
+    },
+    {
+        "english": "rich",
+        "translated_version": "πλούσιος",
+        "language": "greek",
+        "definition": "having a great deal of money or assets"
+    },
+    {
+        "english": "thick",
+        "translated_version": "πυκνός",
+        "language": "greek",
+        "definition": "with opposite sides or surfaces that are a great or relatively great distance apart"
+    },
+    {
+        "english": "soldier",
+        "translated_version": "στρατιώτης",
+        "language": "greek",
+        "definition": "a person who serves in an army"
+    },
+    {
+        "english": "process",
+        "translated_version": "διαδικασία",
+        "language": "greek",
+        "definition": "a series of actions or steps taken in order to achieve a particular end"
+    },
+    {
+        "english": "operate",
+        "translated_version": "λειτουργεί",
+        "language": "greek",
+        "definition": "control the functioning of something"
+    },
+    {
+        "english": "practice",
+        "translated_version": "πρακτική",
+        "language": "greek",
+        "definition": "a habitual way of doing something"
+    },
+    {
+        "english": "separate",
+        "translated_version": "ξεχωριστός",
+        "language": "greek",
+        "definition": "forming or viewed as a unit apart or by itself"
+    },
+    {
+        "english": "difficult",
+        "translated_version": "δύσκολος",
+        "language": "greek",
+        "definition": "needing much effort or skill to accomplish"
+    },
+    {
+        "english": "doctor",
+        "translated_version": "γιατρός",
+        "language": "greek",
+        "definition": "a qualified practitioner of medicine"
+    },
+    {
+        "english": "please",
+        "translated_version": "παρακαλώ",
+        "language": "greek",
+        "definition": "used in polite requests or questions"
+    },
+    {
+        "english": "protect",
+        "translated_version": "προστατεύω",
+        "language": "greek",
+        "definition": "keep safe from harm"
+    },
+    {
+        "english": "noon",
+        "translated_version": "μεσημέρι",
+        "language": "greek",
+        "definition": "a euphamism for 12 o' clock in the afternoon"
+    },
+    {
+        "english": "crop",
+        "translated_version": "καλλιέργεια",
+        "language": "greek",
+        "definition": "a cultivated plant that is grown as food"
+    },
+    {
+        "english": "modern",
+        "translated_version": "μοντέρνο",
+        "language": "greek",
+        "definition": "adjective used to describe something recent"
+    },
+    {
+        "english": "element",
+        "translated_version": "στοιχείο",
+        "language": "greek",
+        "definition": "a part or aspect of something abstract which is essential to understanding it"
+    },
+    {
+        "english": "hit",
+        "translated_version": "Κτύπημα",
+        "language": "greek",
+        "definition": "bring one's hand or a tool or weapon into contact with something quickly and forcefully"
+    },
+    {
+        "english": "student",
+        "translated_version": "σπουδαστής",
+        "language": "greek",
+        "definition": "a person studying at a school"
+    },
+    {
+        "english": "corner",
+        "translated_version": "γωνία",
+        "language": "greek",
+        "definition": "a place or angle where two or more edges meet"
+    },
+    {
+        "english": "party",
+        "translated_version": "κόμμα",
+        "language": "greek",
+        "definition": "a social gathering of invited guests"
+    },
+    {
+        "english": "supply",
+        "translated_version": "Προμήθεια",
+        "language": "greek",
+        "definition": "a stored collection of things"
+    },
+    {
+        "english": "whose",
+        "translated_version": "του οποίου",
+        "language": "greek",
+        "definition": "belonging to or associated with which person"
+    },
+    {
+        "english": "locate",
+        "translated_version": "εγκατάσταση",
+        "language": "greek",
+        "definition": "discover the place or position of something"
+    },
+    {
+        "english": "ring",
+        "translated_version": "δαχτυλίδι",
+        "language": "greek",
+        "definition": "a small or circular band worn on a finger"
+    },
+    {
+        "english": "character",
+        "translated_version": "χαρακτήρας",
+        "language": "greek",
+        "definition": "the mental and moral qualities distinctive to an individua"
+    },
+    {
+        "english": "insect",
+        "translated_version": "έντομο",
+        "language": "greek",
+        "definition": "a small arthropod animal that has six legs and generally one or two pairs of wings"
+    },
+    {
+        "english": "caught",
+        "translated_version": "πιάστηκε",
+        "language": "greek",
+        "definition": "past tense of catch"
+    },
+    {
+        "english": "period",
+        "translated_version": "περίοδος",
+        "language": "greek",
+        "definition": "a length of time"
+    },
+    {
+        "english": "indicate",
+        "translated_version": "υποδεικνύω",
+        "language": "greek",
+        "definition": "to specify something"
+    },
+    {
+        "english": "radio",
+        "translated_version": "ραδιόφωνο",
+        "language": "greek",
+        "definition": "a device that uses waves of light to transmit sounds"
+    },
+    {
+        "english": "spoke",
+        "translated_version": "ακτίνα",
+        "language": "greek",
+        "definition": "past tense of speak"
+    },
+    {
+        "english": "atom",
+        "translated_version": "άτομο",
+        "language": "greek",
+        "definition": "the particle from which molecules are made and thus which makes up most matter"
+    },
+    {
+        "english": "human",
+        "translated_version": "άνθρωπος",
+        "language": "greek",
+        "definition": "a person as distinguished from an animal"
+    },
+    {
+        "english": "history",
+        "translated_version": "ιστορία",
+        "language": "greek",
+        "definition": "those things which have happened in the past and especially those which are significant"
+    },
+    {
+        "english": "effect",
+        "translated_version": "αποτέλεσμα",
+        "language": "greek",
+        "definition": "a change which is a result of a cause"
+    },
+    {
+        "english": "electric",
+        "translated_version": "ηλεκτρικός",
+        "language": "greek",
+        "definition": "adjective used to describe things that are powered by electricity"
+    },
+    {
+        "english": "expect",
+        "translated_version": "αναμένω",
+        "language": "greek",
+        "definition": "to anticipate the occurrence of something"
+    },
+    {
+        "english": "bone",
+        "translated_version": "οστό",
+        "language": "greek",
+        "definition": "an interior structural piece which supports the body"
+    },
+    {
+        "english": "rail",
+        "translated_version": "ράγα",
+        "language": "greek",
+        "definition": "a length of metal which typically supports something"
+    },
+    {
+        "english": "imagine",
+        "translated_version": "φαντάζομαι",
+        "language": "greek",
+        "definition": "to think deeply of something which does not exist"
+    },
+    {
+        "english": "provide",
+        "translated_version": "προμηθεύω",
+        "language": "greek",
+        "definition": "make available for use"
+    },
+    {
+        "english": "agree",
+        "translated_version": "συμφωνώ",
+        "language": "greek",
+        "definition": "have the same opinion about something"
+    },
+    {
+        "english": "thus",
+        "translated_version": "έτσι",
+        "language": "greek",
+        "definition": "as a result or consequence of..."
+    },
+    {
+        "english": "gentle",
+        "translated_version": "ευγενής",
+        "language": "greek",
+        "definition": "having a delicate manner of being or acting"
+    },
+    {
+        "english": "woman",
+        "translated_version": "γυναίκα",
+        "language": "greek",
+        "definition": "a female human"
+    },
+    {
+        "english": "captain",
+        "translated_version": "Καπετάνιος",
+        "language": "greek",
+        "definition": "a leader especially when speaking of naval affairs"
+    },
+    {
+        "english": "guess",
+        "translated_version": "εικασία",
+        "language": "greek",
+        "definition": "an estimate or supposition"
+    },
+    {
+        "english": "necessary",
+        "translated_version": "απαραίτητη",
+        "language": "greek",
+        "definition": "that which is needed"
+    },
+    {
+        "english": "sharp",
+        "translated_version": "αιχμηρός",
+        "language": "greek",
+        "definition": "having an edge capable of cutting"
+    },
+    {
+        "english": "wing",
+        "translated_version": "πτέρυγα",
+        "language": "greek",
+        "definition": "an appendage used for flight"
+    },
+    {
+        "english": "create",
+        "translated_version": "δημιουργώ",
+        "language": "greek",
+        "definition": "to build or construct something"
+    },
+    {
+        "english": "neighbor",
+        "translated_version": "γείτονας",
+        "language": "greek",
+        "definition": "a person who lives adjacent to another"
+    },
+    {
+        "english": "wash",
+        "translated_version": "πλύση",
+        "language": "greek",
+        "definition": "to clean especially with water and soap"
+    },
+    {
+        "english": "bat",
+        "translated_version": "νυχτερίδα",
+        "language": "greek",
+        "definition": "a nocturnal flying mammal"
+    },
+    {
+        "english": "rather",
+        "translated_version": "μάλλον",
+        "language": "greek",
+        "definition": "used to indicate one's preference in a particular matter"
+    },
+    {
+        "english": "crowd",
+        "translated_version": "πλήθος",
+        "language": "greek",
+        "definition": "a large group of people"
+    },
+    {
+        "english": "corn",
+        "translated_version": "καλαμπόκι",
+        "language": "greek",
+        "definition": "a vegetable that grows on a stalk in ears"
+    },
+    {
+        "english": "compare",
+        "translated_version": "συγκρίνω",
+        "language": "greek",
+        "definition": "highlight the differences between two or more things"
+    },
+    {
+        "english": "poem",
+        "translated_version": "ποίημα",
+        "language": "greek",
+        "definition": "a short and often rhyming piece of writing"
+    },
+    {
+        "english": "string",
+        "translated_version": "σειρά",
+        "language": "greek",
+        "definition": "a thin length of material spun from fibers such as hair or roots"
+    },
+    {
+        "english": "bell",
+        "translated_version": "κουδούνι",
+        "language": "greek",
+        "definition": "an instrument which rings when struck"
+    },
+    {
+        "english": "depend",
+        "translated_version": "εξαρτώμαι",
+        "language": "greek",
+        "definition": "to rely on something"
+    },
+    {
+        "english": "meat",
+        "translated_version": "κρέας",
+        "language": "greek",
+        "definition": "the flesh of an animal used as food"
+    },
+    {
+        "english": "rub",
+        "translated_version": "τρίψιμο",
+        "language": "greek",
+        "definition": "to apply pressure to something especially therapeutically"
+    },
+    {
+        "english": "tube",
+        "translated_version": "σωλήνας",
+        "language": "greek",
+        "definition": "a long and cylindrical hollow object"
+    },
+    {
+        "english": "famous",
+        "translated_version": "διάσημος",
+        "language": "greek",
+        "definition": "having great renown for some deeds"
+    },
+    {
+        "english": "dollar",
+        "translated_version": "δολάριο",
+        "language": "greek",
+        "definition": "the currency of the United States"
+    },
+    {
+        "english": "stream",
+        "translated_version": "ρεύμα",
+        "language": "greek",
+        "definition": "a body of water that is long and thin; a small river"
+    },
+    {
+        "english": "fear",
+        "translated_version": "φόβος",
+        "language": "greek",
+        "definition": "an unpleasant emotion caused by the perception of danger"
+    },
+    {
+        "english": "sight",
+        "translated_version": "θέαμα",
+        "language": "greek",
+        "definition": "the sense perceived using the eyes"
+    },
+    {
+        "english": "thin",
+        "translated_version": "λεπτός",
+        "language": "greek",
+        "definition": "of slight thickness"
+    },
+    {
+        "english": "triangle",
+        "translated_version": "τρίγωνο",
+        "language": "greek",
+        "definition": "a three-sided shape"
+    },
+    {
+        "english": "planet",
+        "translated_version": "πλανήτης",
+        "language": "greek",
+        "definition": "a celestial body moving in orbit around a star"
+    },
+    {
+        "english": "hurry",
+        "translated_version": "βιασύνη",
+        "language": "greek",
+        "definition": "to make ready or perform an action quickly"
+    },
+    {
+        "english": "chief",
+        "translated_version": "αρχηγός",
+        "language": "greek",
+        "definition": "the head of a group or organization; the leader of a tribe"
+    },
+    {
+        "english": "colony",
+        "translated_version": "αποικία",
+        "language": "greek",
+        "definition": "used to indicate one's preference in a particular matter"
+    },
+    {
+        "english": "clock",
+        "translated_version": "ρολόι",
+        "language": "greek",
+        "definition": "an implement used to measure time"
+    },
+    {
+        "english": "mine",
+        "translated_version": "δικος μου",
+        "language": "greek",
+        "definition": "expression of the personal ownership of something"
+    },
+    {
+        "english": "tie",
+        "translated_version": "γραβάτα",
+        "language": "greek",
+        "definition": "a clothing item worn around the neck that often accompanies formal wear and which is typically worn by men"
+    },
+    {
+        "english": "enter",
+        "translated_version": "εισαγω",
+        "language": "greek",
+        "definition": "come into a place"
+    },
+    {
+        "english": "major",
+        "translated_version": "μείζων",
+        "language": "greek",
+        "definition": "important; significant"
+    },
+    {
+        "english": "fresh",
+        "translated_version": "φρέσκο",
+        "language": "greek",
+        "definition": "having been harvested recently especially when speaking of food"
+    },
+    {
+        "english": "search",
+        "translated_version": "Αναζήτηση",
+        "language": "greek",
+        "definition": "to look for something"
+    },
+    {
+        "english": "send",
+        "translated_version": "στείλετε",
+        "language": "greek",
+        "definition": "cause to be taken to a particular destination"
+    },
+    {
+        "english": "yellow",
+        "translated_version": "κίτρινος",
+        "language": "greek",
+        "definition": "the color of daffodils and of the sun"
+    },
+    {
+        "english": "gun",
+        "translated_version": "όπλο",
+        "language": "greek",
+        "definition": "a projectile weapon that utilizes gunpowder and metal slugs"
+    },
+    {
+        "english": "allow",
+        "translated_version": "επιτρέπω",
+        "language": "greek",
+        "definition": "to give permission"
+    },
+    {
+        "english": "print",
+        "translated_version": "Τυπώνω",
+        "language": "greek",
+        "definition": "to produce physical copies of some document or image"
+    },
+    {
+        "english": "dead",
+        "translated_version": "νεκρός",
+        "language": "greek",
+        "definition": "not living"
+    },
+    {
+        "english": "spot",
+        "translated_version": "σημείο",
+        "language": "greek",
+        "definition": "a small round mark differing in color or texture from the surface around it"
+    },
+    {
+        "english": "desert",
+        "translated_version": "έρημος",
+        "language": "greek",
+        "definition": "a large region with hot temperatures which is often recognized by great areas of sand and a lack of water"
+    },
+    {
+        "english": "suit",
+        "translated_version": "κοστούμι",
+        "language": "greek",
+        "definition": "formal attire worn by men"
+    },
+    {
+        "english": "current",
+        "translated_version": "ρεύμα",
+        "language": "greek",
+        "definition": "a body of fluid moving in a definite direction"
+    },
+    {
+        "english": "lift",
+        "translated_version": "ανελκυστήρας",
+        "language": "greek",
+        "definition": "to raise something higher"
+    },
+    {
+        "english": "rose",
+        "translated_version": "τριαντάφυλλο",
+        "language": "greek",
+        "definition": "a beautiful red flower recognized by its coiled patterns"
+    },
+    {
+        "english": "arrive",
+        "translated_version": "φθάνω",
+        "language": "greek",
+        "definition": "to come to be at a place"
+    },
+    {
+        "english": "master",
+        "translated_version": "κύριος",
+        "language": "greek",
+        "definition": "a person of great skill in their trade; a person who has people working for him"
+    },
+    {
+        "english": "track",
+        "translated_version": "πίστα",
+        "language": "greek",
+        "definition": "a rough path or minor road"
+    },
+    {
+        "english": "parent",
+        "translated_version": "μητρική εταιρεία",
+        "language": "greek",
+        "definition": "one who has children"
+    },
+    {
+        "english": "shore",
+        "translated_version": "ακτή",
+        "language": "greek",
+        "definition": "the edge of a body of water"
+    },
+    {
+        "english": "division",
+        "translated_version": "διαίρεση",
+        "language": "greek",
+        "definition": "the splitting of a whole into parts"
+    },
+    {
+        "english": "sheet",
+        "translated_version": "σεντόνι",
+        "language": "greek",
+        "definition": "a large piece of fabric used to cover a mattress"
+    },
+    {
+        "english": "substance",
+        "translated_version": "ουσία",
+        "language": "greek",
+        "definition": "a particular kind of matter with uniform properties"
+    },
+    {
+        "english": "favor",
+        "translated_version": "εύνοια",
+        "language": "greek",
+        "definition": "approval or support for something"
+    },
+    {
+        "english": "connect",
+        "translated_version": "συνδέω",
+        "language": "greek",
+        "definition": "bring together or into contact two distinct items"
+    },
+    {
+        "english": "post",
+        "translated_version": "Θέση",
+        "language": "greek",
+        "definition": "a position of paid employment; a job"
+    },
+    {
+        "english": "spend",
+        "translated_version": "περάσουν",
+        "language": "greek",
+        "definition": "to relinquish one's money for goods or services"
+    },
+    {
+        "english": "chord",
+        "translated_version": "χορδή",
+        "language": "greek",
+        "definition": "two or more musical notes played together"
+    },
+    {
+        "english": "fat",
+        "translated_version": "Λίπος",
+        "language": "greek",
+        "definition": "a natural oily or greasy substance occurring in animal bodies"
+    },
+    {
+        "english": "glad",
+        "translated_version": "χαρούμενος",
+        "language": "greek",
+        "definition": "pleased or delighted"
+    },
+    {
+        "english": "original",
+        "translated_version": "πρωτότυπο",
+        "language": "greek",
+        "definition": "the first of its kind"
+    },
+    {
+        "english": "share",
+        "translated_version": "μερίδιο",
+        "language": "greek",
+        "definition": "to give something to another which one values"
+    },
+    {
+        "english": "station",
+        "translated_version": "σταθμός",
+        "language": "greek",
+        "definition": "a regular stopping place on a public transportation route"
+    },
+    {
+        "english": "dad",
+        "translated_version": "Μπαμπάς",
+        "language": "greek",
+        "definition": "one's father"
+    },
+    {
+        "english": "bread",
+        "translated_version": "ψωμί",
+        "language": "greek",
+        "definition": "a food made from wheat which has been mixed with water and baked"
+    },
+    {
+        "english": "charge",
+        "translated_version": "χρέωση",
+        "language": "greek",
+        "definition": "a price asked for goods or services"
+    },
+    {
+        "english": "proper",
+        "translated_version": "κατάλληλος",
+        "language": "greek",
+        "definition": "that which is acceptable under some ruleset"
+    },
+    {
+        "english": "bar",
+        "translated_version": "μπαρ",
+        "language": "greek",
+        "definition": "a long rod or rigid piece of wood or some other material"
+    },
+    {
+        "english": "offer",
+        "translated_version": "προσφορά",
+        "language": "greek",
+        "definition": "present something for someone to accept or reject as desired"
+    },
+    {
+        "english": "segment",
+        "translated_version": "τμήμα",
+        "language": "greek",
+        "definition": "a single part of a length of some material"
+    },
+    {
+        "english": "slave",
+        "translated_version": "δούλος",
+        "language": "greek",
+        "definition": "one who is forced to do labour for someone else"
+    },
+    {
+        "english": "duck",
+        "translated_version": "πάπια",
+        "language": "greek",
+        "definition": "a winged bird that lives on the water"
+    },
+    {
+        "english": "instant",
+        "translated_version": "στιγμή",
+        "language": "greek",
+        "definition": "a single moment in time"
+    },
+    {
+        "english": "market",
+        "translated_version": "αγορά",
+        "language": "greek",
+        "definition": "a place where goods and services are bought and sold"
+    },
+    {
+        "english": "degree",
+        "translated_version": "βαθμός",
+        "language": "greek",
+        "definition": "the amount or extent to which something happens or is present"
+    },
+    {
+        "english": "populate",
+        "translated_version": "κατοικώ",
+        "language": "greek",
+        "definition": "to inhabit a town or country"
+    },
+    {
+        "english": "chick",
+        "translated_version": "νεοσσός",
+        "language": "greek",
+        "definition": "a young bird"
+    },
+    {
+        "english": "dear",
+        "translated_version": "αγαπητός",
+        "language": "greek",
+        "definition": "that which is important to someone"
+    },
+    {
+        "english": "enemy",
+        "translated_version": "εχθρός",
+        "language": "greek",
+        "definition": "something that is in opposition of someone"
+    },
+    {
+        "english": "reply",
+        "translated_version": "απάντηση",
+        "language": "greek",
+        "definition": "communication as a response to other communication"
+    },
+    {
+        "english": "drink",
+        "translated_version": "ποτό",
+        "language": "greek",
+        "definition": "liquid for consumption"
+    },
+    {
+        "english": "occur",
+        "translated_version": "συμβούν",
+        "language": "greek",
+        "definition": "to happen"
+    },
+    {
+        "english": "support",
+        "translated_version": "υποστήριξη",
+        "language": "greek",
+        "definition": "bear all or part of the weight of something"
+    },
+    {
+        "english": "speech",
+        "translated_version": "ομιλία",
+        "language": "greek",
+        "definition": "vocal communication of language between people"
+    },
+    {
+        "english": "nature",
+        "translated_version": "φύση",
+        "language": "greek",
+        "definition": "the phenomena of the physical world collectively"
+    },
+    {
+        "english": "range",
+        "translated_version": "εύρος",
+        "language": "greek",
+        "definition": "a set of different things of the same general type"
+    },
+    {
+        "english": "steam",
+        "translated_version": "ατμός",
+        "language": "greek",
+        "definition": "hot water vapor"
+    },
+    {
+        "english": "motion",
+        "translated_version": "κίνηση",
+        "language": "greek",
+        "definition": "the action or process of moving or being moved"
+    },
+    {
+        "english": "path",
+        "translated_version": "μονοπάτι",
+        "language": "greek",
+        "definition": "way or track laid down for travel"
+    },
+    {
+        "english": "liquid",
+        "translated_version": "υγρό",
+        "language": "greek",
+        "definition": "matter which has no definite shape but does have definite volume"
+    },
+    {
+        "english": "log",
+        "translated_version": "κούτσουρο",
+        "language": "greek",
+        "definition": "a part of the trunk or a large branch of a tree that has fallen or been cut off"
+    },
+    {
+        "english": "meant",
+        "translated_version": "εννοούσε",
+        "language": "greek",
+        "definition": "past tense of mean"
+    },
+    {
+        "english": "quotient",
+        "translated_version": "πηλίκο",
+        "language": "greek",
+        "definition": "the result of division"
+    },
+    {
+        "english": "teeth",
+        "translated_version": "δόντια",
+        "language": "greek",
+        "definition": "bones in the mouth used for eating"
+    },
+    {
+        "english": "shell",
+        "translated_version": "κέλυφος",
+        "language": "greek",
+        "definition": "a hard outer surface of a creature used for its defence"
+    },
+    {
+        "english": "neck",
+        "translated_version": "λαιμός",
+        "language": "greek",
+        "definition": "the part of the body which connects the head to the abdomen"
+    },
+    {
+        "english": "oxygen",
+        "translated_version": "οξυγόνο",
+        "language": "greek",
+        "definition": "the life-supporting component of air"
+    },
+    {
+        "english": "sugar",
+        "translated_version": "ζάχαρη",
+        "language": "greek",
+        "definition": "a sweet granular substance used in desserts"
+    },
+    {
+        "english": "death",
+        "translated_version": "θάνατος",
+        "language": "greek",
+        "definition": "the end of the life of a person or organism"
+    },
+    {
+        "english": "pretty",
+        "translated_version": "αρκετά",
+        "language": "greek",
+        "definition": "to a moderately high degree"
+    },
+    {
+        "english": "skill",
+        "translated_version": "επιδεξιότητα",
+        "language": "greek",
+        "definition": "ability"
+    },
+    {
+        "english": "women",
+        "translated_version": "γυναίκες",
+        "language": "greek",
+        "definition": "plural of woman"
+    },
+    {
+        "english": "season",
+        "translated_version": "εποχή",
+        "language": "greek",
+        "definition": "a time of year denoted by specific weather patterns"
+    },
+    {
+        "english": "solution",
+        "translated_version": "λύση",
+        "language": "greek",
+        "definition": "a liquid mixture in which the minor component is uniformly distributed within the major component"
+    },
+    {
+        "english": "magnet",
+        "translated_version": "μαγνήτης",
+        "language": "greek",
+        "definition": "a piece of iron that has its component atoms so ordered that the material attracts other iron-containing objects"
+    },
+    {
+        "english": "silver",
+        "translated_version": "ασήμι",
+        "language": "greek",
+        "definition": "a precious metal that is shiny and grayish-white"
+    },
+    {
+        "english": "thank",
+        "translated_version": "ευχαριστώ",
+        "language": "greek",
+        "definition": "to express gratefulness for something; said in receipt to an action for which one is grateful"
+    },
+    {
+        "english": "branch",
+        "translated_version": "κλαδί",
+        "language": "greek",
+        "definition": "an appendage of a tree or shrub"
+    },
+    {
+        "english": "match",
+        "translated_version": "αγώνας",
+        "language": "greek",
+        "definition": "a contest in which people or teams compete against each other in a particular sport"
+    },
+    {
+        "english": "suffix",
+        "translated_version": "κατάληξη",
+        "language": "greek",
+        "definition": "a particle appended to the end of a word"
+    },
+    {
+        "english": "especially",
+        "translated_version": "ειδικά",
+        "language": "greek",
+        "definition": "used to single out one thing over all others"
+    },
+    {
+        "english": "fig",
+        "translated_version": "Σύκο",
+        "language": "greek",
+        "definition": "a soft pear-shaped fruit with sweet flesh and many small seeds that is often eaten dried"
+    },
+    {
+        "english": "afraid",
+        "translated_version": "φοβισμένος",
+        "language": "greek",
+        "definition": "to be in fear of something"
+    },
+    {
+        "english": "huge",
+        "translated_version": "τεράστιος",
+        "language": "greek",
+        "definition": "of great size or magnitude"
+    },
+    {
+        "english": "sister",
+        "translated_version": "αδελφή",
+        "language": "greek",
+        "definition": "the daughter of a son's parents"
+    },
+    {
+        "english": "steel",
+        "translated_version": "ατσάλι",
+        "language": "greek",
+        "definition": "a hard and strong alloy of iron with carbon"
+    },
+    {
+        "english": "discuss",
+        "translated_version": "συζητώ",
+        "language": "greek",
+        "definition": "to speak to another about a particular subject"
+    },
+    {
+        "english": "forward",
+        "translated_version": "προς τα εμπρός",
+        "language": "greek",
+        "definition": "toward the front"
+    },
+    {
+        "english": "similar",
+        "translated_version": "παρόμοιος",
+        "language": "greek",
+        "definition": "resembling without necessarily being identical to"
+    },
+    {
+        "english": "guide",
+        "translated_version": "οδηγός",
+        "language": "greek",
+        "definition": "a person who advises or shows the way to others"
+    },
+    {
+        "english": "experience",
+        "translated_version": "εμπειρία",
+        "language": "greek",
+        "definition": "practical contact with and observation of facts or events"
+    },
+    {
+        "english": "score",
+        "translated_version": "σκορ",
+        "language": "greek",
+        "definition": "a count of achievement in a competition or on a test"
+    },
+    {
+        "english": "apple",
+        "translated_version": "μήλο",
+        "language": "greek",
+        "definition": "a red or green fleshy fruit that is often sweet or sour and which grows on a tree"
+    },
+    {
+        "english": "bought",
+        "translated_version": "αγορασμένος",
+        "language": "greek",
+        "definition": "past tense of buy"
+    },
+    {
+        "english": "led",
+        "translated_version": "οδήγησε",
+        "language": "greek",
+        "definition": "past tense of leads"
+    },
+    {
+        "english": "pitch",
+        "translated_version": "πίσσα",
+        "language": "greek",
+        "definition": "a sticky resinous substance that is semiliquid when hot and that is a tar or petroleum distillate"
+    },
+    {
+        "english": "coat",
+        "translated_version": "παλτό",
+        "language": "greek",
+        "definition": "an article of clothing typically worn over other articles and which is used to keep one warm"
+    },
+    {
+        "english": "mass",
+        "translated_version": "μάζα",
+        "language": "greek",
+        "definition": "the quantity of matter in an object"
+    },
+    {
+        "english": "card",
+        "translated_version": "κάρτα",
+        "language": "greek",
+        "definition": "a small piece of paper that is sent via post to another person or given to another person on a special occasion"
+    },
+    {
+        "english": "band",
+        "translated_version": "ζώνη",
+        "language": "greek",
+        "definition": "a thin strip of material put around something to hold it together or decorate it"
+    },
+    {
+        "english": "rope",
+        "translated_version": "σκοινί",
+        "language": "greek",
+        "definition": "a strong length of braided string or fiber"
+    },
+    {
+        "english": "slip",
+        "translated_version": "γλιστράω",
+        "language": "greek",
+        "definition": "slide unintentionally for a short distance"
+    },
+    {
+        "english": "win",
+        "translated_version": "νίκη",
+        "language": "greek",
+        "definition": "to be successful or victorious"
+    },
+    {
+        "english": "dream",
+        "translated_version": "όνειρο",
+        "language": "greek",
+        "definition": "a series of thoughts or images occurring in a something's mind during sleep"
+    },
+    {
+        "english": "evening",
+        "translated_version": "απόγευμα",
+        "language": "greek",
+        "definition": "the time of day before night and after afternoon"
+    },
+    {
+        "english": "condition",
+        "translated_version": "κατάσταση",
+        "language": "greek",
+        "definition": "the state of something"
+    },
+    {
+        "english": "feed",
+        "translated_version": "ταίζω",
+        "language": "greek",
+        "definition": "to provide sustenance with food"
+    },
+    {
+        "english": "tool",
+        "translated_version": "εργαλείο",
+        "language": "greek",
+        "definition": "an implement used to create or destroy something"
+    },
+    {
+        "english": "total",
+        "translated_version": "σύνολο",
+        "language": "greek",
+        "definition": "comprising the whole number or amount"
+    },
+    {
+        "english": "basic",
+        "translated_version": "βασικός",
+        "language": "greek",
+        "definition": "having only the necessary qualities for approval"
+    },
+    {
+        "english": "smell",
+        "translated_version": "μυρωδιά",
+        "language": "greek",
+        "definition": "the phenomenon sensed with one's nose; the odor which something exudes"
+    },
+    {
+        "english": "valley",
+        "translated_version": "κοιλάδα",
+        "language": "greek",
+        "definition": "the area between two mountains or ranges that is typically lower in height"
+    },
+    {
+        "english": "nor",
+        "translated_version": "ούτε",
+        "language": "greek",
+        "definition": "used negatively before the second or further of two or more alternatives"
+    },
+    {
+        "english": "double",
+        "translated_version": "διπλό",
+        "language": "greek",
+        "definition": "consisting of two equal parts or things"
+    },
+    {
+        "english": "seat",
+        "translated_version": "έδρα",
+        "language": "greek",
+        "definition": "a place where one can sit"
+    },
+    {
+        "english": "continue",
+        "translated_version": "συνεχίσει",
+        "language": "greek",
+        "definition": "persist in activity or process"
+    },
+    {
+        "english": "block",
+        "translated_version": "ΟΙΚΟΔΟΜΙΚΟ ΤΕΤΡΑΓΩΝΟ",
+        "language": "greek",
+        "definition": "a solid mass with flat surfaces on each side"
+    },
+    {
+        "english": "chart",
+        "translated_version": "διάγραμμα",
+        "language": "greek",
+        "definition": "a sheet of information in the form of a diagram"
+    },
+    {
+        "english": "hat",
+        "translated_version": "καπέλο",
+        "language": "greek",
+        "definition": "an article of clothing worn on the head"
+    },
+    {
+        "english": "sell",
+        "translated_version": "Πουλώ",
+        "language": "greek",
+        "definition": "to trade a good or service for currency"
+    },
+    {
+        "english": "success",
+        "translated_version": "επιτυχία",
+        "language": "greek",
+        "definition": "the accomplishment of an aim or purpose"
+    },
+    {
+        "english": "company",
+        "translated_version": "Εταιρία",
+        "language": "greek",
+        "definition": "a group of people coming together for a common cause especially when referring to a business"
+    },
+    {
+        "english": "subtract",
+        "translated_version": "αφαιρώ",
+        "language": "greek",
+        "definition": "to remove a portion of a whole"
+    },
+    {
+        "english": "event",
+        "translated_version": "Εκδήλωση",
+        "language": "greek",
+        "definition": "a thing that happens which is of importance"
+    },
+    {
+        "english": "particular",
+        "translated_version": "ιδιαιτερος",
+        "language": "greek",
+        "definition": "used to single out an individual member of a specified group or class"
+    },
+    {
+        "english": "deal",
+        "translated_version": "συμφωνία",
+        "language": "greek",
+        "definition": "an agreement entered into by two or more parties for their mutual benefit"
+    },
+    {
+        "english": "swim",
+        "translated_version": "ζάλη",
+        "language": "greek",
+        "definition": "to travel through water using one's appendages"
+    },
+    {
+        "english": "term",
+        "translated_version": "όρος",
+        "language": "greek",
+        "definition": "a word or phrase used to describe a thing or to express a concept"
+    },
+    {
+        "english": "opposite",
+        "translated_version": "απεναντι",
+        "language": "greek",
+        "definition": "having a position on the other or futher side of something"
+    },
+    {
+        "english": "wife",
+        "translated_version": "γυναίκα",
+        "language": "greek",
+        "definition": "a married woman with respect to her spouse"
+    },
+    {
+        "english": "shoe",
+        "translated_version": "παπούτσι",
+        "language": "greek",
+        "definition": "an article of clothing worn on the foot generally over a sock"
+    },
+    {
+        "english": "shoulder",
+        "translated_version": "ώμος",
+        "language": "greek",
+        "definition": "the part of the body where the arm connects to the abdomen"
+    },
+    {
+        "english": "spread",
+        "translated_version": "εξάπλωση",
+        "language": "greek",
+        "definition": "extend over a large or increasing area"
+    },
+    {
+        "english": "arrange",
+        "translated_version": "κανονίζω",
+        "language": "greek",
+        "definition": "position things in a particular way"
+    },
+    {
+        "english": "camp",
+        "translated_version": "κατασκήνωση",
+        "language": "greek",
+        "definition": "a place with temporary accommodations of huts or tents"
+    },
+    {
+        "english": "invent",
+        "translated_version": "εφευρίσκω",
+        "language": "greek",
+        "definition": "to think of an original idea"
+    },
+    {
+        "english": "cotton",
+        "translated_version": "βαμβάκι",
+        "language": "greek",
+        "definition": "a fibrous textile made of the spun fruit of a plant"
+    },
+    {
+        "english": "born",
+        "translated_version": "γεννημένος",
+        "language": "greek",
+        "definition": "to have been introduced to the world as an infant"
+    },
+    {
+        "english": "determine",
+        "translated_version": "καθορίσει",
+        "language": "greek",
+        "definition": "ascertain or establish exactly"
+    },
+    {
+        "english": "quart",
+        "translated_version": "τέταρτο γαλονιού",
+        "language": "greek",
+        "definition": "an amount of liquid equal to two pints"
+    },
+    {
+        "english": "nine",
+        "translated_version": "εννέα",
+        "language": "greek",
+        "definition": "one more than eight"
+    },
+    {
+        "english": "truck",
+        "translated_version": "φορτηγό",
+        "language": "greek",
+        "definition": "an automobile which typically has only two seats and a bed toward the rear used for storage"
+    },
+    {
+        "english": "noise",
+        "translated_version": "θόρυβος",
+        "language": "greek",
+        "definition": "a distinct sound"
+    },
+    {
+        "english": "level",
+        "translated_version": "επίπεδο",
+        "language": "greek",
+        "definition": "having a flat and even surface without slopes or bumps; flat"
+    },
+    {
+        "english": "chance",
+        "translated_version": "ευκαιρία",
+        "language": "greek",
+        "definition": "a possibility of something happening"
+    },
+    {
+        "english": "gather",
+        "translated_version": "μαζεύω",
+        "language": "greek",
+        "definition": "to come together in a specific place"
+    },
+    {
+        "english": "shop",
+        "translated_version": "κατάστημα",
+        "language": "greek",
+        "definition": "a building where goods or services are sold"
+    },
+    {
+        "english": "stretch",
+        "translated_version": "τέντωμα",
+        "language": "greek",
+        "definition": "be made longer or wider without tearing or breaking"
+    },
+    {
+        "english": "throw",
+        "translated_version": "βολή",
+        "language": "greek",
+        "definition": "propel something with force through the air by a movement of the arm"
+    },
+    {
+        "english": "shine",
+        "translated_version": "λάμψη",
+        "language": "greek",
+        "definition": "to give off light"
+    },
+    {
+        "english": "property",
+        "translated_version": "ιδιοκτησία",
+        "language": "greek",
+        "definition": "a thing or things belonging to someone"
+    },
+    {
+        "english": "column",
+        "translated_version": "στήλη",
+        "language": "greek",
+        "definition": "an upright pillar"
+    },
+    {
+        "english": "molecule",
+        "translated_version": "μόριο",
+        "language": "greek",
+        "definition": "a collection of atoms that are bound together by elementary physical forces to form a new substance"
+    },
+    {
+        "english": "select",
+        "translated_version": "επιλέγω",
+        "language": "greek",
+        "definition": "carefully choose as being the best or most suitable"
+    },
+    {
+        "english": "wrong",
+        "translated_version": "λανθασμένος",
+        "language": "greek",
+        "definition": "incorrect"
+    },
+    {
+        "english": "gray",
+        "translated_version": "γκρί",
+        "language": "greek",
+        "definition": "the color of the sky on a cloudy day and the color of wolves"
+    },
+    {
+        "english": "repeat",
+        "translated_version": "επαναλαμβάνω",
+        "language": "greek",
+        "definition": "to do something again"
+    },
+    {
+        "english": "require",
+        "translated_version": "απαιτώ",
+        "language": "greek",
+        "definition": "need for a particular purpose"
+    },
+    {
+        "english": "broad",
+        "translated_version": "ευρύς",
+        "language": "greek",
+        "definition": "having ample distance from side to side"
+    },
+    {
+        "english": "prepare",
+        "translated_version": "προετοιμάζω",
+        "language": "greek",
+        "definition": "make something ready for use or consideration"
+    },
+    {
+        "english": "salt",
+        "translated_version": "άλας",
+        "language": "greek",
+        "definition": "a white substance that gives seawater its taste and is used for seasoning or preserving food"
+    },
+    {
+        "english": "nose",
+        "translated_version": "μύτη",
+        "language": "greek",
+        "definition": "the part projecting above the mouth on the face of a person or animal"
+    },
+    {
+        "english": "plural",
+        "translated_version": "πληθυντικός",
+        "language": "greek",
+        "definition": "denoting more than one"
+    },
+    {
+        "english": "anger",
+        "translated_version": "θυμός",
+        "language": "greek",
+        "definition": "a strong feeling of annoyance or hostility"
+    },
+    {
+        "english": "claim",
+        "translated_version": "απαίτηση",
+        "language": "greek",
+        "definition": "an assertion of the truth of something"
+    },
+    {
+        "english": "continent",
+        "translated_version": "Ήπειρος",
+        "language": "greek",
+        "definition": "any of the world's main continuous expanses of land"
+    }
+]
